@@ -10,7 +10,7 @@ import json
 
 @dataclass
 class DataScrapingConfig:
-    data_path: str = os.path.join('data', "movies.csv")
+    data_path: str = os.path.join(os.getcwd(), "data/movies.csv")
 
 
 class DataScraping:
