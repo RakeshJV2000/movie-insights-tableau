@@ -1,26 +1,1001 @@
-,id,name,rating,gross,year,runtime,certification
-0,1,Avatar,7.9,"Worldwide Lifetime Gross: $2,923,706,026",2009,2h 42m,UA
-1,2,Avengers: Endgame,8.4,"Worldwide Lifetime Gross: $2,799,439,100",2019,3h 1m,UA
-2,3,Avatar: The Way of Water,7.5,"Worldwide Lifetime Gross: $2,320,250,281",2022,3h 12m,UA
-3,4,Titanic,7.9,"Worldwide Lifetime Gross: $2,264,750,694",1997,3h 14m,UA
-4,5,Star Wars: The Force Awakens,7.8,"Worldwide Lifetime Gross: $2,071,310,218",2015,2h 18m,U
-5,6,Avengers: Infinity War,8.4,"Worldwide Lifetime Gross: $2,052,415,039",2018,2h 29m,UA
-6,7,Spider-Man: No Way Home,8.2,"Worldwide Lifetime Gross: $1,922,598,800",2021,2h 28m,UA
-7,8,Jurassic World,6.9,"Worldwide Lifetime Gross: $1,671,537,444",2015,2h 4m,UA
-8,9,The Lion King,6.8,"Worldwide Lifetime Gross: $1,663,079,059",2019,1h 58m,U
-9,10,The Avengers,8.0,"Worldwide Lifetime Gross: $1,520,538,536",2012,2h 23m,UA
-10,11,Fast & Furious 7,7.1,"Worldwide Lifetime Gross: $1,515,342,457",2015,2h 17m,A
-11,12,Top Gun: Maverick,8.2,"Worldwide Lifetime Gross: $1,495,696,292",2022,2h 10m,UA
-12,13,Frozen 2,6.8,"Worldwide Lifetime Gross: $1,453,683,476",2019,1h 43m,U
-13,14,Barbie,6.8,"Worldwide Lifetime Gross: $1,445,638,421",2023,1h 54m,UA
-14,15,Avengers: Age of Ultron,7.3,"Worldwide Lifetime Gross: $1,405,018,048",2015,2h 21m,UA
-15,16,The Super Mario Bros. Movie,7.0,"Worldwide Lifetime Gross: $1,361,992,475",2023,1h 32m,U
-16,17,Inside Out 2,7.8,"Worldwide Lifetime Gross: $1,350,092,077",2024,1h 36m,Not Rated
-17,18,Black Panther,7.3,"Worldwide Lifetime Gross: $1,349,926,083",2018,2h 14m,UA
-18,19,Harry Potter and the Deathly Hallows: Part 2,8.1,"Worldwide Lifetime Gross: $1,342,480,797",2011,2h 10m,UA
-19,20,Star Wars: The Last Jedi,6.9,"Worldwide Lifetime Gross: $1,334,407,706",2017,2h 32m,UA
-20,21,Jurassic World: Fallen Kingdom,6.1,"Worldwide Lifetime Gross: $1,310,469,037",2018,2h 8m,UA
-21,22,Frozen,7.4,"Worldwide Lifetime Gross: $1,285,048,126",2013,1h 42m,U
-22,23,Beauty and the Beast,7.1,"Worldwide Lifetime Gross: $1,266,115,964",2017,2h 9m,UA
-23,24,Incredibles 2,7.5,"Worldwide Lifetime Gross: $1,243,225,667",2018,1h 58m,UA
-24,25,The Fate of the Furious,6.6,"Worldwide Lifetime Gross: $1,236,009,236",2017,2h 16m,UA
+,id,Description,Title,rating,runtime-mins,Year,Genres,release-date,Directors
+0,1,"Worldwide Lifetime Gross: $2,923,706,026",Avatar,7.9,162,2009,"Action, Adventure, Fantasy, Sci-Fi",2009-12-18,James Cameron
+1,2,"Worldwide Lifetime Gross: $2,799,439,100",Avengers: Endgame,8.4,181,2019,"Action, Adventure, Drama, Sci-Fi",2019-04-26,"Anthony Russo, Joe Russo"
+2,3,"Worldwide Lifetime Gross: $2,320,250,281",Avatar: The Way of Water,7.5,192,2022,"Action, Adventure, Fantasy, Sci-Fi",2022-12-16,James Cameron
+3,4,"Worldwide Lifetime Gross: $2,264,750,694",Titanic,7.9,194,1997,"Drama, Romance",1997-12-19,James Cameron
+4,5,"Worldwide Lifetime Gross: $2,071,310,218",Star Wars: Episode VII - The Force Awakens,7.8,138,2015,"Action, Adventure, Sci-Fi",2015-12-18,J.J. Abrams
+5,6,"Worldwide Lifetime Gross: $2,052,415,039",Avengers: Infinity War,8.4,149,2018,"Action, Adventure, Sci-Fi",2018-04-27,"Anthony Russo, Joe Russo"
+6,7,"Worldwide Lifetime Gross: $1,922,598,800",Spider-Man: No Way Home,8.2,148,2021,"Action, Adventure, Fantasy, Sci-Fi",2021-12-17,Jon Watts
+7,8,"Worldwide Lifetime Gross: $1,671,537,444",Jurassic World,6.9,124,2015,"Action, Adventure, Sci-Fi",2015-06-12,Colin Trevorrow
+8,9,"Worldwide Lifetime Gross: $1,663,079,059",The Lion King,6.8,118,2019,"Animation, Adventure, Drama, Family, Fantasy, Musical",2019-07-19,Jon Favreau
+9,10,"Worldwide Lifetime Gross: $1,520,538,536",The Avengers,8.0,143,2012,"Action, Sci-Fi",2012-05-04,Joss Whedon
+10,11,"Worldwide Lifetime Gross: $1,515,342,457",Furious 7,7.1,137,2015,"Action, Crime, Thriller",2015-04-03,James Wan
+11,12,"Worldwide Lifetime Gross: $1,495,696,292",Top Gun: Maverick,8.2,130,2022,"Action, Drama",2022-05-27,Joseph Kosinski
+12,13,"Worldwide Lifetime Gross: $1,453,683,476",Frozen II,6.8,103,2019,"Animation, Adventure, Comedy, Drama, Family, Fantasy, Musical",2019-11-22,"Chris Buck, Jennifer Lee"
+13,14,"Worldwide Lifetime Gross: $1,445,638,421",Barbie,6.8,114,2023,"Adventure, Comedy, Fantasy",2023-07-21,Greta Gerwig
+14,15,"Worldwide Lifetime Gross: $1,405,018,048",Avengers: Age of Ultron,7.3,141,2015,"Action, Adventure, Sci-Fi",2015-05-01,Joss Whedon
+15,16,"Worldwide Lifetime Gross: $1,361,992,475",The Super Mario Bros. Movie,7.0,92,2023,"Animation, Adventure, Comedy, Family, Fantasy",2023-04-05,"Aaron Horvath, Michael Jelenic, Pierre Leduc, Fabien Polack"
+16,17,"Worldwide Lifetime Gross: $1,350,092,077",Inside Out 2,7.8,96,2024,"Animation, Adventure, Comedy, Drama, Family, Fantasy",2024-06-14,Kelsey Mann
+17,18,"Worldwide Lifetime Gross: $1,349,926,083",Black Panther,7.3,134,2018,"Action, Adventure, Sci-Fi",2018-02-16,Ryan Coogler
+18,19,"Worldwide Lifetime Gross: $1,342,480,797",Harry Potter and the Deathly Hallows: Part 2,8.1,130,2011,"Adventure, Family, Fantasy, Mystery",2011-07-15,David Yates
+19,20,"Worldwide Lifetime Gross: $1,334,407,706",Star Wars: Episode VIII - The Last Jedi,6.9,152,2017,"Action, Adventure, Fantasy, Sci-Fi",2017-12-15,Rian Johnson
+20,21,"Worldwide Lifetime Gross: $1,310,469,037",Jurassic World: Fallen Kingdom,6.1,128,2018,"Action, Adventure, Sci-Fi",2018-06-22,J.A. Bayona
+21,22,"Worldwide Lifetime Gross: $1,285,048,126",Frozen,7.4,102,2013,"Animation, Adventure, Comedy, Family, Fantasy, Musical",2013-11-27,"Chris Buck, Jennifer Lee"
+22,23,"Worldwide Lifetime Gross: $1,266,115,964",Beauty and the Beast,7.1,129,2017,"Adventure, Family, Fantasy, Musical, Romance",2017-03-17,Bill Condon
+23,24,"Worldwide Lifetime Gross: $1,243,225,667",Incredibles 2,7.5,118,2018,"Animation, Action, Adventure, Comedy, Family, Sci-Fi",2018-06-15,Brad Bird
+24,25,"Worldwide Lifetime Gross: $1,236,009,236",The Fate of the Furious,6.6,136,2017,"Action, Crime, Thriller",2017-04-14,F. Gary Gray
+25,26,"Worldwide Lifetime Gross: $1,215,577,205",Iron Man 3,7.1,130,2013,"Action, Adventure, Sci-Fi",2013-05-03,Shane Black
+26,27,"Worldwide Lifetime Gross: $1,159,457,503",Minions,6.4,91,2015,"Animation, Adventure, Comedy, Crime, Family, Sci-Fi",2015-07-10,"Kyle Balda, Pierre Coffin"
+27,28,"Worldwide Lifetime Gross: $1,155,046,416",Captain America: Civil War,7.8,147,2016,"Action, Sci-Fi",2016-05-06,"Anthony Russo, Joe Russo"
+28,29,"Worldwide Lifetime Gross: $1,152,028,393",Aquaman,6.8,143,2018,"Action, Adventure, Fantasy, Sci-Fi",2018-12-21,James Wan
+29,30,"Worldwide Lifetime Gross: $1,151,462,071",The Lord of the Rings: The Return of the King,9.0,201,2003,"Action, Adventure, Drama, Fantasy",2003-12-17,Peter Jackson
+30,31,"Worldwide Lifetime Gross: $1,132,679,685",Spider-Man: Far from Home,7.4,129,2019,"Action, Adventure, Comedy, Fantasy, Sci-Fi",2019-07-02,Jon Watts
+31,32,"Worldwide Lifetime Gross: $1,131,416,446",Captain Marvel,6.8,123,2019,"Action, Adventure, Sci-Fi",2019-03-08,"Anna Boden, Ryan Fleck"
+32,33,"Worldwide Lifetime Gross: $1,123,794,079",Transformers: Dark of the Moon,6.2,154,2011,"Action, Adventure, Sci-Fi",2011-06-29,Michael Bay
+33,34,"Worldwide Lifetime Gross: $1,108,594,137",Skyfall,7.8,143,2012,"Action, Adventure, Thriller",2012-11-09,Sam Mendes
+34,35,"Worldwide Lifetime Gross: $1,104,054,072",Transformers: Age of Extinction,5.6,165,2014,"Action, Adventure, Sci-Fi",2014-06-27,Michael Bay
+35,36,"Worldwide Lifetime Gross: $1,103,086,582",Jurassic Park,8.2,127,1993,"Action, Adventure, Sci-Fi, Thriller",1993-06-11,Steven Spielberg
+36,37,"Worldwide Lifetime Gross: $1,085,289,416",The Dark Knight Rises,8.4,164,2012,"Action, Drama, Thriller",2012-07-20,Christopher Nolan
+37,38,"Worldwide Lifetime Gross: $1,078,958,629",Joker,8.4,122,2019,"Crime, Drama, Thriller",2019-10-04,Todd Phillips
+38,39,"Worldwide Lifetime Gross: $1,077,022,372",Star Wars: Episode IX - The Rise of Skywalker,6.4,141,2019,"Action, Adventure, Fantasy, Sci-Fi",2019-12-20,J.J. Abrams
+39,40,"Worldwide Lifetime Gross: $1,073,841,394",Toy Story 4,7.7,100,2019,"Animation, Adventure, Comedy, Family, Fantasy",2019-06-21,Josh Cooley
+40,41,"Worldwide Lifetime Gross: $1,067,316,101",Toy Story 3,8.3,103,2010,"Animation, Adventure, Comedy, Family, Fantasy",2010-06-29,Lee Unkrich
+41,42,"Worldwide Lifetime Gross: $1,066,179,747",Pirates of the Caribbean: Dead Man's Chest,7.4,151,2006,"Action, Adventure, Fantasy",2006-07-07,Gore Verbinski
+42,43,"Worldwide Lifetime Gross: $1,058,684,742",Rogue One: A Star Wars Story,7.8,133,2016,"Action, Adventure, Sci-Fi",2016-12-16,Gareth Edwards
+43,44,"Worldwide Lifetime Gross: $1,054,304,000",Aladdin,6.9,128,2019,"Adventure, Comedy, Family, Fantasy, Musical, Romance",2019-05-24,Guy Ritchie
+44,45,"Worldwide Lifetime Gross: $1,046,721,266",Pirates of the Caribbean: On Stranger Tides,6.6,136,2011,"Action, Adventure, Fantasy",2011-05-20,Rob Marshall
+45,46,"Worldwide Lifetime Gross: $1,046,515,409",Star Wars: Episode I - The Phantom Menace,6.5,136,1999,"Action, Adventure, Fantasy, Sci-Fi",1999-05-19,George Lucas
+46,47,"Worldwide Lifetime Gross: $1,037,913,579",Harry Potter and the Sorcerer's Stone,7.6,152,2001,"Adventure, Family, Fantasy",2001-11-16,Chris Columbus
+47,48,"Worldwide Lifetime Gross: $1,034,800,131",Despicable Me 3,6.2,89,2017,"Animation, Adventure, Comedy, Crime, Family, Sci-Fi",2017-06-30,"Kyle Balda, Pierre Coffin, Eric Guillon"
+48,49,"Worldwide Lifetime Gross: $1,029,266,989",Finding Dory,7.2,97,2016,"Animation, Adventure, Comedy, Family, Fantasy",2016-06-17,"Andrew Stanton, Angus MacLane"
+49,50,"Worldwide Lifetime Gross: $1,025,521,689",Zootopia,8.0,108,2016,"Animation, Action, Adventure, Comedy, Crime, Family, Mystery",2016-03-04,"Byron Howard, Rich Moore, Jared Bush"
+50,51,"Worldwide Lifetime Gross: $1,025,468,216",Alice in Wonderland,6.4,108,2010,"Adventure, Family, Fantasy, Mystery",2010-03-05,Tim Burton
+51,52,"Worldwide Lifetime Gross: $1,017,106,749",The Hobbit: An Unexpected Journey,7.8,169,2012,"Adventure, Fantasy",2012-12-14,Peter Jackson
+52,53,"Worldwide Lifetime Gross: $1,008,524,647",The Dark Knight,9.0,152,2008,"Action, Crime, Drama, Thriller",2008-07-18,Christopher Nolan
+53,54,"Worldwide Lifetime Gross: $1,001,978,080",Jurassic World Dominion,5.6,147,2022,"Action, Adventure, Sci-Fi, Thriller",2022-06-10,Colin Trevorrow
+54,55,"Worldwide Lifetime Gross: $977,926,709",The Lion King,8.5,88,1994,"Animation, Adventure, Drama, Family, Fantasy, Musical",1994-06-24,"Roger Allers, Rob Minkoff"
+55,56,"Worldwide Lifetime Gross: $975,227,046",Oppenheimer,8.3,180,2023,"Biography, Drama, History",2023-07-21,Christopher Nolan
+56,57,"Worldwide Lifetime Gross: $970,766,005",Despicable Me 2,7.3,98,2013,"Animation, Adventure, Comedy, Crime, Family, Sci-Fi",2013-07-03,"Pierre Coffin, Chris Renaud"
+57,58,"Worldwide Lifetime Gross: $967,724,775",The Jungle Book,7.4,106,2016,"Animation, Action, Adventure, Drama, Family, Fantasy, Musical",2016-04-15,Jon Favreau
+58,59,"Worldwide Lifetime Gross: $962,544,585",Jumanji: Welcome to the Jungle,7.0,119,2017,"Action, Adventure, Comedy, Fantasy",2017-12-20,Jake Kasdan
+59,60,"Worldwide Lifetime Gross: $962,253,946",The Hobbit: The Battle of the Five Armies,7.4,144,2014,"Adventure, Fantasy",2014-12-17,Peter Jackson
+60,61,"Worldwide Lifetime Gross: $961,691,209",Pirates of the Caribbean: At World's End,7.1,169,2007,"Action, Adventure, Fantasy",2007-05-25,Gore Verbinski
+61,62,"Worldwide Lifetime Gross: $960,897,696",Harry Potter and the Deathly Hallows: Part 1,7.7,146,2010,"Adventure, Family, Fantasy, Mystery",2010-11-19,David Yates
+62,63,"Worldwide Lifetime Gross: $959,079,095",The Hobbit: The Desolation of Smaug,7.8,161,2013,"Adventure, Drama, Fantasy",2013-12-13,Peter Jackson
+63,64,"Worldwide Lifetime Gross: $955,775,804",Doctor Strange in the Multiverse of Madness,6.9,126,2022,"Action, Adventure, Fantasy, Sci-Fi",2022-05-06,Sam Raimi
+64,65,"Worldwide Lifetime Gross: $951,550,637",The Lord of the Rings: The Two Towers,8.8,179,2002,"Action, Adventure, Drama, Fantasy",2002-12-18,Peter Jackson
+65,66,"Worldwide Lifetime Gross: $942,603,391",Harry Potter and the Order of the Phoenix,7.5,138,2007,"Action, Adventure, Family, Fantasy, Mystery",2007-07-11,David Yates
+66,67,"Worldwide Lifetime Gross: $941,637,960",Finding Nemo,8.2,100,2003,"Animation, Adventure, Comedy, Family",2003-05-30,"Andrew Stanton, Lee Unkrich"
+67,68,"Worldwide Lifetime Gross: $940,203,765",Minions: The Rise of Gru,6.5,87,2022,"Animation, Adventure, Comedy, Crime, Family, Sci-Fi",2022-07-01,"Kyle Balda, Brad Ableson, Jonathan del Val"
+68,69,"Worldwide Lifetime Gross: $934,866,401",Harry Potter and the Half-Blood Prince,7.6,153,2009,"Action, Adventure, Family, Fantasy, Mystery",2009-07-15,David Yates
+69,70,"Worldwide Lifetime Gross: $932,396,221",Shrek 2,7.3,93,2004,"Animation, Adventure, Comedy, Family, Fantasy, Romance",2004-05-21,"Andrew Adamson, Kelly Asbury, Conrad Vernon"
+70,71,"Worldwide Lifetime Gross: $910,813,521",Bohemian Rhapsody,7.9,134,2018,"Biography, Drama, Music",2018-11-02,Bryan Singer
+71,72,"Worldwide Lifetime Gross: $902,548,476",The Battle at Lake Changjin,5.5,176,2021,"Action, Drama, History, War",2021-09-30,"Kaige Chen, Dante Lam, Hark Tsui, Jianxin Huang, Haiqiang Ning, Ju-chun Park"
+72,73,"Worldwide Lifetime Gross: $897,468,952",Harry Potter and the Goblet of Fire,7.7,157,2005,"Adventure, Family, Fantasy, Mystery",2005-11-18,Mike Newell
+73,74,"Worldwide Lifetime Gross: $895,735,062",Spider-Man 3,6.3,139,2007,"Action, Adventure, Sci-Fi",2007-05-04,Sam Raimi
+74,75,"Worldwide Lifetime Gross: $887,433,303",The Lord of the Rings: The Fellowship of the Ring,8.9,178,2001,"Action, Adventure, Drama, Fantasy",2001-12-19,Peter Jackson
+75,76,"Worldwide Lifetime Gross: $886,686,817",Ice Age: Dawn of the Dinosaurs,6.9,94,2009,"Animation, Adventure, Comedy, Family",2009-07-01,"Carlos Saldanha, Michael Thurmeier"
+76,77,"Worldwide Lifetime Gross: $882,545,232",Harry Potter and the Chamber of Secrets,7.4,161,2002,"Adventure, Family, Fantasy, Mystery",2002-11-15,Chris Columbus
+77,78,"Worldwide Lifetime Gross: $880,918,840",Spider-Man: Homecoming,7.4,133,2017,"Action, Adventure, Sci-Fi",2017-07-07,Jon Watts
+78,79,"Worldwide Lifetime Gross: $880,707,597",Spectre,6.8,148,2015,"Action, Adventure, Thriller",2015-11-06,Sam Mendes
+79,80,"Worldwide Lifetime Gross: $877,244,782",Ice Age: Continental Drift,6.5,88,2012,"Animation, Adventure, Comedy, Family",2012-07-13,"Steve Martino, Michael Thurmeier"
+80,81,"Worldwide Lifetime Gross: $875,698,161",The Secret Life of Pets,6.5,86,2016,"Animation, Adventure, Comedy, Family",2016-07-08,Chris Renaud
+81,82,"Worldwide Lifetime Gross: $874,362,803",Batman v Superman: Dawn of Justice,6.5,151,2016,"Action, Adventure, Sci-Fi",2016-03-25,Zack Snyder
+82,83,"Worldwide Lifetime Gross: $870,325,439",Wolf Warrior 2,5.9,123,2017,"Action, Adventure, Drama, Thriller, War",2017-07-27,Jing Wu
+83,84,"Worldwide Lifetime Gross: $868,390,560",Star Wars: Episode III - Revenge of the Sith,7.6,140,2005,"Action, Adventure, Fantasy, Sci-Fi",2005-05-19,George Lucas
+84,85,"Worldwide Lifetime Gross: $865,011,746",The Hunger Games: Catching Fire,7.5,146,2013,"Action, Adventure, Sci-Fi, Thriller",2013-11-22,Francis Lawrence
+85,86,"Worldwide Lifetime Gross: $863,756,903",Guardians of the Galaxy Vol. 2,7.6,136,2017,"Action, Adventure, Comedy, Sci-Fi",2017-05-05,James Gunn
+86,87,"Worldwide Lifetime Gross: $859,208,836",Black Panther: Wakanda Forever,6.7,161,2022,"Action, Adventure, Drama, Sci-Fi",2022-11-11,Ryan Coogler
+87,88,"Worldwide Lifetime Gross: $858,852,998",Inside Out,8.1,95,2015,"Animation, Adventure, Comedy, Drama, Family, Fantasy",2015-06-19,"Pete Docter, Ronnie Del Carmen"
+88,89,"Worldwide Lifetime Gross: $856,085,161",Venom,6.6,112,2018,"Action, Adventure, Sci-Fi",2018-10-05,Ruben Fleischer
+89,90,"Worldwide Lifetime Gross: $855,301,806",Thor: Ragnarok,7.9,130,2017,"Action, Adventure, Comedy, Fantasy, Sci-Fi",2017-11-03,Taika Waititi
+90,91,"Worldwide Lifetime Gross: $848,593,948",The Twilight Saga: Breaking Dawn - Part 2,5.5,115,2012,"Adventure, Drama, Fantasy, Romance",2012-11-16,Bill Condon
+91,92,"Worldwide Lifetime Gross: $845,555,777",Guardians of the Galaxy Vol. 3,7.9,150,2023,"Action, Adventure, Comedy, Sci-Fi",2023-05-05,James Gunn
+92,93,"Worldwide Lifetime Gross: $839,030,630",Inception,8.8,148,2010,"Action, Adventure, Sci-Fi, Thriller",2010-07-16,Christopher Nolan
+93,94,"Worldwide Lifetime Gross: $836,303,693",Transformers: Revenge of the Fallen,6.0,149,2009,"Action, Adventure, Sci-Fi",2009-06-24,Michael Bay
+94,95,"Worldwide Lifetime Gross: $825,776,725",Spider-Man,7.4,121,2002,"Action, Adventure, Sci-Fi",2002-05-03,Sam Raimi
+95,96,"Worldwide Lifetime Gross: $823,970,682",Wonder Woman,7.3,141,2017,"Action, Adventure, Fantasy, Sci-Fi, War",2017-06-02,Patty Jenkins
+96,97,"Worldwide Lifetime Gross: $822,009,764","Hi, Mom",6.9,128,2021,"Comedy, Drama, Fantasy",2021-02-12,Ling Jia
+97,98,"Worldwide Lifetime Gross: $817,400,891",Independence Day,7.0,145,1996,"Action, Adventure, Sci-Fi",1996-07-03,Roland Emmerich
+98,99,"Worldwide Lifetime Gross: $816,037,575",Fantastic Beasts and Where to Find Them,7.2,132,2016,"Adventure, Family, Fantasy",2016-11-18,David Yates
+99,100,"Worldwide Lifetime Gross: $814,641,172",Coco,8.4,105,2017,"Animation, Adventure, Drama, Family, Fantasy, Musical, Mystery",2017-11-22,"Lee Unkrich, Adrian Molina"
+100,101,"Worldwide Lifetime Gross: $813,367,380",Shrek the Third,6.1,93,2007,"Animation, Adventure, Comedy, Family, Fantasy, Romance",2007-05-18,"Chris Miller, Raman Hui"
+101,102,"Worldwide Lifetime Gross: $808,162,450",Harry Potter and the Prisoner of Azkaban,7.9,142,2004,"Adventure, Family, Fantasy, Mystery",2004-06-04,Alfonso Cuarón
+102,103,"Worldwide Lifetime Gross: $801,693,929",Jumanji: The Next Level,6.7,123,2019,"Action, Adventure, Comedy, Fantasy",2019-12-13,Jake Kasdan
+103,104,"Worldwide Lifetime Gross: $795,922,298",Pirates of the Caribbean: Dead Men Tell No Tales,6.5,129,2017,"Action, Adventure, Fantasy",2017-05-26,"Joachim Rønning, Espen Sandberg"
+104,105,"Worldwide Lifetime Gross: $792,910,554",E.T. the Extra-Terrestrial,7.9,115,1982,"Adventure, Family, Sci-Fi",1982-06-11,Steven Spielberg
+105,106,"Worldwide Lifetime Gross: $791,658,205",Mission: Impossible - Fallout,7.7,147,2018,"Action, Adventure, Thriller",2018-07-27,Christopher McQuarrie
+106,107,"Worldwide Lifetime Gross: $791,217,826",2012,5.8,158,2009,"Action, Adventure, Sci-Fi",2009-11-13,Roland Emmerich
+107,108,"Worldwide Lifetime Gross: $789,728,142",Spider-Man 2,7.5,127,2004,"Action, Adventure, Sci-Fi",2004-06-30,Sam Raimi
+108,109,"Worldwide Lifetime Gross: $788,683,342",Fast & Furious 6,7.0,130,2013,"Action, Crime, Thriller",2013-05-24,Justin Lin
+109,110,"Worldwide Lifetime Gross: $786,636,033",Indiana Jones and the Kingdom of the Crystal Skull,6.2,122,2008,"Action, Adventure",2008-05-22,Steven Spielberg
+110,111,"Worldwide Lifetime Gross: $785,896,632",Deadpool 2,7.6,119,2018,"Action, Adventure, Comedy, Sci-Fi",2018-05-18,David Leitch
+111,112,"Worldwide Lifetime Gross: $782,837,347",Deadpool,8.0,108,2016,"Action, Comedy",2016-02-12,Tim Miller
+112,113,"Worldwide Lifetime Gross: $775,398,507",Star Wars: Episode IV - A New Hope,8.6,121,1977,"Action, Adventure, Fantasy, Sci-Fi",1977-05-25,George Lucas
+113,114,"Worldwide Lifetime Gross: $774,153,007",No Time to Die,7.3,163,2021,"Action, Adventure, Thriller",2021-10-08,Cary Joji Fukunaga
+114,115,"Worldwide Lifetime Gross: $773,350,376",Guardians of the Galaxy,8.0,121,2014,"Action, Adventure, Comedy, Sci-Fi",2014-08-01,James Gunn
+115,116,"Worldwide Lifetime Gross: $773,031,617",Gravity,7.7,91,2013,"Drama, Sci-Fi, Thriller",2013-10-04,Alfonso Cuarón
+116,117,"Worldwide Lifetime Gross: $772,245,583",The Batman,7.8,176,2022,"Action, Crime, Drama, Mystery, Thriller",2022-03-04,Matt Reeves
+117,118,"Worldwide Lifetime Gross: $760,928,081",Thor: Love and Thunder,6.2,118,2022,"Action, Adventure, Comedy, Fantasy, Romance, Sci-Fi",2022-07-08,Taika Waititi
+118,119,"Worldwide Lifetime Gross: $760,732,926",Fast & Furious Presents: Hobbs & Shaw,6.5,137,2019,"Action, Adventure, Thriller",2019-08-02,David Leitch
+119,120,"Worldwide Lifetime Gross: $760,006,945",The Da Vinci Code,6.6,149,2006,"Mystery, Thriller",2006-05-19,Ron Howard
+120,121,"Worldwide Lifetime Gross: $759,853,685",Maleficent,6.9,97,2014,"Action, Adventure, Drama, Family, Fantasy, Romance",2014-05-30,Robert Stromberg
+121,122,"Worldwide Lifetime Gross: $759,159,711",The Hunger Games: Mockingjay - Part 1,6.6,123,2014,"Action, Adventure, Sci-Fi, Thriller",2014-11-21,Francis Lawrence
+122,123,"Worldwide Lifetime Gross: $758,682,352",The Amazing Spider-Man,6.9,136,2012,"Action, Adventure, Sci-Fi",2012-07-03,Marc Webb
+123,124,"Worldwide Lifetime Gross: $752,600,867",Shrek Forever After,6.3,93,2010,"Animation, Adventure, Comedy, Family, Fantasy, Romance",2010-06-18,Mike Mitchell
+124,125,"Worldwide Lifetime Gross: $749,200,054",Suicide Squad,5.9,123,2016,"Action, Adventure, Fantasy, Sci-Fi",2016-08-05,David Ayer
+125,126,"Worldwide Lifetime Gross: $746,921,274",Madagascar 3: Europe's Most Wanted,6.8,93,2012,"Animation, Adventure, Comedy, Family",2012-06-08,"Eric Darnell, Tom McGrath, Conrad Vernon"
+126,127,"Worldwide Lifetime Gross: $746,045,700",X-Men: Days of Future Past,7.9,132,2014,"Action, Adventure, Sci-Fi, Thriller",2014-05-23,Bryan Singer
+127,128,"Worldwide Lifetime Gross: $745,013,115","The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",6.9,143,2005,"Adventure, Family, Fantasy",2005-12-09,Andrew Adamson
+128,129,"Worldwide Lifetime Gross: $743,559,645",Monsters University,7.2,104,2013,"Animation, Adventure, Comedy, Family, Fantasy",2013-06-21,Dan Scanlon
+129,130,"Worldwide Lifetime Gross: $741,847,937",The Matrix Reloaded,7.2,138,2003,"Action, Sci-Fi",2003-05-15,"Lana Wachowski, Lilly Wachowski"
+130,131,"Worldwide Lifetime Gross: $735,102,136",Up,8.3,96,2009,"Animation, Adventure, Comedy, Drama, Family",2009-07-23,"Pete Docter, Bob Peterson"
+131,132,"Worldwide Lifetime Gross: $726,264,074",Ne Zha,7.4,110,2019,"Animation, Action, Adventure, Family, Fantasy, Thriller",2019-07-26,Yu Yang
+132,133,"Worldwide Lifetime Gross: $726,229,501",F9: The Fast Saga,5.2,143,2021,"Action, Crime, Thriller",2021-06-25,Justin Lin
+133,134,"Worldwide Lifetime Gross: $714,421,503",Captain America: The Winter Soldier,7.7,136,2014,"Action, Adventure, Sci-Fi, Thriller",2014-04-04,"Anthony Russo, Joe Russo"
+134,135,"Worldwide Lifetime Gross: $712,205,856",The Twilight Saga: Breaking Dawn - Part 1,4.9,117,2011,"Adventure, Drama, Fantasy, Romance, Thriller",2011-11-18,Bill Condon
+135,136,"Worldwide Lifetime Gross: $711,844,358",Dune: Part Two,8.5,166,2024,"Action, Adventure, Drama, Sci-Fi",2024-03-01,Denis Villeneuve
+136,137,"Worldwide Lifetime Gross: $711,048,123",The Twilight Saga: New Moon,4.8,130,2009,"Adventure, Drama, Fantasy, Romance",2009-11-20,Chris Weitz
+137,138,"Worldwide Lifetime Gross: $710,644,566",Dawn of the Planet of the Apes,7.6,130,2014,"Action, Adventure, Drama, Sci-Fi, Thriller",2014-07-11,Matt Reeves
+138,139,"Worldwide Lifetime Gross: $709,734,012",The Amazing Spider-Man 2,6.6,142,2014,"Action, Adventure, Sci-Fi",2014-05-02,Marc Webb
+139,140,"Worldwide Lifetime Gross: $709,709,780",Transformers,7.0,144,2007,"Action, Adventure, Sci-Fi",2007-07-03,Michael Bay
+140,141,"Worldwide Lifetime Gross: $705,191,242",Interstellar,8.7,169,2014,"Adventure, Drama, Sci-Fi",2014-11-07,Christopher Nolan
+141,142,"Worldwide Lifetime Gross: $704,875,015",Fast X,5.7,141,2023,"Action, Adventure, Crime, Mystery, Thriller",2023-05-19,Louis Leterrier
+142,143,"Worldwide Lifetime Gross: $704,242,888",It,7.3,135,2017,"Fantasy, Horror",2017-09-08,Andy Muschietti
+143,144,"Worldwide Lifetime Gross: $699,992,512",The Wandering Earth,5.9,125,2019,"Action, Adventure, Sci-Fi, Thriller",2019-02-05,Frant Gwo
+144,145,"Worldwide Lifetime Gross: $698,513,085",The Twilight Saga: Eclipse,5.1,124,2010,"Action, Adventure, Drama, Fantasy, Mystery, Romance, Thriller",2010-06-30,David Slade
+145,146,"Worldwide Lifetime Gross: $695,220,619",The Hunger Games,7.2,142,2012,"Action, Adventure, Sci-Fi, Thriller",2012-03-23,Gary Ross
+146,147,"Worldwide Lifetime Gross: $694,713,380",Mission: Impossible - Ghost Protocol,7.4,132,2011,"Action, Adventure, Thriller",2011-12-21,Brad Bird
+147,148,"Worldwide Lifetime Gross: $694,667,426",Mamma Mia!,6.5,108,2008,"Comedy, Musical, Romance",2008-07-18,Phyllida Lloyd
+148,149,"Worldwide Lifetime Gross: $690,897,910",Spider-Man: Across the Spider-Verse,8.6,140,2023,"Animation, Action, Adventure, Fantasy, Sci-Fi",2023-06-02,"Joaquim Dos Santos, Kemp Powers, Justin K. Thompson"
+149,150,"Worldwide Lifetime Gross: $686,257,563",Detective Chinatown 3,5.6,136,2021,"Action, Adventure, Comedy, Mystery",2021-02-12,Sicheng Chen
+150,151,"Worldwide Lifetime Gross: $682,716,636",Mission: Impossible - Rogue Nation,7.4,131,2015,"Action, Adventure, Thriller",2015-07-31,Christopher McQuarrie
+151,152,"Worldwide Lifetime Gross: $678,226,465",Forrest Gump,8.8,142,1994,"Drama, Romance",1994-07-06,Robert Zemeckis
+152,153,"Worldwide Lifetime Gross: $677,796,833",Doctor Strange,7.5,115,2016,"Action, Adventure, Fantasy, Sci-Fi",2016-11-04,Scott Derrickson
+153,154,"Worldwide Lifetime Gross: $672,806,432",The Sixth Sense,8.2,107,1999,"Drama, Mystery, Thriller",1999-08-06,M. Night Shyamalan
+154,155,"Worldwide Lifetime Gross: $670,145,518",Man of Steel,7.1,143,2013,"Action, Adventure, Sci-Fi",2013-06-14,Zack Snyder
+155,156,"Worldwide Lifetime Gross: $667,094,506",Ice Age: The Meltdown,6.8,91,2006,"Animation, Adventure, Comedy, Family",2006-03-31,Carlos Saldanha
+156,157,"Worldwide Lifetime Gross: $665,692,281",Kung Fu Panda 2,7.3,90,2011,"Animation, Action, Adventure, Comedy, Drama, Family, Fantasy",2011-05-26,Jennifer Yuh Nelson
+157,158,"Worldwide Lifetime Gross: $661,456,867",The Hunger Games: Mockingjay - Part 2,6.6,137,2015,"Action, Adventure, Sci-Fi, Thriller",2015-11-20,Francis Lawrence
+158,159,"Worldwide Lifetime Gross: $661,326,987",Justice League,6.1,120,2017,"Action, Adventure, Fantasy, Sci-Fi",2017-11-17,Zack Snyder
+159,160,"Worldwide Lifetime Gross: $657,870,525",Big Hero 6,7.8,102,2014,"Animation, Action, Adventure, Comedy, Crime, Family, Sci-Fi",2014-11-07,"Don Hall, Chris Williams"
+160,161,"Worldwide Lifetime Gross: $655,755,901",Fantastic Beasts: The Crimes of Grindelwald,6.5,134,2018,"Adventure, Family, Fantasy",2018-11-16,David Yates
+161,162,"Worldwide Lifetime Gross: $654,264,546",Pirates of the Caribbean: The Curse of the Black Pearl,8.1,143,2003,"Action, Adventure, Fantasy",2003-07-09,Gore Verbinski
+162,163,"Worldwide Lifetime Gross: $654,213,485",Men in Black³,6.8,106,2012,"Action, Adventure, Comedy, Sci-Fi",2012-05-25,Barry Sonnenfeld
+163,164,"Worldwide Lifetime Gross: $653,780,724",Star Wars: Episode II - Attack of the Clones,6.6,142,2002,"Action, Adventure, Fantasy, Sci-Fi",2002-05-16,George Lucas
+164,165,"Worldwide Lifetime Gross: $644,783,140",Thor: The Dark World,6.8,112,2013,"Action, Adventure, Fantasy",2013-11-08,Alan Taylor
+165,166,"Worldwide Lifetime Gross: $643,332,467",Moana,7.6,107,2016,"Animation, Adventure, Comedy, Family, Fantasy, Musical",2016-11-23,"Ron Clements, John Musker, Don Hall, Chris Williams"
+166,167,"Worldwide Lifetime Gross: $634,338,409",Sing,7.1,108,2016,"Animation, Comedy, Family, Musical",2016-12-21,"Garth Jennings, Christophe Lourdelet"
+167,168,"Worldwide Lifetime Gross: $632,302,312",Wonka,7.0,116,2023,"Adventure, Comedy, Family, Fantasy, Musical",2023-12-15,Paul King
+168,169,"Worldwide Lifetime Gross: $632,091,832",Kung Fu Panda,7.6,92,2008,"Animation, Action, Adventure, Comedy, Family, Fantasy",2008-06-06,"Mark Osborne, John Stevenson"
+169,170,"Worldwide Lifetime Gross: $631,688,498",The Incredibles,8.0,115,2004,"Animation, Action, Adventure, Family",2004-11-28,Brad Bird
+170,171,"Worldwide Lifetime Gross: $630,621,406",The Martian,8.0,144,2015,"Adventure, Drama, Sci-Fi",2015-10-02,Ridley Scott
+171,172,"Worldwide Lifetime Gross: $629,443,428",Hancock,6.4,92,2008,"Action, Comedy, Drama, Fantasy",2008-07-02,Peter Berg
+172,173,"Worldwide Lifetime Gross: $626,571,697",Water Gate Bridge,5.6,153,2022,"Action, Drama, History, War",2022-02-01,"Hark Tsui, Kaige Chen, Dante Lam, Jianxin Huang, Ju-chun Park"
+173,174,"Worldwide Lifetime Gross: $626,140,012",Fast Five,7.3,130,2011,"Action, Crime, Thriller",2011-04-29,Justin Lin
+174,175,"Worldwide Lifetime Gross: $623,933,331",Iron Man 2,6.9,124,2010,"Action, Sci-Fi",2010-05-07,Jon Favreau
+175,176,"Worldwide Lifetime Gross: $623,728,318",Ratatouille,8.1,111,2007,"Animation, Adventure, Comedy, Family, Fantasy",2007-06-27,"Brad Bird, Jan Pinkava"
+176,177,"Worldwide Lifetime Gross: $622,674,139",Ant-Man and the Wasp,7.0,118,2018,"Action, Adventure, Comedy, Sci-Fi",2018-07-06,Peyton Reed
+177,178,"Worldwide Lifetime Gross: $621,537,519",How to Train Your Dragon 2,7.8,102,2014,"Animation, Action, Adventure, Comedy, Family, Fantasy",2014-06-13,Dean DeBlois
+178,179,"Worldwide Lifetime Gross: $619,180,476",Logan,8.1,137,2017,"Action, Drama, Sci-Fi, Thriller",2017-03-03,James Mangold
+179,180,"Worldwide Lifetime Gross: $618,638,999",The Lost World: Jurassic Park,6.6,129,1997,"Action, Adventure, Sci-Fi",1997-05-22,Steven Spielberg
+180,181,"Worldwide Lifetime Gross: $616,577,552",Casino Royale,8.0,144,2006,"Action, Adventure, Thriller",2006-11-17,Martin Campbell
+181,182,"Worldwide Lifetime Gross: $612,060,372",The Passion of the Christ,7.2,127,2004,Drama,2004-02-25,Mel Gibson
+182,183,"Worldwide Lifetime Gross: $609,016,565",Life of Pi,7.9,127,2012,"Adventure, Drama, Fantasy",2012-11-21,Ang Lee
+183,184,"Worldwide Lifetime Gross: $607,874,422",Ready Player One,7.4,140,2018,"Action, Adventure, Sci-Fi",2018-03-29,Steven Spielberg
+184,185,"Worldwide Lifetime Gross: $605,425,157",Transformers: The Last Knight,5.2,154,2017,"Action, Adventure, Sci-Fi",2017-06-21,Michael Bay
+185,186,"Worldwide Lifetime Gross: $603,900,354",Madagascar: Escape 2 Africa,6.6,89,2008,"Animation, Adventure, Comedy, Family",2008-11-07,"Eric Darnell, Tom McGrath"
+186,187,"Worldwide Lifetime Gross: $603,873,504",War of the Worlds,6.5,116,2005,"Action, Adventure, Sci-Fi",2005-06-29,Steven Spielberg
+187,188,"Worldwide Lifetime Gross: $592,472,813",Tangled,7.7,100,2010,"Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance",2010-11-24,"Nathan Greno, Byron Howard"
+188,189,"Worldwide Lifetime Gross: $589,593,688",Quantum of Solace,6.5,106,2008,"Action, Adventure, Mystery, Thriller",2008-11-14,Marc Forster
+189,190,"Worldwide Lifetime Gross: $589,390,539",Men in Black,7.3,98,1997,"Action, Adventure, Comedy, Sci-Fi",1997-07-02,Barry Sonnenfeld
+190,191,"Worldwide Lifetime Gross: $587,266,745",The Croods,7.1,98,2013,"Animation, Adventure, Comedy, Family, Fantasy",2013-03-22,"Kirk DeMicco, Chris Sanders"
+191,192,"Worldwide Lifetime Gross: $586,764,305",The Hangover Part II,6.5,102,2011,Comedy,2011-05-26,Todd Phillips
+192,193,"Worldwide Lifetime Gross: $585,796,247",Iron Man,7.9,126,2008,"Action, Adventure, Sci-Fi",2008-05-02,Jon Favreau
+193,194,"Worldwide Lifetime Gross: $585,410,052",I Am Legend,7.2,101,2007,"Action, Drama, Horror, Sci-Fi, Thriller",2007-12-14,Francis Lawrence
+194,195,"Worldwide Lifetime Gross: $579,723,768","Monsters, Inc.",8.1,92,2001,"Animation, Adventure, Comedy, Family, Fantasy",2001-11-23,"Pete Docter, David Silverman, Lee Unkrich"
+195,196,"Worldwide Lifetime Gross: $579,330,426",Operation Red Sea,6.6,142,2018,"Action, Drama, Thriller, War",2018-02-23,Dante Lam
+196,197,"Worldwide Lifetime Gross: $574,482,479",Night at the Museum,6.5,108,2006,"Adventure, Comedy, Family, Fantasy",2006-12-22,Shawn Levy
+197,198,"Worldwide Lifetime Gross: $569,651,467",Fifty Shades of Grey,4.2,125,2015,"Drama, Romance, Thriller",2015-02-13,Sam Taylor-Johnson
+198,199,"Worldwide Lifetime Gross: $569,626,289",The Little Mermaid,7.2,135,2023,"Adventure, Family, Fantasy, Musical, Romance",2023-05-26,Rob Marshall
+199,200,"Worldwide Lifetime Gross: $568,652,812",Kong: Skull Island,6.7,118,2017,"Action, Adventure, Fantasy, Sci-Fi",2017-03-10,Jordan Vogt-Roberts
+200,201,"Worldwide Lifetime Gross: $567,650,016",Godzilla x Kong: The New Empire,6.1,115,2024,"Action, Adventure, Fantasy, Sci-Fi, Thriller",2024-03-29,Adam Wingard
+201,202,"Worldwide Lifetime Gross: $567,535,383",Mission: Impossible - Dead Reckoning Part One,7.7,163,2023,"Action, Adventure, Thriller",2023-07-12,Christopher McQuarrie
+202,203,"Worldwide Lifetime Gross: $563,892,376",The Smurfs,5.4,103,2011,"Animation, Adventure, Comedy, Family, Fantasy",2011-07-29,Raja Gosnell
+203,204,"Worldwide Lifetime Gross: $559,853,036",Cars 2,6.2,106,2011,"Animation, Adventure, Comedy, Crime, Family, Sport",2011-06-24,"John Lasseter, Bradford Lewis"
+204,205,"Worldwide Lifetime Gross: $556,906,378",King Kong,7.2,187,2005,"Action, Adventure, Romance",2005-12-14,Peter Jackson
+205,206,"Worldwide Lifetime Gross: $554,987,477",Puss in Boots,6.6,90,2011,"Animation, Action, Adventure, Comedy, Family, Fantasy",2011-11-15,Chris Miller
+206,207,"Worldwide Lifetime Gross: $553,810,228",The Mermaid,6.2,94,2016,"Comedy, Drama, Fantasy, Romance",2016-02-08,Stephen Chow
+207,208,"Worldwide Lifetime Gross: $553,712,773",Armageddon,6.7,151,1998,"Action, Adventure, Sci-Fi, Thriller",1998-07-01,Michael Bay
+208,209,"Worldwide Lifetime Gross: $552,639,571",The Day After Tomorrow,6.5,124,2004,"Action, Adventure, Sci-Fi, Thriller",2004-05-28,Roland Emmerich
+209,210,"Worldwide Lifetime Gross: $549,368,315",Ted,6.9,106,2012,Comedy,2012-06-29,Seth MacFarlane
+210,211,"Worldwide Lifetime Gross: $547,659,020",American Sniper,7.3,133,2014,"Action, Biography, Drama, War",2015-01-16,Clint Eastwood
+211,212,"Worldwide Lifetime Gross: $546,388,108",Mission: Impossible II,6.1,123,2000,"Action, Adventure, Thriller",2000-05-24,John Woo
+212,213,"Worldwide Lifetime Gross: $544,771,746",Kung Fu Panda 4,6.3,94,2024,"Animation, Action, Adventure, Comedy, Family, Fantasy",2024-03-08,"Mike Mitchell, Stephanie Stine"
+213,214,"Worldwide Lifetime Gross: $544,185,156",Detective Chinatown 2,6.1,121,2018,"Action, Comedy, Mystery",2018-02-16,Sicheng Chen
+214,215,"Worldwide Lifetime Gross: $543,934,105",X-Men: Apocalypse,6.8,144,2016,"Action, Adventure, Sci-Fi",2016-05-27,Bryan Singer
+215,216,"Worldwide Lifetime Gross: $543,848,418",Sherlock Holmes: A Game of Shadows,7.4,129,2011,"Action, Adventure, Mystery",2011-12-16,Guy Ritchie
+216,217,"Worldwide Lifetime Gross: $543,284,256",Despicable Me,7.6,95,2010,"Animation, Adventure, Comedy, Crime, Family, Sci-Fi",2010-07-09,"Pierre Coffin, Chris Renaud"
+217,218,"Worldwide Lifetime Gross: $542,358,331",Cinderella,6.9,105,2015,"Adventure, Drama, Family, Fantasy, Romance",2015-03-13,Kenneth Branagh
+218,219,"Worldwide Lifetime Gross: $542,063,846",Madagascar,6.9,86,2005,"Animation, Adventure, Comedy, Family",2005-06-24,"Eric Darnell, Tom McGrath"
+219,220,"Worldwide Lifetime Gross: $540,455,876",World War Z,7.0,116,2013,"Action, Adventure, Horror, Sci-Fi",2013-06-21,Marc Forster
+220,221,"Worldwide Lifetime Gross: $540,029,016",The Grinch,6.4,85,2018,"Animation, Comedy, Drama, Family, Fantasy, Musical",2018-11-09,"Yarrow Cheney, Scott Mosier"
+221,222,"Worldwide Lifetime Gross: $538,983,207",Brave,7.1,93,2012,"Animation, Action, Adventure, Comedy, Drama, Family, Fantasy, Mystery",2012-06-19,"Mark Andrews, Brenda Chapman, Steve Purcell"
+222,223,"Worldwide Lifetime Gross: $538,375,067",Star Wars: Episode V - The Empire Strikes Back,8.7,124,1980,"Action, Adventure, Fantasy, Sci-Fi",1980-06-18,Irvin Kershner
+223,224,"Worldwide Lifetime Gross: $536,414,293",The Simpsons Movie,7.3,87,2007,"Animation, Adventure, Comedy",2007-07-27,David Silverman
+224,225,"Worldwide Lifetime Gross: $532,950,503",The Revenant,8.0,156,2015,"Action, Adventure, Drama, Western",2016-01-08,Alejandro G. Iñárritu
+225,226,"Worldwide Lifetime Gross: $530,432,122",Dunkirk,7.8,106,2017,"Action, Drama, History, Thriller, War",2017-07-21,Christopher Nolan
+226,227,"Worldwide Lifetime Gross: $529,338,515",The Meg,5.7,113,2018,"Action, Horror, Sci-Fi, Thriller",2018-08-10,Jon Turteltaub
+227,228,"Worldwide Lifetime Gross: $529,323,962",Ralph Breaks the Internet,7.0,112,2018,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi, Sport",2018-11-23,"Phil Johnston, Rich Moore"
+228,229,"Worldwide Lifetime Gross: $528,583,774",Hotel Transylvania 3: Summer Vacation,6.3,97,2018,"Animation, Adventure, Comedy, Family, Fantasy, Horror",2018-07-13,Genndy Tartakovsky
+229,230,"Worldwide Lifetime Gross: $527,965,936",The Boss Baby,6.3,97,2017,"Animation, Adventure, Comedy, Family, Fantasy",2017-03-31,Tom McGrath
+230,231,"Worldwide Lifetime Gross: $527,402,840",WALL·E,8.4,98,2008,"Animation, Adventure, Family, Sci-Fi",2008-06-29,Andrew Stanton
+231,232,"Worldwide Lifetime Gross: $524,978,362",Godzilla,6.4,123,2014,"Action, Adventure, Sci-Fi, Thriller",2014-05-16,Gareth Edwards
+232,233,"Worldwide Lifetime Gross: $524,581,026",How to Train Your Dragon: The Hidden World,7.4,104,2019,"Animation, Action, Adventure, Comedy, Drama, Family, Fantasy",2019-02-22,Dean DeBlois
+233,234,"Worldwide Lifetime Gross: $524,028,679",Sherlock Holmes,7.6,128,2009,"Action, Adventure, Mystery",2009-12-25,Guy Ritchie
+234,235,"Worldwide Lifetime Gross: $522,657,936",Meet the Fockers,6.3,115,2004,"Comedy, Romance",2004-12-22,Jay Roach
+235,236,"Worldwide Lifetime Gross: $521,170,825",Kung Fu Panda 3,7.1,95,2016,"Animation, Action, Adventure, Comedy, Family, Fantasy",2016-01-29,"Alessandro Carloni, Jennifer Yuh Nelson"
+236,237,"Worldwide Lifetime Gross: $520,881,154",Terminator 2: Judgment Day,8.6,137,1991,"Action, Adventure, Sci-Fi",1991-07-03,James Cameron
+237,238,"Worldwide Lifetime Gross: $519,311,965",Ant-Man,7.2,117,2015,"Action, Comedy, Sci-Fi",2015-07-17,Peyton Reed
+238,239,"Worldwide Lifetime Gross: $506,863,592",Venom: Let There Be Carnage,5.9,97,2021,"Action, Sci-Fi, Thriller",2021-10-01,Andy Serkis
+239,240,"Worldwide Lifetime Gross: $505,703,557",Ghost,7.1,127,1990,"Drama, Fantasy, Romance, Thriller",1990-07-13,Jerry Zucker
+240,241,"Worldwide Lifetime Gross: $504,050,219",Aladdin,8.0,90,1992,"Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance",1992-11-25,"Ron Clements, John Musker"
+241,242,"Worldwide Lifetime Gross: $498,781,117",Rio 2,6.3,101,2014,"Animation, Adventure, Comedy, Family, Music, Musical, Romance",2014-04-11,Carlos Saldanha
+242,243,"Worldwide Lifetime Gross: $497,409,852",Troy,7.3,163,2004,"Adventure, Drama",2004-05-14,Wolfgang Petersen
+243,244,"Worldwide Lifetime Gross: $497,375,381",Toy Story 2,7.9,92,1999,"Animation, Adventure, Comedy, Family, Fantasy",1999-11-24,"John Lasseter, Ash Brannon, Lee Unkrich"
+244,245,"Worldwide Lifetime Gross: $496,444,308",Elemental,7.0,101,2023,"Animation, Adventure, Comedy, Family, Fantasy, Romance",2023-06-16,Peter Sohn
+245,246,"Worldwide Lifetime Gross: $494,879,860",How to Train Your Dragon,8.1,98,2010,"Animation, Action, Adventure, Family, Fantasy",2010-03-26,"Dean DeBlois, Chris Sanders"
+246,247,"Worldwide Lifetime Gross: $494,580,615",Twister,6.5,113,1996,"Action, Adventure, Thriller",1996-05-10,Jan de Bont
+247,248,"Worldwide Lifetime Gross: $493,311,825",Oz the Great and Powerful,6.3,130,2013,"Adventure, Family, Fantasy",2013-03-08,Sam Raimi
+248,249,"Worldwide Lifetime Gross: $493,214,993",Clash of the Titans,5.8,106,2010,"Action, Adventure, Fantasy",2010-04-02,Louis Leterrier
+249,250,"Worldwide Lifetime Gross: $491,730,089",Maleficent: Mistress of Evil,6.6,119,2019,"Adventure, Drama, Family, Fantasy, Romance",2019-10-18,Joachim Rønning
+250,251,"Worldwide Lifetime Gross: $490,719,763",War for the Planet of the Apes,7.4,140,2017,"Action, Adventure, Drama, Sci-Fi, Thriller",2017-07-14,Matt Reeves
+251,252,"Worldwide Lifetime Gross: $488,628,188",Shrek,7.9,90,2001,"Animation, Adventure, Comedy, Family, Fantasy, Romance",2001-05-18,"Andrew Adamson, Vicky Jenson"
+252,253,"Worldwide Lifetime Gross: $487,287,646",Mr. & Mrs. Smith,6.5,120,2005,"Action, Comedy, Crime, Thriller",2005-06-10,Doug Liman
+253,254,"Worldwide Lifetime Gross: $485,930,816",Angels & Demons,6.7,138,2009,"Action, Mystery, Thriller",2009-05-15,Ron Howard
+254,255,"Worldwide Lifetime Gross: $485,004,754",Teenage Mutant Ninja Turtles,5.8,101,2014,"Action, Adventure, Comedy, Crime, Fantasy, Sci-Fi",2014-08-08,Jonathan Liebesman
+255,256,"Worldwide Lifetime Gross: $484,592,874",Bruce Almighty,6.8,101,2003,"Comedy, Fantasy",2003-05-23,Tom Shadyac
+256,257,"Worldwide Lifetime Gross: $483,866,772",Rio,6.9,96,2011,"Animation, Adventure, Comedy, Family, Music, Musical, Romance",2011-04-15,Carlos Saldanha
+257,258,"Worldwide Lifetime Gross: $482,351,251",Saving Private Ryan,8.6,169,1998,"Drama, War",1998-07-24,Steven Spielberg
+258,259,"Worldwide Lifetime Gross: $481,800,873",Rise of the Planet of the Apes,7.6,105,2011,"Action, Drama, Sci-Fi, Thriller",2011-08-05,Rupert Wyatt
+259,260,"Worldwide Lifetime Gross: $481,705,474",Puss in Boots: The Last Wish,7.8,102,2022,"Animation, Action, Adventure, Comedy, Family, Fantasy",2022-12-21,"Joel Crawford, Januel Mercado"
+260,261,"Worldwide Lifetime Gross: $477,220,580",Jaws,8.1,124,1975,"Adventure, Drama, Thriller",1975-06-20,Steven Spielberg
+261,262,"Worldwide Lifetime Gross: $476,684,675",Home Alone,7.7,103,1990,"Comedy, Family",1990-11-16,Chris Columbus
+262,263,"Worldwide Lifetime Gross: $476,071,180",Ant-Man and the Wasp: Quantumania,6.0,124,2023,"Action, Adventure, Comedy, Sci-Fi",2023-02-17,Peyton Reed
+263,264,"Worldwide Lifetime Gross: $475,186,976",Hotel Transylvania 2,6.6,89,2015,"Animation, Adventure, Comedy, Family, Fantasy",2015-09-25,Genndy Tartakovsky
+264,265,"Worldwide Lifetime Gross: $475,106,177",Star Wars: Episode VI - Return of the Jedi,8.3,131,1983,"Action, Adventure, Fantasy, Sci-Fi",1983-05-25,Richard Marquand
+265,266,"Worldwide Lifetime Gross: $474,968,763",Charlie and the Chocolate Factory,6.7,115,2005,"Adventure, Comedy, Family, Fantasy, Musical",2005-07-15,Tim Burton
+266,267,"Worldwide Lifetime Gross: $474,609,154",San Andreas,6.1,114,2015,"Action, Adventure, Thriller",2015-05-29,Brad Peyton
+267,268,"Worldwide Lifetime Gross: $474,171,806",Indiana Jones and the Last Crusade,8.2,127,1989,"Action, Adventure",1989-05-24,Steven Spielberg
+268,269,"Worldwide Lifetime Gross: $473,123,154",It Chapter Two,6.5,169,2019,"Drama, Fantasy, Horror",2019-09-06,Andy Muschietti
+269,270,"Worldwide Lifetime Gross: $472,088,310",The King's Speech,8.0,118,2010,"Biography, Drama, History",2010-12-25,Tom Hooper
+270,271,"Worldwide Lifetime Gross: $471,991,358",La La Land,8.0,128,2016,"Comedy, Drama, Music, Musical, Romance",2016-12-25,Damien Chazelle
+271,272,"Worldwide Lifetime Gross: $471,222,889",Wreck-It Ralph,7.7,101,2012,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi, Sport",2012-11-02,Rich Moore
+272,273,"Worldwide Lifetime Gross: $470,759,687",The Lego Movie,7.7,100,2014,"Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",2014-02-07,"Phil Lord, Christopher Miller"
+273,274,"Worldwide Lifetime Gross: $470,116,094",Godzilla vs. Kong,6.3,113,2021,"Action, Sci-Fi, Thriller",2021-03-31,Adam Wingard
+274,275,"Worldwide Lifetime Gross: $469,328,922",The Hangover,7.7,100,2009,Comedy,2009-06-05,Todd Phillips
+275,276,"Worldwide Lifetime Gross: $469,058,574",Lucy,6.4,89,2014,"Action, Sci-Fi, Thriller",2014-07-25,Luc Besson
+276,277,"Worldwide Lifetime Gross: $467,989,645",Bumblebee,6.7,114,2018,"Action, Adventure, Sci-Fi",2018-12-21,Travis Knight
+277,278,"Worldwide Lifetime Gross: $467,826,932",The Matrix,8.7,136,1999,"Action, Sci-Fi",1999-03-31,"Lana Wachowski, Lilly Wachowski"
+278,279,"Worldwide Lifetime Gross: $467,365,246",Star Trek Into Darkness,7.7,132,2013,"Action, Adventure, Sci-Fi",2013-05-16,J.J. Abrams
+279,280,"Worldwide Lifetime Gross: $465,387,186",Gladiator,8.5,155,2000,"Action, Adventure, Drama",2000-05-05,Ridley Scott
+280,281,"Worldwide Lifetime Gross: $463,406,268",Pretty Woman,7.1,119,1990,"Comedy, Romance",1990-03-23,Garry Marshall
+281,282,"Worldwide Lifetime Gross: $461,996,328",Cars,7.2,116,2006,"Animation, Adventure, Comedy, Family, Sport",2006-06-23,"John Lasseter, Joe Ranft"
+282,283,"Worldwide Lifetime Gross: $461,421,559",The Eight Hundred,6.7,149,2020,"Action, Drama, History, War",2020-08-28,Hu Guan
+283,284,"Worldwide Lifetime Gross: $460,435,291",X-Men: The Last Stand,6.6,104,2006,"Action, Adventure, Sci-Fi",2006-05-26,Brett Ratner
+284,285,"Worldwide Lifetime Gross: $460,237,662",Moon Man,6.4,122,2022,"Comedy, Sci-Fi",2022-07-29,Chiyu Zhang
+285,286,"Worldwide Lifetime Gross: $459,242,249",National Treasure: Book of Secrets,6.5,124,2007,"Action, Adventure, Mystery, Thriller",2007-12-21,Jon Turteltaub
+286,287,"Worldwide Lifetime Gross: $457,696,391",Mission: Impossible,7.2,110,1996,"Action, Adventure, Thriller",1996-05-22,Brian De Palma
+287,288,"Worldwide Lifetime Gross: $456,082,343",300,7.6,117,2006,"Action, Drama",2007-03-09,Zack Snyder
+288,289,"Worldwide Lifetime Gross: $454,627,263",The Last Samurai,7.8,154,2003,"Action, Drama",2003-12-05,Edward Zwick
+289,290,"Worldwide Lifetime Gross: $453,230,408",Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train,8.2,117,2020,"Animation, Action, Adventure, Fantasy, Thriller",2021-04-23,Haruo Sotozaki
+290,291,"Worldwide Lifetime Gross: $451,183,391",Dying to Survive,7.8,117,2018,"Comedy, Drama",2019-08-09,Muye Wen
+291,292,"Worldwide Lifetime Gross: $450,717,150",Ocean's Eleven,7.7,116,2001,"Crime, Thriller",2001-12-07,Steven Soderbergh
+292,293,"Worldwide Lifetime Gross: $450,064,993","My People, My Country",6.3,154,2019,"Drama, History",2019-10-01,"Kaige Chen, Hu Guan, Hao Ning, Muye Wen, Zheng Xu, Xiaolu Xue, Yibai Zhang"
+293,294,"Worldwide Lifetime Gross: $450,063,166",Pokémon: Detective Pikachu,6.5,104,2019,"Action, Adventure, Comedy, Family, Mystery, Sci-Fi",2019-05-10,Rob Letterman
+294,295,"Worldwide Lifetime Gross: $449,326,618",Thor,7.0,115,2011,"Action, Fantasy",2011-05-06,Kenneth Branagh
+295,296,"Worldwide Lifetime Gross: $449,220,945",Pearl Harbor,6.2,183,2001,"Action, Drama, Romance, War",2001-05-25,Michael Bay
+296,297,"Worldwide Lifetime Gross: $448,191,819",Tarzan,7.3,88,1999,"Animation, Adventure, Comedy, Drama, Family, Music",1999-06-18,"Chris Buck, Kevin Lima"
+297,298,"Worldwide Lifetime Gross: $445,135,288",Men in Black II,6.2,88,2002,"Action, Adventure, Comedy, Mystery, Sci-Fi",2002-07-03,Barry Sonnenfeld
+298,299,"Worldwide Lifetime Gross: $444,100,035",The Bourne Ultimatum,8.0,115,2007,"Action, Mystery, Thriller",2007-08-03,Paul Greengrass
+299,300,"Worldwide Lifetime Gross: $443,284,916",The Mummy Returns,6.4,130,2001,"Action, Adventure, Fantasy, Thriller",2001-05-04,Stephen Sommers
+300,301,"Worldwide Lifetime Gross: $443,140,005",Alvin and the Chipmunks: The Squeakquel,4.5,88,2009,"Adventure, Comedy, Family, Fantasy, Music, Musical",2009-12-23,Betty Thomas
+301,302,"Worldwide Lifetime Gross: $442,757,529",Les Misérables,7.5,158,2012,"Drama, Musical, Romance",2012-12-25,Tom Hooper
+302,303,"Worldwide Lifetime Gross: $441,306,145",The Exorcist,8.1,122,1973,Horror,1973-12-26,William Friedkin
+303,304,"Worldwide Lifetime Gross: $441,286,195",Mrs. Doubtfire,7.1,125,1993,"Comedy, Drama",1993-11-24,Chris Columbus
+304,305,"Worldwide Lifetime Gross: $440,603,537",Terminator Genisys,6.3,126,2015,"Action, Adventure, Sci-Fi, Thriller",2015-07-01,Alan Taylor
+305,306,"Worldwide Lifetime Gross: $440,157,245",John Wick: Chapter 4,7.7,169,2023,"Action, Crime, Thriller",2023-03-24,Chad Stahelski
+306,307,"Worldwide Lifetime Gross: $439,048,914",Warcraft,6.7,123,2016,"Action, Adventure, Fantasy",2016-06-10,Duncan Jones
+307,308,"Worldwide Lifetime Gross: $438,966,392",Transformers: Rise of the Beasts,6.0,127,2023,"Action, Adventure, Sci-Fi",2023-06-09,Steven Caple Jr.
+308,309,"Worldwide Lifetime Gross: $438,550,994",The Greatest Showman,7.5,105,2017,"Biography, Drama, Musical",2017-12-20,Michael Gracey
+309,310,"Worldwide Lifetime Gross: $437,809,340",Despicable Me 4,6.2,94,2024,"Animation, Adventure, Comedy, Crime, Family, Sci-Fi",2024-07-03,"Chris Renaud, Patrick Delage"
+310,311,"Worldwide Lifetime Gross: $436,433,122",A Star Is Born,7.6,136,2018,"Drama, Music, Romance",2018-10-05,Bradley Cooper
+311,312,"Worldwide Lifetime Gross: $434,381,226",Aquaman and the Lost Kingdom,5.6,124,2023,"Action, Adventure, Fantasy, Sci-Fi",2023-12-22,James Wan
+312,313,"Worldwide Lifetime Gross: $433,371,112",Terminator 3: Rise of the Machines,6.3,109,2003,"Action, Sci-Fi",2003-07-02,Jonathan Mostow
+313,314,"Worldwide Lifetime Gross: $432,243,292",Shang-Chi and the Legend of the Ten Rings,7.4,132,2021,"Action, Adventure, Fantasy, Sci-Fi",2021-09-03,Destin Daniel Cretton
+314,315,"Worldwide Lifetime Gross: $431,971,116",Die Another Day,6.1,133,2002,"Action, Adventure, Thriller",2002-11-22,Lee Tamahori
+315,316,"Worldwide Lifetime Gross: $431,164,459",The Secret Life of Pets 2,6.4,86,2019,"Animation, Adventure, Comedy, Family",2019-06-07,"Chris Renaud, Jonathan del Val"
+316,317,"Worldwide Lifetime Gross: $429,632,142",Cast Away,7.8,143,2000,"Adventure, Drama, Romance",2000-12-22,Robert Zemeckis
+317,318,"Worldwide Lifetime Gross: $428,128,399",Rampage,6.1,107,2018,"Action, Adventure, Sci-Fi",2018-04-13,Brad Peyton
+318,319,"Worldwide Lifetime Gross: $427,344,325",The Matrix Revolutions,6.7,129,2003,"Action, Sci-Fi",2003-11-05,"Lana Wachowski, Lilly Wachowski"
+319,320,"Worldwide Lifetime Gross: $426,590,315",The Intouchables,8.5,112,2011,"Comedy, Drama",2011-11-02,"Olivier Nakache, Éric Toledano"
+320,321,"Worldwide Lifetime Gross: $426,505,244",Bad Boys for Life,6.5,124,2020,"Action, Comedy, Crime, Thriller",2020-01-17,"Adil El Arbi, Bilall Fallah"
+321,322,"Worldwide Lifetime Gross: $426,076,293",Django Unchained,8.5,165,2012,"Comedy, Drama, Western",2012-12-25,Quentin Tarantino
+322,323,"Worldwide Lifetime Gross: $424,967,620",Beauty and the Beast,8.0,84,1991,"Animation, Family, Fantasy, Musical, Romance",1991-11-22,"Gary Trousdale, Kirk Wise"
+323,324,"Worldwide Lifetime Gross: $424,208,848",Dances with Wolves,8.0,181,1990,"Adventure, Drama, Western",1990-11-21,Kevin Costner
+324,325,"Worldwide Lifetime Gross: $422,390,820","My People, My Homeland",6.4,153,2020,Drama,2020-10-01,"Hao Ning, Sicheng Chen, Chao Deng, Da-Mo Peng, Ao Shen, Zheng Xu, Fei Yan, Baimei Yu"
+325,326,"Worldwide Lifetime Gross: $419,665,568",The Chronicles of Narnia: Prince Caspian,6.5,150,2008,"Action, Adventure, Family, Fantasy",2008-05-16,Andrew Adamson
+326,327,"Worldwide Lifetime Gross: $418,769,972",Sex and the City,5.7,145,2008,"Comedy, Drama, Romance",2008-05-30,Michael Patrick King
+327,328,"Worldwide Lifetime Gross: $417,643,286",The Mummy,7.1,124,1999,"Action, Adventure, Fantasy",1999-05-07,Stephen Sommers
+328,329,"Worldwide Lifetime Gross: $417,282,021",The Captain,6.2,111,2019,"Action, Adventure, Drama, Family, Thriller",2019-09-30,Andrew Lau
+329,330,"Worldwide Lifetime Gross: $415,686,217",The Chronicles of Narnia: The Voyage of the Dawn Treader,6.3,113,2010,"Adventure, Family, Fantasy",2010-12-10,Michael Apted
+330,331,"Worldwide Lifetime Gross: $415,484,914",Jason Bourne,6.6,123,2016,"Action, Thriller",2016-07-29,Paul Greengrass
+331,332,"Worldwide Lifetime Gross: $414,828,246",The Wolverine,6.7,126,2013,"Action, Sci-Fi",2013-07-26,James Mangold
+332,333,"Worldwide Lifetime Gross: $414,351,546",Kingsman: The Secret Service,7.7,129,2014,"Action, Adventure, Comedy, Thriller",2015-02-13,Matthew Vaughn
+333,334,"Worldwide Lifetime Gross: $413,106,170",Night at the Museum: Battle of the Smithsonian,6.0,105,2009,"Adventure, Comedy, Family, Fantasy",2009-05-22,Shawn Levy
+334,335,"Worldwide Lifetime Gross: $411,569,241",Batman,7.5,126,1989,"Action, Adventure",1989-06-23,Tim Burton
+335,336,"Worldwide Lifetime Gross: $411,046,449",The Bodyguard,6.4,129,1992,"Action, Drama, Music, Romance, Thriller",1992-11-25,Mick Jackson
+336,337,"Worldwide Lifetime Gross: $411,002,906",Pacific Rim,6.9,131,2013,"Action, Adventure, Sci-Fi",2013-07-12,Guillermo del Toro
+337,338,"Worldwide Lifetime Gross: $410,902,662",Kingsman: The Golden Circle,6.7,141,2017,"Action, Adventure, Comedy, Crime, Thriller",2017-09-22,Matthew Vaughn
+338,339,"Worldwide Lifetime Gross: $409,231,607",The Mummy,5.4,110,2017,"Action, Adventure, Fantasy, Horror, Thriller",2017-06-09,Alex Kurtzman
+339,340,"Worldwide Lifetime Gross: $408,754,975",Ice Age: Collision Course,5.7,94,2016,"Animation, Adventure, Comedy, Family, Sci-Fi",2016-07-22,"Michael Thurmeier, Galen T. Chu"
+340,341,"Worldwide Lifetime Gross: $408,492,097",Twilight,5.3,122,2008,"Drama, Fantasy, Romance",2008-11-21,Catherine Hardwicke
+341,342,"Worldwide Lifetime Gross: $408,402,685",Sing 2,7.3,110,2021,"Animation, Adventure, Comedy, Family, Musical",2021-12-22,"Garth Jennings, Christophe Lourdelet"
+342,343,"Worldwide Lifetime Gross: $408,247,917",Signs,6.8,106,2002,"Drama, Mystery, Sci-Fi, Thriller",2002-08-02,M. Night Shyamalan
+343,344,"Worldwide Lifetime Gross: $407,711,549",X2: X-Men United,7.4,134,2003,"Action, Sci-Fi, Thriller",2003-05-02,Bryan Singer
+344,345,"Worldwide Lifetime Gross: $407,573,628",Dune: Part One,8.0,155,2021,"Action, Adventure, Drama, Sci-Fi",2021-10-22,Denis Villeneuve
+345,346,"Worldwide Lifetime Gross: $407,150,844",Fantastic Beasts: The Secrets of Dumbledore,6.2,142,2022,"Adventure, Family, Fantasy",2022-04-15,David Yates
+346,347,"Worldwide Lifetime Gross: $407,141,258",Uncharted,6.3,116,2022,"Action, Adventure",2022-02-18,Ruben Fleischer
+347,348,"Worldwide Lifetime Gross: $407,039,432",The Wolf of Wall Street,8.2,180,2013,"Biography, Comedy, Crime, Drama",2013-12-25,Martin Scorsese
+348,349,"Worldwide Lifetime Gross: $405,421,518",Sonic the Hedgehog 2,6.5,122,2022,"Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",2022-04-08,Jeff Fowler
+349,350,"Worldwide Lifetime Gross: $404,980,543",Alita: Battle Angel,7.3,122,2019,"Action, Adventure, Sci-Fi, Thriller",2019-02-14,Robert Rodriguez
+350,351,"Worldwide Lifetime Gross: $403,449,830",The Mummy: Tomb of the Dragon Emperor,5.2,112,2008,"Action, Adventure, Fantasy, Horror",2008-08-01,Rob Cohen
+351,352,"Worldwide Lifetime Gross: $403,354,469",Prometheus,7.0,124,2012,"Adventure, Mystery, Sci-Fi",2012-06-08,Ridley Scott
+352,353,"Worldwide Lifetime Gross: $402,382,193",Gone with the Wind,8.2,238,1939,"Drama, Romance, War",1940-01-17,"Victor Fleming, George Cukor, Sam Wood"
+353,354,"Worldwide Lifetime Gross: $402,270,330",Mamma Mia! Here We Go Again,6.6,114,2018,"Comedy, Musical, Romance",2018-07-20,Ol Parker
+354,355,"Worldwide Lifetime Gross: $402,064,899",Eternals,6.3,156,2021,"Action, Adventure, Fantasy, Sci-Fi",2021-11-05,Chloé Zhao
+355,356,"Worldwide Lifetime Gross: $400,070,496",Tron: Legacy,6.8,125,2010,"Action, Adventure, Sci-Fi",2010-12-17,Joseph Kosinski
+356,357,"Worldwide Lifetime Gross: $398,479,497",Mission: Impossible III,6.9,126,2006,"Action, Adventure, Thriller",2006-05-05,J.J. Abrams
+357,358,"Worldwide Lifetime Gross: $397,700,317",Meg 2: The Trench,5.0,116,2023,"Action, Adventure, Horror, Sci-Fi, Thriller",2023-08-04,Ben Wheatley
+358,359,"Worldwide Lifetime Gross: $396,592,829",Snow White and the Huntsman,6.1,127,2012,"Action, Adventure, Drama, Fantasy, Romance, Sci-Fi, Thriller, War",2012-06-01,Rupert Sanders
+359,360,"Worldwide Lifetime Gross: $396,271,103",Grease,7.2,110,1978,"Comedy, Musical, Romance",1978-06-16,Randal Kleiser
+360,361,"Worldwide Lifetime Gross: $395,492,173",Kingdom of the Planet of the Apes,7.0,145,2024,"Action, Adventure, Drama, Sci-Fi, Thriller",2024-05-10,Wes Ball
+361,362,"Worldwide Lifetime Gross: $394,436,586",Toy Story,8.3,81,1995,"Animation, Adventure, Comedy, Family, Fantasy",1995-11-22,John Lasseter
+362,363,"Worldwide Lifetime Gross: $393,452,111",Black Adam,6.2,125,2022,"Action, Adventure, Fantasy, Sci-Fi",2022-10-21,Jaume Collet-Serra
+363,364,"Worldwide Lifetime Gross: $392,924,807",Solo: A Star Wars Story,6.9,135,2018,"Action, Adventure, Sci-Fi",2018-05-25,Ron Howard
+364,365,"Worldwide Lifetime Gross: $391,081,192",Superman Returns,6.1,154,2006,"Action, Adventure, Sci-Fi",2006-06-30,Bryan Singer
+365,366,"Worldwide Lifetime Gross: $390,493,908",Robin Hood: Prince of Thieves,6.9,143,1991,"Action, Adventure, Drama, Romance",1991-06-14,Kevin Reynolds
+366,367,"Worldwide Lifetime Gross: $390,411,425",1917,8.2,119,2019,"Action, Drama, History, War",2020-01-10,Sam Mendes
+367,368,"Worldwide Lifetime Gross: $389,925,971",Raiders of the Lost Ark,8.4,115,1981,"Action, Adventure",1981-06-12,Steven Spielberg
+368,369,"Worldwide Lifetime Gross: $389,681,935",Independence Day: Resurgence,5.2,120,2016,"Action, Adventure, Sci-Fi",2016-06-24,Roland Emmerich
+369,370,"Worldwide Lifetime Gross: $388,156,011",Live Free or Die Hard,7.1,128,2007,"Action, Thriller",2007-06-27,Len Wiseman
+370,371,"Worldwide Lifetime Gross: $387,300,138",Godzilla: King of the Monsters,6.0,132,2019,"Action, Adventure, Fantasy, Sci-Fi",2019-05-31,Michael Dougherty
+371,372,"Worldwide Lifetime Gross: $387,053,506",Monster Hunt,6.1,117,2015,"Adventure, Comedy, Fantasy",2016-01-22,Raman Hui
+372,373,"Worldwide Lifetime Gross: $386,041,607",Home,6.5,94,2015,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi",2015-03-27,Tim Johnson
+373,374,"Worldwide Lifetime Gross: $385,681,768",Star Trek,7.9,127,2009,"Action, Adventure, Sci-Fi",2009-05-08,J.J. Abrams
+374,375,"Worldwide Lifetime Gross: $384,577,472",Back to the Future,8.5,116,1985,"Adventure, Comedy, Sci-Fi",1985-07-03,Robert Zemeckis
+375,376,"Worldwide Lifetime Gross: $384,336,108",Happy Feet,6.4,108,2006,"Animation, Adventure, Comedy, Family, Music, Musical, Romance",2006-11-17,"George Miller, Warren Coleman, Judy Morris"
+376,377,"Worldwide Lifetime Gross: $384,298,736",Spider-Man: Into the Spider-Verse,8.4,117,2018,"Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",2018-12-14,"Bob Persichetti, Peter Ramsey, Rodney Rothman"
+377,378,"Worldwide Lifetime Gross: $383,963,057",Indiana Jones and the Dial of Destiny,6.5,154,2023,"Action, Adventure, Sci-Fi",2023-06-30,James Mangold
+378,379,"Worldwide Lifetime Gross: $383,930,656",Cars 3,6.7,102,2017,"Animation, Adventure, Comedy, Family, Sport",2017-06-16,Brian Fee
+379,380,"Worldwide Lifetime Gross: $383,257,136",Ice Age,7.5,81,2002,"Animation, Adventure, Comedy, Family",2002-03-27,"Chris Wedge, Carlos Saldanha"
+380,381,"Worldwide Lifetime Gross: $382,238,191",Your Name.,8.4,106,2016,"Animation, Drama, Fantasy, Romance",2017-04-07,Makoto Shinkai
+381,382,"Worldwide Lifetime Gross: $381,545,846",Fifty Shades Darker,4.6,118,2017,"Drama, Mystery, Romance, Thriller",2017-02-10,James Foley
+382,383,"Worldwide Lifetime Gross: $381,509,870",Monsters vs. Aliens,6.4,94,2009,"Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",2009-03-27,"Rob Letterman, Conrad Vernon"
+383,384,"Worldwide Lifetime Gross: $380,418,444",Mad Max: Fury Road,8.1,120,2015,"Action, Adventure, Sci-Fi, Thriller",2015-05-15,George Miller
+384,385,"Worldwide Lifetime Gross: $379,751,655",Black Widow,6.6,134,2021,"Action, Adventure, Sci-Fi",2021-07-09,Cate Shortland
+385,386,"Worldwide Lifetime Gross: $379,014,294",Godzilla,5.4,139,1998,"Action, Sci-Fi, Thriller",1998-05-20,Roland Emmerich
+386,387,"Worldwide Lifetime Gross: $378,882,411",True Lies,7.3,141,1994,"Action, Comedy, Thriller",1994-07-15,James Cameron
+387,388,"Worldwide Lifetime Gross: $378,411,362",Slumdog Millionaire,8.0,120,2008,"Crime, Drama, Romance",2008-12-25,"Danny Boyle, Loveleen Tandan"
+388,389,"Worldwide Lifetime Gross: $377,975,768",Bad Boys: Ride or Die,6.7,115,2024,"Action, Adventure, Comedy, Crime, Thriller",2024-06-07,"Adil El Arbi, Bilall Fallah"
+389,390,"Worldwide Lifetime Gross: $377,617,681",Once Upon a Time... in Hollywood,7.6,161,2019,"Comedy, Drama",2019-07-26,Quentin Tarantino
+390,391,"Worldwide Lifetime Gross: $376,152,455",Taken 2,6.2,92,2012,"Action, Crime, Thriller",2012-10-05,Olivier Megaton
+391,392,"Worldwide Lifetime Gross: $375,740,705",G.I. Joe: Retaliation,5.7,110,2013,"Action, Adventure, Sci-Fi, Thriller",2013-03-28,Jon M. Chu
+392,393,"Worldwide Lifetime Gross: $375,325,692",Batman Begins,8.2,140,2005,"Action, Crime, Drama",2005-06-15,Christopher Nolan
+393,394,"Worldwide Lifetime Gross: $374,583,879",Shark Tale,6.0,90,2004,"Animation, Adventure, Comedy, Family, Thriller",2004-11-05,"Bibo Bergeron, Vicky Jenson, Rob Letterman"
+394,395,"Worldwide Lifetime Gross: $374,111,707",What Women Want,6.4,127,2000,"Comedy, Fantasy, Romance",2000-12-15,Nancy Meyers
+395,396,"Worldwide Lifetime Gross: $373,994,233",The Adventures of Tintin,7.3,107,2011,"Animation, Action, Adventure, Family, Mystery",2011-12-21,Steven Spielberg
+396,397,"Worldwide Lifetime Gross: $373,515,621",Penguins of Madagascar,6.6,92,2014,"Animation, Action, Adventure, Comedy, Crime, Family, Sci-Fi",2014-11-26,"Eric Darnell, Simon J. Smith"
+397,398,"Worldwide Lifetime Gross: $373,062,864",X-Men Origins: Wolverine,6.5,107,2009,"Action, Sci-Fi",2009-05-01,Gavin Hood
+398,399,"Worldwide Lifetime Gross: $372,234,864",The Golden Compass,6.1,113,2007,"Adventure, Family, Fantasy",2007-12-07,Chris Weitz
+399,400,"Worldwide Lifetime Gross: $371,985,018",Fifty Shades Freed,4.5,105,2018,"Drama, Mystery, Romance, Thriller",2018-02-09,James Foley
+400,401,"Worldwide Lifetime Gross: $371,594,210",Hitch,6.6,118,2005,"Comedy, Romance",2005-02-11,Andy Tennant
+401,402,"Worldwide Lifetime Gross: $371,353,001",Terminator Salvation,6.5,115,2009,"Action, Adventure, Sci-Fi",2009-05-21,McG
+402,403,"Worldwide Lifetime Gross: $370,890,259",Gone Girl,8.1,149,2014,"Drama, Mystery, Thriller",2014-10-03,David Fincher
+403,404,"Worldwide Lifetime Gross: $370,570,268",Edge of Tomorrow,7.9,113,2014,"Action, Adventure, Sci-Fi",2014-06-06,Doug Liman
+404,405,"Worldwide Lifetime Gross: $370,569,774",Captain America: The First Avenger,6.9,124,2011,"Action, Adventure, Sci-Fi",2011-07-22,Joe Johnston
+405,406,"Worldwide Lifetime Gross: $369,884,651",There's Something About Mary,7.1,119,1998,"Comedy, Romance",1998-07-15,"Bobby Farrelly, Peter Farrelly"
+406,407,"Worldwide Lifetime Gross: $368,875,760",The Fugitive,7.8,130,1993,"Action, Crime, Drama, Mystery, Thriller",1993-08-06,Andrew Davis
+407,408,"Worldwide Lifetime Gross: $368,780,809",Jurassic Park III,5.9,92,2001,"Action, Adventure, Sci-Fi, Thriller",2001-07-18,Joe Johnston
+408,409,"Worldwide Lifetime Gross: $368,744,044",My Big Fat Greek Wedding,6.6,95,2002,"Comedy, Drama, Romance",2002-08-02,Joel Zwick
+409,410,"Worldwide Lifetime Gross: $367,799,011",Shazam!,7.0,132,2019,"Action, Adventure, Comedy, Fantasy",2019-04-05,David F. Sandberg
+410,411,"Worldwide Lifetime Gross: $366,961,907",Hello Mr. Billionaire,6.1,118,2018,Comedy,2018-07-27,"Da-Mo Peng, Fei Yan"
+411,412,"Worldwide Lifetime Gross: $366,101,666",Die Hard with a Vengeance,7.6,128,1995,"Action, Adventure, Thriller",1995-05-19,John McTiernan
+412,413,"Worldwide Lifetime Gross: $366,082,797",The Nun,5.3,96,2018,"Horror, Mystery, Thriller",2018-09-07,Corin Hardy
+413,414,"Worldwide Lifetime Gross: $365,352,546",Alvin and the Chipmunks,5.2,92,2007,"Adventure, Comedy, Family, Fantasy, Music, Musical",2007-12-14,Tim Hill
+414,415,"Worldwide Lifetime Gross: $365,304,105",Tenet,7.3,150,2020,"Action, Sci-Fi, Thriller",2020-09-03,Christopher Nolan
+415,416,"Worldwide Lifetime Gross: $363,889,678",Notting Hill,7.2,124,1999,"Comedy, Drama, Romance",1999-05-28,Roger Michell
+416,417,"Worldwide Lifetime Gross: $363,258,859",A Bug's Life,7.2,95,1998,"Animation, Adventure, Comedy, Family",1998-11-25,"John Lasseter, Andrew Stanton"
+417,418,"Worldwide Lifetime Gross: $363,204,635",Night at the Museum: Secret of the Tomb,6.2,98,2014,"Adventure, Comedy, Family, Fantasy",2014-12-19,Shawn Levy
+418,419,"Worldwide Lifetime Gross: $362,744,280",Ocean's Twelve,6.5,125,2004,"Crime, Thriller",2004-12-10,Steven Soderbergh
+419,420,"Worldwide Lifetime Gross: $362,211,740",Planet of the Apes,5.7,120,2001,"Action, Adventure, Sci-Fi, Thriller",2001-07-27,Tim Burton
+420,421,"Worldwide Lifetime Gross: $362,000,072",The Hangover Part III,5.8,100,2013,"Comedy, Crime",2013-05-23,Todd Phillips
+421,422,"Worldwide Lifetime Gross: $361,832,400",The World Is Not Enough,6.4,128,1999,"Action, Adventure, Thriller",1999-11-19,Michael Apted
+422,423,"Worldwide Lifetime Gross: $361,682,618",Monster Hunt 2,5.4,110,2018,"Adventure, Comedy, Fantasy, Sci-Fi",2018-02-16,Raman Hui
+423,424,"Worldwide Lifetime Gross: $360,405,638",Fast & Furious,6.5,107,2009,"Action, Crime, Thriller",2009-04-03,Justin Lin
+424,425,"Worldwide Lifetime Gross: $359,200,044",Noah,5.8,138,2014,"Action, Adventure, Drama",2014-03-28,Darren Aronofsky
+425,426,"Worldwide Lifetime Gross: $359,126,022",The Karate Kid,6.2,140,2010,"Action, Drama, Family, Sport",2010-06-11,Harald Zwart
+426,427,"Worldwide Lifetime Gross: $358,994,850",Home Alone 2: Lost in New York,6.9,120,1992,"Adventure, Comedy, Crime, Family",1992-11-20,Chris Columbus
+427,428,"Worldwide Lifetime Gross: $358,375,603",Hotel Transylvania,7.0,91,2012,"Animation, Adventure, Comedy, Family, Fantasy, Horror",2012-09-28,Genndy Tartakovsky
+428,429,"Worldwide Lifetime Gross: $358,372,926",Minority Report,7.6,145,2002,"Action, Crime, Mystery, Sci-Fi, Thriller",2002-06-21,Steven Spielberg
+429,430,"Worldwide Lifetime Gross: $357,939,433",Spirited Away,8.6,125,2001,"Animation, Adventure, Family, Fantasy, Mystery",2003-03-28,Hayao Miyazaki
+430,431,"Worldwide Lifetime Gross: $357,288,178",Top Gun,6.9,109,1986,"Action, Drama",1986-05-16,Tony Scott
+431,432,"Worldwide Lifetime Gross: $357,243,061",The Legend of Tarzan,6.2,110,2016,"Action, Adventure, Drama, Fantasy, Romance",2016-07-01,David Yates
+432,433,"Worldwide Lifetime Gross: $356,296,601",American Beauty,8.3,122,1999,Drama,1999-10-01,Sam Mendes
+433,434,"Worldwide Lifetime Gross: $355,237,933",Apollo 13,7.7,140,1995,"Adventure, Drama, History",1995-06-30,Ron Howard
+434,435,"Worldwide Lifetime Gross: $354,825,435",Rain Man,8.0,133,1988,Drama,1988-12-16,Barry Levinson
+435,436,"Worldwide Lifetime Gross: $353,660,028",The Great Gatsby,7.2,143,2013,"Drama, Romance",2013-05-10,Baz Luhrmann
+436,437,"Worldwide Lifetime Gross: $353,284,621",Dumbo,6.3,112,2019,"Adventure, Family, Fantasy",2019-03-29,Tim Burton
+437,438,"Worldwide Lifetime Gross: $353,133,898","I, Robot",7.1,115,2004,"Action, Mystery, Sci-Fi, Thriller",2004-07-16,Alex Proyas
+438,439,"Worldwide Lifetime Gross: $352,927,224",Basic Instinct,7.1,127,1992,"Drama, Mystery, Thriller",1992-03-20,Paul Verhoeven
+439,440,"Worldwide Lifetime Gross: $352,794,081",Murder on the Orient Express,6.5,114,2017,"Crime, Drama, Mystery, Thriller",2017-11-10,Kenneth Branagh
+440,441,"Worldwide Lifetime Gross: $352,616,690",X-Men: First Class,7.7,131,2011,"Action, Sci-Fi",2011-06-03,Matthew Vaughn
+441,442,"Worldwide Lifetime Gross: $352,333,929",The Angry Birds Movie,6.3,97,2016,"Animation, Action, Adventure, Comedy, Family",2016-05-20,"Clay Kaytis, Fergal Reilly"
+442,443,"Worldwide Lifetime Gross: $352,194,034",GoldenEye,7.2,130,1995,"Action, Adventure, Thriller",1995-11-17,Martin Campbell
+443,444,"Worldwide Lifetime Gross: $352,114,312",Catch Me If You Can,8.1,141,2002,"Biography, Crime, Drama",2002-12-25,Steven Spielberg
+444,445,"Worldwide Lifetime Gross: $351,723,989",Now You See Me,7.2,115,2013,"Crime, Mystery, Thriller",2013-05-31,Louis Leterrier
+445,446,"Worldwide Lifetime Gross: $351,692,268",Hannibal,6.8,131,2001,"Crime, Drama, Thriller",2001-02-09,Ridley Scott
+446,447,"Worldwide Lifetime Gross: $351,583,407",The Mask,6.9,101,1994,"Action, Comedy, Crime, Fantasy",1994-07-29,Chuck Russell
+447,448,"Worldwide Lifetime Gross: $351,516,614",Peter Rabbit,6.6,95,2018,"Animation, Adventure, Comedy, Drama, Family, Fantasy",2018-02-09,Will Gluck
+448,449,"Worldwide Lifetime Gross: $350,448,145",Speed,7.3,116,1994,"Action, Adventure, Thriller",1994-06-10,Jan de Bont
+449,450,"Worldwide Lifetime Gross: $349,822,765",Dinosaur,6.4,82,2000,"Animation, Adventure, Drama, Family, Fantasy",2000-05-19,"Eric Leighton, Ralph Zondag"
+450,451,"Worldwide Lifetime Gross: $349,546,142",Mary Poppins Returns,6.7,130,2018,"Adventure, Comedy, Family, Fantasy, Musical",2018-12-19,Rob Marshall
+451,452,"Worldwide Lifetime Gross: $349,464,664",Deep Impact,6.2,120,1998,"Action, Drama, Sci-Fi, Thriller",1998-05-08,Mimi Leder
+452,453,"Worldwide Lifetime Gross: $349,305,397",The Lorax,6.4,86,2012,"Animation, Adventure, Comedy, Drama, Family, Fantasy, Musical",2012-03-02,"Chris Renaud, Kyle Balda"
+453,454,"Worldwide Lifetime Gross: $348,319,861",The Maze Runner,6.8,113,2014,"Action, Mystery, Sci-Fi, Thriller",2014-09-19,Wes Ball
+454,455,"Worldwide Lifetime Gross: $347,545,360",The Smurfs 2,5.3,105,2013,"Animation, Adventure, Comedy, Family, Fantasy",2013-07-31,Raja Gosnell
+455,456,"Worldwide Lifetime Gross: $347,512,530",National Treasure,6.9,131,2004,"Action, Adventure, Mystery, Thriller",2004-11-19,Jon Turteltaub
+456,457,"Worldwide Lifetime Gross: $347,337,803",Trolls,6.4,92,2016,"Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance",2016-11-04,"Mike Mitchell, Walt Dohrn"
+457,458,"Worldwide Lifetime Gross: $347,325,802",Rush Hour 2,6.7,90,2001,"Action, Comedy, Crime, Thriller",2001-08-03,Brett Ratner
+458,459,"Worldwide Lifetime Gross: $346,654,179",How the Grinch Stole Christmas,6.3,104,2000,"Comedy, Family, Fantasy",2000-11-17,Ron Howard
+459,460,"Worldwide Lifetime Gross: $346,118,277",xXx: Return of Xander Cage,5.2,107,2017,"Action, Adventure, Thriller",2017-01-20,D.J. Caruso
+460,461,"Worldwide Lifetime Gross: $346,079,773",Pocahontas,6.7,81,1995,"Animation, Adventure, Drama, Family, Musical, Romance",1995-06-23,"Mike Gabriel, Eric Goldberg"
+461,462,"Worldwide Lifetime Gross: $343,471,816",Star Trek Beyond,7.0,122,2016,"Action, Adventure, Sci-Fi, Thriller",2016-07-22,Justin Lin
+462,463,"Worldwide Lifetime Gross: $342,695,435",Alvin and the Chipmunks: Chipwrecked,4.4,87,2011,"Adventure, Comedy, Family, Fantasy, Music, Musical",2011-12-16,Mike Mitchell
+463,464,"Worldwide Lifetime Gross: $342,463,063",Wanted,6.7,110,2008,"Action, Crime, Thriller",2008-06-27,Timur Bekmambetov
+464,465,"Worldwide Lifetime Gross: $341,631,208",The Flintstones,5.0,91,1994,"Comedy, Family, Fantasy",1994-05-27,Brian Levant
+465,466,"Worldwide Lifetime Gross: $340,955,294",A Quiet Place,7.5,90,2018,"Drama, Horror, Sci-Fi",2018-04-06,John Krasinski
+466,467,"Worldwide Lifetime Gross: $340,487,869",Enchanted,7.1,107,2007,"Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance",2007-11-21,Kevin Lima
+467,468,"Worldwide Lifetime Gross: $339,795,890",Over the Hedge,6.7,83,2006,"Animation, Adventure, Comedy, Family",2006-05-19,"Tim Johnson, Karey Kirkpatrick"
+468,469,"Worldwide Lifetime Gross: $337,580,051",300: Rise of an Empire,6.2,102,2014,"Action, Drama",2014-03-07,Noam Murro
+469,470,"Worldwide Lifetime Gross: $337,371,917",The Hunger Games: The Ballad of Songbirds & Snakes,6.7,157,2023,"Action, Adventure, Drama, Sci-Fi, Thriller, War",2023-11-17,Francis Lawrence
+470,471,"Worldwide Lifetime Gross: $336,567,158",Batman Forever,5.4,121,1995,"Action, Adventure",1995-06-16,Joel Schumacher
+471,472,"Worldwide Lifetime Gross: $336,365,676",Prince of Persia: The Sands of Time,6.6,116,2010,"Action, Adventure, Fantasy",2010-05-28,Mike Newell
+472,473,"Worldwide Lifetime Gross: $335,802,786",The Curious Case of Benjamin Button,7.8,166,2008,"Drama, Fantasy, Romance",2008-12-25,David Fincher
+473,474,"Worldwide Lifetime Gross: $335,288,576",Journey 2: The Mysterious Island,5.7,94,2012,"Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",2012-02-10,Brad Peyton
+474,475,"Worldwide Lifetime Gross: $335,062,621",The Rock,7.4,136,1996,"Action, Adventure, Thriller",1996-06-07,Michael Bay
+475,476,"Worldwide Lifetime Gross: $334,933,831",The Great Wall,5.9,103,2016,"Action, Adventure, Fantasy, Thriller",2017-02-17,Yimou Zhang
+476,477,"Worldwide Lifetime Gross: $334,897,606",Now You See Me 2,6.4,129,2016,"Action, Adventure, Comedy, Crime, Mystery, Thriller",2016-06-10,Jon M. Chu
+477,478,"Worldwide Lifetime Gross: $334,530,869",Never Say Die,6.2,100,2017,"Comedy, Fantasy, Sport",2017-09-29,"Yang Song, Chiyu Zhang"
+478,479,"Worldwide Lifetime Gross: $334,273,059",Bridget Jones's Diary,6.8,97,2001,"Comedy, Drama, Romance",2001-04-13,Sharon Maguire
+479,480,"Worldwide Lifetime Gross: $333,535,934",Fantastic Four,5.7,106,2005,"Action, Adventure, Fantasy, Sci-Fi",2005-07-08,Tim Story
+480,481,"Worldwide Lifetime Gross: $333,107,271",Indiana Jones and the Temple of Doom,7.5,118,1984,"Action, Adventure",1984-05-23,Steven Spielberg
+481,482,"Worldwide Lifetime Gross: $333,011,068",Tomorrow Never Dies,6.5,119,1997,"Action, Adventure, Thriller",1997-12-19,Roger Spottiswoode
+482,483,"Worldwide Lifetime Gross: $332,500,002",Back to the Future Part II,7.8,108,1989,"Adventure, Comedy, Sci-Fi",1989-11-22,Robert Zemeckis
+483,484,"Worldwide Lifetime Gross: $332,207,671",The Good Dinosaur,6.7,93,2015,"Animation, Action, Adventure, Comedy, Drama, Family, Fantasy",2015-11-25,Peter Sohn
+484,485,"Worldwide Lifetime Gross: $331,526,598",Free Guy,7.1,115,2021,"Action, Adventure, Comedy, Fantasy, Sci-Fi",2021-08-13,Shawn Levy
+485,486,"Worldwide Lifetime Gross: $331,333,876",22 Jump Street,7.0,112,2014,"Action, Comedy, Crime",2014-06-13,"Phil Lord, Christopher Miller"
+486,487,"Worldwide Lifetime Gross: $330,444,045",Meet the Parents,7.0,108,2000,"Comedy, Romance",2000-10-06,Jay Roach
+487,488,"Worldwide Lifetime Gross: $329,803,958",Who Framed Roger Rabbit,7.7,104,1988,"Animation, Adventure, Comedy, Crime, Family, Fantasy, Mystery",1988-06-22,Robert Zemeckis
+488,489,"Worldwide Lifetime Gross: $329,398,046",Black Swan,8.0,108,2010,"Drama, Thriller",2010-12-17,Darren Aronofsky
+489,490,"Worldwide Lifetime Gross: $328,718,434",The Perfect Storm,6.5,130,2000,"Action, Adventure, Drama, Thriller",2000-06-30,Wolfgang Petersen
+490,491,"Worldwide Lifetime Gross: $328,349,908",John Wick: Chapter 3 - Parabellum,7.4,130,2019,"Action, Crime, Thriller",2019-05-17,Chad Stahelski
+491,492,"Worldwide Lifetime Gross: $328,203,506",Crocodile Dundee,6.6,97,1986,"Action, Adventure, Comedy",1986-09-26,Peter Faiman
+492,493,"Worldwide Lifetime Gross: $327,598,891",Crazy Alien,5.7,116,2019,"Comedy, Sci-Fi",2019-02-05,Hao Ning
+493,494,"Worldwide Lifetime Gross: $327,333,559",Se7en,8.6,127,1995,"Crime, Drama, Mystery, Thriller",1995-09-22,David Fincher
+494,495,"Worldwide Lifetime Gross: $326,715,791",The Devil Wears Prada,6.9,109,2006,"Comedy, Drama",2006-06-30,David Frankel
+495,496,"Worldwide Lifetime Gross: $326,479,141",Taken 3,6.0,108,2014,"Action, Crime, Thriller",2015-01-09,Olivier Megaton
+496,497,"Worldwide Lifetime Gross: $325,338,851",The Hunchback of Notre Dame,7.0,91,1996,"Animation, Drama, Family, Musical, Romance",1996-06-21,"Gary Trousdale, Kirk Wise"
+497,498,"Worldwide Lifetime Gross: $325,286,646",A Christmas Carol,6.8,96,2009,"Animation, Adventure, Comedy, Drama, Family, Fantasy",2009-11-06,Robert Zemeckis
+498,499,"Worldwide Lifetime Gross: $325,186,032",The SpongeBob Movie: Sponge Out of Water,6.0,92,2015,"Animation, Adventure, Comedy, Family, Fantasy",2015-02-06,"Paul Tibbitt, Mike Mitchell"
+499,500,"Worldwide Lifetime Gross: $322,811,702",The Conjuring 2,7.3,134,2016,"Horror, Mystery, Thriller",2016-06-10,James Wan
+500,501,"Worldwide Lifetime Gross: $322,161,245",Schindler's List,9.0,195,1993,"Biography, Drama, History",1994-02-04,Steven Spielberg
+501,502,"Worldwide Lifetime Gross: $321,885,765",Megamind,7.3,95,2010,"Animation, Action, Adventure, Comedy, Crime, Family, Fantasy, Sci-Fi",2010-11-05,Tom McGrath
+502,503,"Worldwide Lifetime Gross: $321,752,656",Green Book,8.2,130,2018,"Biography, Comedy, Drama, Music",2018-11-16,Peter Farrelly
+503,504,"Worldwide Lifetime Gross: $321,731,527",Lethal Weapon 3,6.7,118,1992,"Action, Crime, Thriller",1992-05-15,Richard Donner
+504,505,"Worldwide Lifetime Gross: $321,669,741",Robin Hood,6.6,140,2010,"Action, Adventure, Drama, History",2010-05-14,Ridley Scott
+505,506,"Worldwide Lifetime Gross: $321,458,605",Inglourious Basterds,8.4,153,2009,"Adventure, Drama, War",2009-08-21,Quentin Tarantino
+506,507,"Worldwide Lifetime Gross: $320,689,294",101 Dalmatians,5.7,103,1996,"Adventure, Comedy, Crime, Family",1996-11-27,Stephen Herek
+507,508,"Worldwide Lifetime Gross: $320,415,166",The Conjuring,7.5,112,2013,"Horror, Mystery, Thriller",2013-07-19,James Wan
+508,509,"Worldwide Lifetime Gross: $320,145,693",Fatal Attraction,6.9,119,1987,"Drama, Thriller",1987-09-18,Adrian Lyne
+509,510,"Worldwide Lifetime Gross: $319,715,683",Sonic the Hedgehog,6.5,99,2020,"Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",2020-02-14,Jeff Fowler
+510,511,"Worldwide Lifetime Gross: $319,713,881",The Last Airbender,4.0,103,2010,"Action, Adventure, Family, Fantasy",2010-07-01,M. Night Shyamalan
+511,512,"Worldwide Lifetime Gross: $318,321,815",The Polar Express,6.6,100,2004,"Animation, Adventure, Comedy, Family, Fantasy, Musical",2004-11-10,Robert Zemeckis
+512,513,"Worldwide Lifetime Gross: $317,375,435",The Proposal,6.8,108,2009,"Comedy, Drama, Romance",2009-06-19,Anne Fletcher
+513,514,"Worldwide Lifetime Gross: $316,791,257",A Beautiful Mind,8.2,135,2001,"Biography, Drama, Mystery",2002-01-04,Ron Howard
+514,515,"Worldwide Lifetime Gross: $316,360,478",Beverly Hills Cop,7.4,105,1984,"Action, Comedy, Crime, Thriller",1984-12-05,Martin Brest
+515,516,"Worldwide Lifetime Gross: $315,156,409",Air Force One,6.5,124,1997,"Action, Crime, Drama, Thriller",1997-07-25,Wolfgang Petersen
+516,517,"Worldwide Lifetime Gross: $315,025,930",Wonder,7.9,113,2017,"Drama, Family",2017-11-17,Stephen Chbosky
+517,518,"Worldwide Lifetime Gross: $314,975,955",The Expendables 2,6.6,103,2012,"Action, Adventure, Thriller",2012-08-17,Simon West
+518,519,"Worldwide Lifetime Gross: $314,432,837",Chicken Little,5.7,81,2005,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi",2005-10-06,Mark Dindal
+519,520,"Worldwide Lifetime Gross: $314,178,011",As Good as It Gets,7.7,139,1997,"Comedy, Drama, Romance",1997-12-25,James L. Brooks
+520,521,"Worldwide Lifetime Gross: $313,701,294",Austin Powers: The Spy Who Shagged Me,6.7,95,1999,"Action, Adventure, Comedy, Crime",1999-06-11,Jay Roach
+521,522,"Worldwide Lifetime Gross: $312,897,920",Knives Out,7.9,130,2019,"Comedy, Crime, Drama, Mystery, Thriller",2019-11-27,Rian Johnson
+522,523,"Worldwide Lifetime Gross: $312,336,671",The Lego Batman Movie,7.3,104,2017,"Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",2017-02-10,Chris McKay
+523,524,"Worldwide Lifetime Gross: $312,296,056",Maze Runner: The Scorch Trials,6.3,131,2015,"Action, Adventure, Sci-Fi, Thriller",2015-09-18,Wes Ball
+524,525,"Worldwide Lifetime Gross: $312,242,626",Resident Evil: The Final Chapter,5.5,107,2016,"Action, Horror, Sci-Fi",2017-01-27,Paul W.S. Anderson
+525,526,"Worldwide Lifetime Gross: $311,312,624",Ocean's Thirteen,6.9,122,2007,"Crime, Thriller",2007-06-08,Steven Soderbergh
+526,527,"Worldwide Lifetime Gross: $310,650,585",Little Fockers,5.5,98,2010,"Comedy, Romance",2010-12-22,Paul Weitz
+527,528,"Worldwide Lifetime Gross: $309,979,994",Bolt,6.8,96,2008,"Animation, Adventure, Comedy, Crime, Drama, Family, Sci-Fi",2008-11-21,"Byron Howard, Chris Williams"
+528,529,"Worldwide Lifetime Gross: $309,492,681",Ransom,6.7,121,1996,"Action, Crime, Thriller",1996-11-08,Ron Howard
+529,530,"Worldwide Lifetime Gross: $309,460,292",Runaway Bride,5.6,116,1999,"Comedy, Romance",1999-07-30,Garry Marshall
+530,531,"Worldwide Lifetime Gross: $309,231,694",The Blind Side,7.6,129,2009,"Biography, Drama, Sport",2009-11-20,John Lee Hancock
+531,532,"Worldwide Lifetime Gross: $307,592,427",The Ex-File 3: Return of the Exes,5.5,120,2017,"Comedy, Romance",2017-12-29,Yusheng Tian
+532,533,"Worldwide Lifetime Gross: $307,168,169",The Fault in Our Stars,7.7,126,2014,"Drama, Romance",2014-06-06,Josh Boone
+533,534,"Worldwide Lifetime Gross: $307,127,625",The Pursuit of Happyness,8.0,117,2006,"Biography, Drama",2006-12-15,Gabriele Muccino
+534,535,"Worldwide Lifetime Gross: $306,941,670",Rise of the Guardians,7.2,97,2012,"Animation, Action, Adventure, Comedy, Drama, Family, Fantasy, Sci-Fi",2012-11-21,Peter Ramsey
+535,536,"Worldwide Lifetime Gross: $306,889,114",Close Encounters of the Third Kind,7.6,138,1977,"Drama, Sci-Fi",1977-12-14,Steven Spielberg
+536,537,"Worldwide Lifetime Gross: $306,776,732",Chicago,7.2,113,2002,"Comedy, Crime, Musical",2003-01-24,Rob Marshall
+537,538,"Worldwide Lifetime Gross: $306,592,201",Annabelle: Creation,6.5,109,2017,"Horror, Mystery, Thriller",2017-08-11,David F. Sandberg
+538,539,"Worldwide Lifetime Gross: $306,442,085",Bridesmaids,6.8,125,2011,Comedy,2011-05-13,Paul Feig
+539,540,"Worldwide Lifetime Gross: $304,870,828",Skyscraper,5.8,102,2018,"Action, Adventure, Thriller",2018-07-13,Rawson Marshall Thurber
+540,541,"Worldwide Lifetime Gross: $304,654,182",A Good Day to Die Hard,5.2,98,2013,"Action, Thriller",2013-02-14,John Moore
+541,542,"Worldwide Lifetime Gross: $304,320,254",Mulan,7.7,87,1998,"Animation, Adventure, Comedy, Family, Fantasy, Musical, War",1998-06-19,"Tony Bancroft, Barry Cook"
+542,543,"Worldwide Lifetime Gross: $303,723,636",Dangal,8.3,161,2016,"Action, Biography, Drama, Sport",2016-12-21,Nitesh Tiwari
+543,544,"Worldwide Lifetime Gross: $303,144,152",Passengers,7.0,116,2016,"Drama, Romance, Sci-Fi, Thriller",2016-12-21,Morten Tyldum
+544,545,"Worldwide Lifetime Gross: $303,025,485",Battleship,5.8,131,2012,"Action, Adventure, Sci-Fi, Thriller",2012-05-18,Peter Berg
+545,546,"Worldwide Lifetime Gross: $302,710,615",Liar Liar,6.9,86,1997,"Comedy, Fantasy",1997-03-21,Tom Shadyac
+546,547,"Worldwide Lifetime Gross: $302,469,017",G.I. Joe: The Rise of Cobra,5.7,118,2009,"Action, Adventure, Sci-Fi, Thriller",2009-08-07,Stephen Sommers
+547,548,"Worldwide Lifetime Gross: $301,970,083",Wrath of the Titans,5.7,99,2012,"Action, Adventure, Fantasy",2012-03-30,Jonathan Liebesman
+548,549,"Worldwide Lifetime Gross: $301,913,131",Fantastic Four: Rise of the Silver Surfer,5.6,92,2007,"Action, Adventure, Fantasy, Sci-Fi",2007-06-15,Tim Story
+549,550,"Worldwide Lifetime Gross: $300,854,823",Hook,6.8,142,1991,"Adventure, Comedy, Family, Fantasy",1991-12-11,Steven Spielberg
+550,551,"Worldwide Lifetime Gross: $300,478,449",Superman,7.4,143,1978,"Action, Adventure, Sci-Fi",1978-12-15,Richard Donner
+551,552,"Worldwide Lifetime Gross: $300,473,716",Rocky IV,6.9,91,1985,"Drama, Sport",1985-11-27,Sylvester Stallone
+552,553,"Worldwide Lifetime Gross: $300,400,432",Rambo: First Blood Part II,6.5,96,1985,"Action, Adventure, Thriller",1985-05-22,George P. Cosmatos
+553,554,"Worldwide Lifetime Gross: $300,228,084",Resident Evil: Afterlife,5.8,96,2010,"Action, Horror, Sci-Fi",2010-09-10,Paul W.S. Anderson
+554,555,"Worldwide Lifetime Gross: $300,157,638",Van Helsing,6.1,131,2004,"Action, Adventure, Fantasy, Thriller",2004-05-07,Stephen Sommers
+555,556,"Worldwide Lifetime Gross: $300,135,367",Stuart Little,6.0,84,1999,"Adventure, Comedy, Family, Fantasy",1999-12-17,Rob Minkoff
+556,557,"Worldwide Lifetime Gross: $299,965,036",Beverly Hills Cop II,6.6,103,1987,"Action, Comedy, Crime, Thriller",1987-05-20,Tony Scott
+557,558,"Worldwide Lifetime Gross: $299,820,798",Alice Through the Looking Glass,6.2,113,2016,"Adventure, Family, Fantasy, Mystery",2016-05-27,James Bobin
+558,559,"Worldwide Lifetime Gross: $299,288,605",My Best Friend's Wedding,6.3,105,1997,"Comedy, Drama, Romance",1997-06-20,P.J. Hogan
+559,560,"Worldwide Lifetime Gross: $299,268,508",Real Steel,7.1,127,2011,"Action, Drama, Sci-Fi, Sport",2011-10-07,Shawn Levy
+560,561,"Worldwide Lifetime Gross: $298,896,897",Migration,6.6,83,2023,"Animation, Adventure, Comedy, Family",2023-12-22,"Benjamin Renner, Guylo Homsy"
+561,562,"Worldwide Lifetime Gross: $298,572,799",Horton Hears a Who!,6.8,86,2008,"Animation, Adventure, Comedy, Drama, Family, Fantasy, Music",2008-03-14,"Jimmy Hayward, Steve Martino"
+562,563,"Worldwide Lifetime Gross: $297,795,726",Ocean's Eight,6.3,110,2018,"Action, Comedy, Crime",2018-06-08,Gary Ross
+563,564,"Worldwide Lifetime Gross: $297,372,261",A Quiet Place Part II,7.2,97,2020,"Drama, Horror, Sci-Fi, Thriller",2021-05-28,John Krasinski
+564,565,"Worldwide Lifetime Gross: $297,002,527",The Divergent Series: Insurgent,6.2,119,2015,"Action, Adventure, Sci-Fi, Thriller",2015-03-20,Robert Schwentke
+565,566,"Worldwide Lifetime Gross: $296,999,813",Look Who's Talking,5.9,93,1989,Comedy,1989-10-13,Amy Heckerling
+566,567,"Worldwide Lifetime Gross: $296,938,801",Austin Powers in Goldmember,6.2,94,2002,"Action, Adventure, Comedy, Crime",2002-07-26,Jay Roach
+567,568,"Worldwide Lifetime Gross: $296,578,797",Ghostbusters,7.8,105,1984,"Action, Comedy, Fantasy, Sci-Fi",1984-06-08,Ivan Reitman
+568,569,"Worldwide Lifetime Gross: $296,482,446",Miss Peregrine's Home for Peculiar Children,6.7,127,2016,"Adventure, Drama, Family, Fantasy, Thriller",2016-09-30,Tim Burton
+569,570,"Worldwide Lifetime Gross: $296,339,528",X-Men,7.3,104,2000,"Action, Adventure, Sci-Fi",2000-07-14,Bryan Singer
+570,571,"Worldwide Lifetime Gross: $296,069,199",Ferdinand,6.7,108,2017,"Animation, Adventure, Comedy, Drama, Family",2017-12-15,Carlos Saldanha
+571,572,"Worldwide Lifetime Gross: $294,941,147",Shutter Island,8.2,138,2010,"Drama, Mystery, Thriller",2010-02-19,Martin Scorsese
+572,573,"Worldwide Lifetime Gross: $294,456,605",Doctor Dolittle,5.4,85,1998,"Comedy, Family, Fantasy",1998-06-26,Betty Thomas
+573,574,"Worldwide Lifetime Gross: $293,514,336",Bee Movie,6.1,91,2007,"Animation, Adventure, Comedy, Drama, Family",2007-11-02,"Simon J. Smith, Steve Hickner"
+574,575,"Worldwide Lifetime Gross: $293,503,354",Salt,6.5,100,2010,"Action, Thriller",2010-07-23,Phillip Noyce
+575,576,"Worldwide Lifetime Gross: $292,817,898",G-Force,5.1,88,2009,"Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",2009-07-24,Hoyt Yeatman
+576,577,"Worldwide Lifetime Gross: $291,493,620",Five Nights at Freddy's,5.4,109,2023,"Horror, Mystery, Thriller",2023-10-27,Emma Tammi
+577,578,"Worldwide Lifetime Gross: $291,481,358",The Departed,8.5,151,2006,"Crime, Drama, Thriller",2006-10-06,Martin Scorsese
+578,579,"Worldwide Lifetime Gross: $291,420,351",What Lies Beneath,6.6,130,2000,"Drama, Horror, Mystery, Thriller",2000-07-21,Robert Zemeckis
+579,580,"Worldwide Lifetime Gross: $290,930,148",Pacific Rim: Uprising,5.6,111,2018,"Action, Adventure, Sci-Fi",2018-03-23,Steven S. DeKnight
+580,581,"Worldwide Lifetime Gross: $290,835,269",The Bourne Supremacy,7.7,108,2004,"Action, Mystery, Thriller",2004-07-23,Paul Greengrass
+581,582,"Worldwide Lifetime Gross: $290,745,055",Sex and the City 2,4.5,146,2010,"Comedy, Drama, Romance",2010-05-27,Michael Patrick King
+582,583,"Worldwide Lifetime Gross: $289,317,794",Shakespeare in Love,7.1,123,1998,"Comedy, Drama, History, Romance",1999-01-08,John Madden
+583,584,"Worldwide Lifetime Gross: $288,885,818",Divergent,6.6,139,2014,"Action, Adventure, Mystery, Sci-Fi",2014-03-21,Neil Burger
+584,585,"Worldwide Lifetime Gross: $288,752,301",Coming to America,7.1,117,1988,"Comedy, Romance",1988-06-29,John Landis
+585,586,"Worldwide Lifetime Gross: $288,670,284",Elvis,7.3,159,2022,"Biography, Drama, Music",2022-06-24,Baz Luhrmann
+586,587,"Worldwide Lifetime Gross: $288,485,135",Wedding Crashers,7.0,119,2005,"Comedy, Romance",2005-07-15,David Dobkin
+587,588,"Worldwide Lifetime Gross: $288,175,335",Maze Runner: The Death Cure,6.3,143,2018,"Action, Adventure, Sci-Fi, Thriller",2018-01-26,Wes Ball
+588,589,"Worldwide Lifetime Gross: $288,039,549",Casper,6.2,100,1995,"Comedy, Family, Fantasy",1995-05-26,Brad Silberling
+589,590,"Worldwide Lifetime Gross: $287,553,595",American Pie 2,6.4,108,2001,Comedy,2001-08-10,J.B. Rogers
+590,591,"Worldwide Lifetime Gross: $287,144,079",Pitch Perfect 2,6.4,115,2015,"Comedy, Music",2015-05-15,Elizabeth Banks
+591,592,"Worldwide Lifetime Gross: $286,801,374",The Green Mile,8.6,189,1999,"Crime, Drama, Fantasy, Mystery",1999-12-10,Frank Darabont
+592,593,"Worldwide Lifetime Gross: $286,168,572",Oblivion,7.0,124,2013,"Action, Adventure, Sci-Fi",2013-04-19,Joseph Kosinski
+593,594,"Worldwide Lifetime Gross: $286,140,700",Elysium,6.6,109,2013,"Action, Drama, Sci-Fi, Thriller",2013-08-09,Neill Blomkamp
+594,595,"Worldwide Lifetime Gross: $285,444,603",Lethal Weapon 4,6.6,127,1998,"Action, Crime, Thriller",1998-07-10,Richard Donner
+595,596,"Worldwide Lifetime Gross: $284,139,100",John Carter,6.6,132,2012,"Action, Adventure, Sci-Fi",2012-03-09,Andrew Stanton
+596,597,"Worldwide Lifetime Gross: $282,570,682",Turbo,6.4,96,2013,"Animation, Adventure, Comedy, Family, Sport",2013-07-17,David Soren
+597,598,"Worldwide Lifetime Gross: $282,463,312",Paddington,7.3,95,2014,"Adventure, Comedy, Family, Fantasy",2015-01-16,Paul King
+598,599,"Worldwide Lifetime Gross: $278,780,441",The Tourist,6.0,103,2010,"Action, Thriller",2010-12-10,Florian Henckel von Donnersmarck
+599,600,"Worldwide Lifetime Gross: $278,454,417",Split,7.3,117,2016,"Horror, Thriller",2017-01-20,M. Night Shyamalan
+600,601,"Worldwide Lifetime Gross: $278,019,771",Scary Movie,6.3,88,2000,Comedy,2000-07-07,Keenen Ivory Wayans
+601,602,"Worldwide Lifetime Gross: $277,448,382",xXx,5.8,124,2002,"Action, Adventure, Thriller",2002-08-09,Rob Cohen
+602,603,"Worldwide Lifetime Gross: $276,605,984",Blade Runner 2049,8.0,164,2017,"Action, Drama, Mystery, Sci-Fi, Thriller",2017-10-06,Denis Villeneuve
+603,604,"Worldwide Lifetime Gross: $276,148,615",Creed III,6.7,116,2023,"Action, Drama, Sport",2023-03-03,Michael B. Jordan
+604,605,"Worldwide Lifetime Gross: $276,144,750",The Bourne Legacy,6.6,135,2012,"Action, Adventure, Thriller",2012-08-10,Tony Gilroy
+605,606,"Worldwide Lifetime Gross: $275,698,039",Mr. Peabody & Sherman,6.8,92,2014,"Animation, Adventure, Comedy, Family, Fantasy, History, Sci-Fi",2014-03-07,Rob Minkoff
+606,607,"Worldwide Lifetime Gross: $275,679,958",Scooby-Doo,5.3,86,2002,"Adventure, Comedy, Family, Fantasy, Mystery",2002-06-14,Raja Gosnell
+607,608,"Worldwide Lifetime Gross: $275,293,450",Lincoln,7.3,150,2012,"Biography, Drama, History, War",2012-11-16,Steven Spielberg
+608,609,"Worldwide Lifetime Gross: $274,950,803",Tomb Raider,6.3,119,2018,"Action, Adventure, Fantasy, Thriller",2018-03-16,Roar Uthaug
+609,610,"Worldwide Lifetime Gross: $274,703,340",Lara Croft: Tomb Raider,5.8,100,2001,"Action, Adventure, Fantasy, Thriller",2001-06-15,Simon West
+610,611,"Worldwide Lifetime Gross: $274,470,394",The Expendables,6.4,103,2010,"Action, Adventure, Thriller",2010-08-13,Sylvester Stallone
+611,612,"Worldwide Lifetime Gross: $274,325,949",Cloudy with a Chance of Meatballs 2,6.3,95,2013,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi",2013-09-27,"Cody Cameron, Kris Pearn"
+612,613,"Worldwide Lifetime Gross: $273,961,019",The Nutty Professor,5.7,95,1996,"Comedy, Romance, Sci-Fi",1996-06-28,Tom Shadyac
+613,614,"Worldwide Lifetime Gross: $273,552,592",Jerry Maguire,7.3,139,1996,"Comedy, Drama, Romance, Sport",1996-12-13,Cameron Crowe
+614,615,"Worldwide Lifetime Gross: $273,340,010",Bad Boys II,6.6,147,2003,"Action, Comedy, Crime, Thriller",2003-07-18,Michael Bay
+615,616,"Worldwide Lifetime Gross: $273,147,061",Lilo & Stitch,7.3,85,2002,"Animation, Adventure, Comedy, Drama, Family, Fantasy, Sci-Fi",2002-06-21,"Dean DeBlois, Chris Sanders"
+616,617,"Worldwide Lifetime Gross: $272,742,922",The Silence of the Lambs,8.6,118,1991,"Crime, Drama, Thriller",1991-02-14,Jonathan Demme
+617,618,"Worldwide Lifetime Gross: $271,457,606",Grown Ups,6.0,102,2010,Comedy,2010-06-25,Dennis Dugan
+618,619,"Worldwide Lifetime Gross: $271,333,313",The Flash,6.7,144,2023,"Action, Adventure, Fantasy, Sci-Fi",2023-06-16,Andy Muschietti
+619,620,"Worldwide Lifetime Gross: $270,665,134",Neighbors,6.3,97,2014,Comedy,2014-05-09,Nicholas Stoller
+620,621,"Worldwide Lifetime Gross: $270,248,367",The Firm,6.9,154,1993,"Drama, Mystery, Thriller",1993-06-30,Sydney Pollack
+621,622,"Worldwide Lifetime Gross: $269,994,119",We're the Millers,7.0,110,2013,"Comedy, Crime",2013-08-07,Rawson Marshall Thurber
+622,623,"Worldwide Lifetime Gross: $269,958,228",Gran Torino,8.1,116,2008,Drama,2009-01-09,Clint Eastwood
+623,624,"Worldwide Lifetime Gross: $269,784,201","10,000 BC",5.1,109,2008,"Action, Adventure, Drama, Fantasy, History",2008-03-07,Roland Emmerich
+624,625,"Worldwide Lifetime Gross: $269,755,430",American Gangster,7.8,157,2007,"Biography, Crime, Drama",2007-11-02,Ridley Scott
+625,626,"Worldwide Lifetime Gross: $269,467,073",The Nun II,5.6,110,2023,"Horror, Mystery, Thriller",2023-09-08,Michael Chaves
+626,627,"Worldwide Lifetime Gross: $268,426,634",Epic,6.6,102,2013,"Animation, Action, Adventure, Family, Fantasy, Mystery",2013-05-24,Chris Wedge
+627,628,"Worldwide Lifetime Gross: $268,175,631",Exodus: Gods and Kings,6.0,150,2014,"Action, Adventure, Drama, Fantasy",2014-12-12,Ridley Scott
+628,629,"Worldwide Lifetime Gross: $267,983,588",This Is It,7.2,111,2009,"Documentary, Music",2009-10-28,Kenny Ortega
+629,630,"Worldwide Lifetime Gross: $267,447,150",Bambi,7.3,69,1942,"Animation, Adventure, Drama, Family",1942-08-21,"James Algar, Samuel Armstrong, David Hand, Graham Heid, Bill Roberts, Paul Satterfield, Norman Wright, Arthur Davis, Clyde Geronimi"
+630,631,"Worldwide Lifetime Gross: $267,056,816",The Princess and the Frog,7.2,97,2009,"Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance",2009-12-11,"Ron Clements, John Musker"
+631,632,"Worldwide Lifetime Gross: $266,940,655",Batman Returns,7.1,126,1992,"Action, Crime, Fantasy",1992-06-19,Tim Burton
+632,633,"Worldwide Lifetime Gross: $266,614,059",Indecent Proposal,6.0,117,1993,"Drama, Romance",1993-04-07,Adrian Lyne
+633,634,"Worldwide Lifetime Gross: $265,328,738",Something's Gotta Give,6.7,128,2003,"Comedy, Drama, Romance",2003-12-12,Nancy Meyers
+634,635,"Worldwide Lifetime Gross: $265,126,918",Bridget Jones: The Edge of Reason,6.0,108,2004,"Comedy, Drama, Romance",2004-11-19,Beeban Kidron
+635,636,"Worldwide Lifetime Gross: $264,770,996",The Incredible Hulk,6.6,112,2008,"Action, Adventure, Sci-Fi",2008-06-13,Louis Leterrier
+636,637,"Worldwide Lifetime Gross: $264,218,220",Waterworld,6.3,135,1995,"Action, Adventure, Sci-Fi",1995-07-28,Kevin Reynolds
+637,638,"Worldwide Lifetime Gross: $264,118,712",The Truman Show,8.2,103,1998,"Comedy, Drama",1998-06-05,Peter Weir
+638,639,"Worldwide Lifetime Gross: $264,105,545",Charlie's Angels,5.6,98,2000,"Action, Adventure, Comedy, Crime, Thriller",2000-11-03,McG
+639,640,"Worldwide Lifetime Gross: $263,920,180",The Fifth Element,7.6,126,1997,"Action, Adventure, Sci-Fi",1997-05-09,Luc Besson
+640,641,"Worldwide Lifetime Gross: $262,821,940",Jumanji,7.1,104,1995,"Adventure, Comedy, Family, Fantasy",1995-12-15,Joe Johnston
+641,642,"Worldwide Lifetime Gross: $262,552,893",Borat,7.4,84,2006,Comedy,2006-11-03,Larry Charles
+642,643,"Worldwide Lifetime Gross: $262,511,490",Robots,6.4,91,2005,"Animation, Adventure, Comedy, Family, Romance, Sci-Fi",2005-03-27,"Chris Wedge, Carlos Saldanha"
+643,644,"Worldwide Lifetime Gross: $262,129,969",Parasite,8.5,132,2019,"Drama, Thriller",2019-11-08,Bong Joon Ho
+644,645,"Worldwide Lifetime Gross: $261,989,769",Knight and Day,6.3,109,2010,"Action, Adventure, Comedy",2010-06-23,James Mangold
+645,646,"Worldwide Lifetime Gross: $261,656,269",Taylor Swift: The Eras Tour,8.0,169,2023,"Documentary, Music",2023-10-12,Sam Wrench
+646,647,"Worldwide Lifetime Gross: $261,317,921",Total Recall,7.5,113,1990,"Action, Adventure, Sci-Fi",1990-06-01,Paul Verhoeven
+647,648,"Worldwide Lifetime Gross: $261,119,292",Terminator: Dark Fate,6.2,128,2019,"Action, Adventure, Sci-Fi",2019-11-01,Tim Miller
+648,649,"Worldwide Lifetime Gross: $260,502,115",The Lone Ranger,6.4,150,2013,"Action, Adventure, Drama, Western",2013-07-03,Gore Verbinski
+649,650,"Worldwide Lifetime Gross: $260,095,986",Super 8,7.0,112,2011,"Action, Mystery, Sci-Fi, Thriller",2011-06-10,J.J. Abrams
+650,651,"Worldwide Lifetime Gross: $259,939,869",Halloween,6.5,106,2018,"Crime, Drama, Horror, Thriller",2018-10-19,David Gordon Green
+651,652,"Worldwide Lifetime Gross: $259,368,448",Mojin: The Lost Legend,5.9,127,2015,"Action, Adventure, Drama, Fantasy, Horror, Mystery, Thriller",2015-12-18,Wuershan
+652,653,"Worldwide Lifetime Gross: $259,175,788",Charlie's Angels: Full Throttle,4.9,106,2003,"Action, Adventure, Comedy, Crime",2003-06-27,McG
+653,654,"Worldwide Lifetime Gross: $258,097,122",Rush Hour 3,6.2,91,2007,"Action, Comedy, Crime, Thriller",2007-08-10,Brett Ratner
+654,655,"Worldwide Lifetime Gross: $257,938,649",The Full Monty,7.2,91,1997,"Comedy, Drama",1997-09-19,Peter Cattaneo
+655,656,"Worldwide Lifetime Gross: $257,753,889",Kung Fu Yoga,5.2,107,2017,"Action, Adventure, Comedy, Family, Fantasy, Mystery",2017-01-28,Stanley Tong
+656,657,"Worldwide Lifetime Gross: $257,589,952",Annabelle,5.4,99,2014,"Horror, Mystery, Thriller",2014-10-03,John R. Leonetti
+657,658,"Worldwide Lifetime Gross: $256,786,742",Encanto,7.2,102,2021,"Animation, Comedy, Family, Fantasy, Musical",2021-11-24,"Jared Bush, Byron Howard, Charise Castro Smith"
+658,659,"Worldwide Lifetime Gross: $256,697,520",The Village,6.6,108,2004,"Drama, Mystery, Thriller",2004-07-30,M. Night Shyamalan
+659,660,"Worldwide Lifetime Gross: $256,283,912",Lost in Hong Kong,5.4,114,2015,"Action, Adventure, Comedy, Crime, Family, Romance, Thriller",2015-09-25,Zheng Xu
+660,661,"Worldwide Lifetime Gross: $256,271,286",Erin Brockovich,7.4,131,2000,"Biography, Drama",2000-03-17,Steven Soderbergh
+661,662,"Worldwide Lifetime Gross: $256,071,218",Us,6.8,116,2019,"Horror, Mystery, Thriller",2019-03-22,Jordan Peele
+662,663,"Worldwide Lifetime Gross: $255,863,112",Pegasus,6.3,98,2019,"Comedy, Sport",2019-02-05,Han Han
+663,664,"Worldwide Lifetime Gross: $255,751,443",Get Out,7.8,104,2017,"Horror, Mystery, Thriller",2017-02-24,Jordan Peele
+664,665,"Worldwide Lifetime Gross: $255,743,968",Marley & Me,7.0,115,2008,"Drama, Family",2008-12-25,David Frankel
+665,666,"Worldwide Lifetime Gross: $255,000,211",Cliffhanger,6.5,113,1993,"Action, Adventure, Thriller",1993-05-28,Renny Harlin
+666,667,"Worldwide Lifetime Gross: $254,997,360",Wish,5.6,95,2023,"Animation, Adventure, Comedy, Family, Fantasy, Musical",2023-11-22,"Chris Buck, Fawn Veerasunthorn"
+667,668,"Worldwide Lifetime Gross: $254,158,390",Baahubali 2: The Conclusion,8.2,167,2017,"Action, Drama",2017-04-28,S.S. Rajamouli
+668,669,"Worldwide Lifetime Gross: $254,134,910",Babe,6.9,91,1995,"Comedy, Drama, Family",1995-08-04,Chris Noonan
+669,670,"Worldwide Lifetime Gross: $253,890,701",Men in Black: International,5.6,114,2019,"Action, Adventure, Comedy, Sci-Fi",2019-06-14,F. Gary Gray
+670,671,"Worldwide Lifetime Gross: $253,625,427",Wild Hogs,5.8,100,2007,"Action, Adventure, Comedy",2007-03-02,Walt Becker
+671,672,"Worldwide Lifetime Gross: $252,909,177",High School Musical 3: Senior Year,5.0,112,2008,"Comedy, Drama, Family, Music, Musical, Romance",2008-10-24,Kenny Ortega
+672,673,"Worldwide Lifetime Gross: $252,712,101",Hercules,7.3,93,1997,"Animation, Action, Adventure, Comedy, Family, Fantasy, Musical, Romance",1997-06-27,"Ron Clements, John Musker"
+673,674,"Worldwide Lifetime Gross: $252,442,974",X-Men: Dark Phoenix,5.7,113,2019,"Action, Adventure, Sci-Fi",2019-06-07,Simon Kinberg
+674,675,"Worldwide Lifetime Gross: $252,278,285",True Grit,7.6,110,2010,"Drama, Western",2010-12-22,"Ethan Coen, Joel Coen"
+675,676,"Worldwide Lifetime Gross: $251,410,631",Dolittle,5.6,101,2020,"Adventure, Comedy, Family, Fantasy",2020-01-17,Stephen Gaghan
+676,677,"Worldwide Lifetime Gross: $251,212,670",Bean,6.5,89,1997,"Adventure, Comedy, Family",1997-11-07,Mel Smith
+677,678,"Worldwide Lifetime Gross: $251,171,807",American Hustle,7.2,138,2013,"Crime, Drama",2013-12-20,David O. Russell
+678,679,"Worldwide Lifetime Gross: $250,849,789",Enemy of the State,7.3,132,1998,"Action, Thriller",1998-11-20,Tony Scott
+679,680,"Worldwide Lifetime Gross: $250,821,575",You've Got Mail,6.7,119,1998,"Comedy, Drama, Romance",1998-12-18,Nora Ephron
+680,681,"Worldwide Lifetime Gross: $250,570,396",Sound of Freedom,7.6,131,2023,"Biography, Crime, Drama, History, Thriller",2023-07-04,Alejandro Monteverde
+681,682,"Worldwide Lifetime Gross: $250,425,512",Eragon,5.1,104,2006,"Action, Adventure, Family, Fantasy",2006-12-15,Stefen Fangmeier
+682,683,"Worldwide Lifetime Gross: $250,397,798",Brother Bear,6.9,85,2003,"Animation, Adventure, Comedy, Drama, Family, Fantasy, Musical",2003-09-21,"Aaron Blaise, Robert Walker"
+683,684,"Worldwide Lifetime Gross: $250,387,888",The Bad Guys,6.8,100,2022,"Animation, Adventure, Comedy, Crime, Family",2022-04-22,Pierre Perifel
+684,685,"Worldwide Lifetime Gross: $250,342,030",The Godfather,9.2,175,1972,"Crime, Drama",1972-03-24,Francis Ford Coppola
+685,686,"Worldwide Lifetime Gross: $250,288,523",The Mask of Zorro,6.8,136,1998,"Action, Adventure, Comedy, Romance, Thriller, Western",1998-07-17,Martin Campbell
+686,687,"Worldwide Lifetime Gross: $250,215,630",Love Actually,7.6,135,2003,"Comedy, Drama, Romance",2003-11-14,Richard Curtis
+687,688,"Worldwide Lifetime Gross: $249,348,933",The Ring,7.1,115,2002,"Horror, Mystery",2002-10-18,Gore Verbinski
+688,689,"Worldwide Lifetime Gross: $248,639,099",The Blair Witch Project,6.5,81,1999,"Horror, Mystery",1999-07-30,"Daniel Myrick, Eduardo Sánchez"
+689,690,"Worldwide Lifetime Gross: $248,118,121",Unbreakable,7.3,106,2000,"Drama, Mystery, Sci-Fi, Thriller",2000-11-22,M. Night Shyamalan
+690,691,"Worldwide Lifetime Gross: $247,585,244",Journey to the West: The Demons Strike Back,5.4,109,2017,"Adventure, Comedy, Fantasy",2017-02-03,Hark Tsui
+691,692,"Worldwide Lifetime Gross: $247,290,327",Dumb and Dumber,7.3,107,1994,Comedy,1994-12-16,"Peter Farrelly, Bobby Farrelly"
+692,693,"Worldwide Lifetime Gross: $246,999,039",Glass,6.6,129,2019,"Drama, Horror, Sci-Fi, Thriller",2019-01-18,M. Night Shyamalan
+693,694,"Worldwide Lifetime Gross: $246,984,278",Grown Ups 2,5.4,101,2013,Comedy,2013-07-12,Dennis Dugan
+694,695,"Worldwide Lifetime Gross: $246,233,113",The Peanuts Movie,7.0,88,2015,"Animation, Adventure, Comedy, Drama, Family",2015-11-06,Steve Martino
+695,696,"Worldwide Lifetime Gross: $245,724,603",Rango,7.3,107,2011,"Animation, Action, Adventure, Comedy, Family, Western",2011-03-04,Gore Verbinski
+696,697,"Worldwide Lifetime Gross: $245,700,832",Four Weddings and a Funeral,7.1,117,1994,"Comedy, Drama, Romance",1994-04-15,Mike Newell
+697,698,"Worldwide Lifetime Gross: $245,676,146",Face/Off,7.3,138,1997,"Action, Crime, Sci-Fi, Thriller",1997-06-27,John Woo
+698,699,"Worldwide Lifetime Gross: $245,623,848",Teenage Mutant Ninja Turtles: Out of the Shadows,5.9,112,2016,"Action, Adventure, Comedy, Crime, Fantasy, Sci-Fi",2016-06-03,Dave Green
+699,700,"Worldwide Lifetime Gross: $245,527,149",Dark Shadows,6.2,113,2012,"Comedy, Fantasy, Horror",2012-05-11,Tim Burton
+700,701,"Worldwide Lifetime Gross: $245,285,165",Hulk,5.6,138,2003,"Action, Sci-Fi",2003-06-20,Ang Lee
+701,702,"Worldwide Lifetime Gross: $245,179,562",The Bravest,5.7,118,2019,"Action, Drama",2019-08-09,Tony Chan
+702,703,"Worldwide Lifetime Gross: $245,144,417",Welcome to the Sticks,7.1,106,2008,"Comedy, Romance",2008-02-27,Dany Boon
+703,704,"Worldwide Lifetime Gross: $245,077,583",Back to the Future Part III,7.4,118,1990,"Adventure, Comedy, Sci-Fi, Western",1990-05-25,Robert Zemeckis
+704,705,"Worldwide Lifetime Gross: $244,874,809",Pixels,5.6,105,2015,"Action, Comedy, Fantasy, Sci-Fi",2015-07-24,Chris Columbus
+705,706,"Worldwide Lifetime Gross: $244,819,862",Hercules,6.0,98,2014,"Action, Adventure, Fantasy",2014-07-25,Brett Ratner
+706,707,"Worldwide Lifetime Gross: $244,721,064",Rush Hour,7.0,98,1998,"Action, Comedy, Crime, Thriller",1998-09-18,Brett Ratner
+707,708,"Worldwide Lifetime Gross: $244,232,688",Journey to the Center of the Earth,5.8,93,2008,"Action, Adventure, Family, Fantasy, Sci-Fi",2008-07-11,Eric Brevig
+708,709,"Worldwide Lifetime Gross: $243,870,033",Sully,7.4,96,2016,"Biography, Drama",2016-09-09,Clint Eastwood
+709,710,"Worldwide Lifetime Gross: $243,611,982",After Earth,4.8,100,2013,"Action, Adventure, Sci-Fi",2013-05-31,M. Night Shyamalan
+710,711,"Worldwide Lifetime Gross: $243,240,178",A Few Good Men,7.7,138,1992,"Drama, Thriller",1992-12-11,Rob Reiner
+711,712,"Worldwide Lifetime Gross: $243,006,136",Cloudy with a Chance of Meatballs,6.9,90,2009,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi",2009-09-18,"Phil Lord, Christopher Miller"
+712,713,"Worldwide Lifetime Gross: $242,875,078",8 Mile,7.2,110,2002,"Drama, Music",2002-11-08,Curtis Hanson
+713,714,"Worldwide Lifetime Gross: $242,786,137",Daddy's Home,6.2,96,2015,"Comedy, Family",2015-12-25,Sean Anders
+714,715,"Worldwide Lifetime Gross: $242,688,965",RoboCop,6.1,117,2014,"Action, Crime, Sci-Fi, Thriller",2014-02-12,José Padilha
+715,716,"Worldwide Lifetime Gross: $242,295,562",Eraser,6.2,115,1996,"Action, Crime, Thriller",1996-06-21,Chuck Russell
+716,717,"Worldwide Lifetime Gross: $240,892,187",Alien: Covenant,6.4,122,2017,"Horror, Sci-Fi, Thriller",2017-05-19,Ridley Scott
+717,718,"Worldwide Lifetime Gross: $240,697,856",Assassin's Creed,5.6,115,2016,"Action, Adventure, Sci-Fi",2016-12-21,Justin Kurzel
+718,719,"Worldwide Lifetime Gross: $240,685,326",Click,6.4,107,2006,"Comedy, Drama, Fantasy, Romance",2006-06-23,Frank Coraci
+719,720,"Worldwide Lifetime Gross: $240,646,355",Jiang Ziya,6.5,110,2020,"Animation, Action, Adventure, Drama, Family, Fantasy",2020-10-01,"Teng Cheng, Li Wei"
+720,721,"Worldwide Lifetime Gross: $240,171,783",Planes,5.7,91,2013,"Animation, Adventure, Comedy, Family, Fantasy, Sport",2013-08-09,Klay Hall
+721,722,"Worldwide Lifetime Gross: $240,159,255",Resident Evil: Retribution,5.3,95,2012,"Action, Horror, Sci-Fi, Thriller",2012-09-14,Paul W.S. Anderson
+722,723,"Worldwide Lifetime Gross: $240,031,274",Die Hard 2,7.1,124,1990,"Action, Thriller",1990-07-03,Renny Harlin
+723,724,"Worldwide Lifetime Gross: $239,606,210",Crocodile Dundee II,5.7,111,1988,"Action, Adventure, Comedy",1988-05-25,John Cornell
+724,725,"Worldwide Lifetime Gross: $239,343,729",Crazy Rich Asians,6.9,120,2018,"Comedy, Drama, Romance",2018-08-15,Jon M. Chu
+725,726,"Worldwide Lifetime Gross: $239,268,602",Bullet Train,7.3,127,2022,"Action, Comedy, Thriller",2022-08-05,David Leitch
+726,727,"Worldwide Lifetime Gross: $238,259,753",Batman & Robin,3.8,125,1997,"Action, Sci-Fi",1997-06-20,Joel Schumacher
+727,728,"Worldwide Lifetime Gross: $237,703,405",Howl's Moving Castle,8.2,119,2004,"Animation, Adventure, Family, Fantasy",2005-06-17,Hayao Miyazaki
+728,729,"Worldwide Lifetime Gross: $237,382,724",Gulliver's Travels,4.9,85,2010,"Adventure, Comedy, Family, Fantasy",2010-12-25,Rob Letterman
+729,730,"Worldwide Lifetime Gross: $237,202,299",Gone in 60 Seconds,6.5,118,2000,"Action, Crime, Thriller",2000-06-09,Dominic Sena
+730,731,"Worldwide Lifetime Gross: $237,201,172",Green Lantern,5.5,114,2011,"Action, Adventure, Sci-Fi",2011-06-17,Martin Campbell
+731,732,"Worldwide Lifetime Gross: $237,113,184",Saturday Night Fever,6.8,118,1977,"Drama, Music",1977-12-16,John Badham
+732,733,"Worldwide Lifetime Gross: $236,412,453",Silver Linings Playbook,7.7,122,2012,"Comedy, Drama, Romance",2012-12-25,David O. Russell
+733,734,"Worldwide Lifetime Gross: $236,353,236",2 Fast 2 Furious,5.9,107,2003,"Action, Crime, Thriller",2003-06-06,John Singleton
+734,735,"Worldwide Lifetime Gross: $235,957,472",Hidden Figures,7.8,127,2016,"Biography, Drama, History",2017-01-06,Theodore Melfi
+735,736,"Worldwide Lifetime Gross: $235,926,635",A.I. Artificial Intelligence,7.2,146,2001,"Adventure, Drama, Sci-Fi",2001-06-29,Steven Spielberg
+736,737,"Worldwide Lifetime Gross: $235,860,116",Dead Poets Society,8.1,128,1989,"Comedy, Drama",1989-06-09,Peter Weir
+737,738,"Worldwide Lifetime Gross: $235,666,219",Spy,7.0,120,2015,"Action, Comedy",2015-06-05,Paul Feig
+738,739,"Worldwide Lifetime Gross: $235,483,004",American Pie,7.0,95,1999,Comedy,1999-07-09,"Paul Weitz, Chris Weitz"
+739,740,"Worldwide Lifetime Gross: $234,989,584",American Reunion,6.7,113,2012,Comedy,2012-04-06,"Jon Hurwitz, Hayden Schlossberg"
+740,741,"Worldwide Lifetime Gross: $234,801,895",Big Daddy,6.4,93,1999,"Comedy, Drama",1999-06-25,Dennis Dugan
+741,742,"Worldwide Lifetime Gross: $234,798,636",Alvin and the Chipmunks: The Road Chip,4.9,92,2015,"Adventure, Comedy, Family, Fantasy, Music, Musical",2015-12-18,Walt Becker
+742,743,"Worldwide Lifetime Gross: $233,555,708",The Imitation Game,8.0,114,2014,"Biography, Drama, Thriller, War",2014-12-25,Morten Tyldum
+743,744,"Worldwide Lifetime Gross: $233,503,234",Cruella,7.3,134,2021,"Adventure, Comedy, Crime, Drama",2021-05-28,Craig Gillespie
+744,745,"Worldwide Lifetime Gross: $233,093,859",The Day the Earth Stood Still,5.5,104,2008,"Adventure, Drama, Sci-Fi, Thriller",2008-12-12,Scott Derrickson
+745,746,"Worldwide Lifetime Gross: $232,722,935",American Wedding,6.3,96,2003,Comedy,2003-08-01,Jesse Dylan
+746,747,"Worldwide Lifetime Gross: $232,617,430",The Girl with the Dragon Tattoo,7.8,158,2011,"Crime, Drama, Mystery, Thriller",2011-12-21,David Fincher
+747,748,"Worldwide Lifetime Gross: $232,372,830",Juno,7.4,96,2007,"Comedy, Drama",2007-12-25,Jason Reitman
+748,749,"Worldwide Lifetime Gross: $232,325,503",Argo,7.7,120,2012,"Biography, Drama, History, Thriller",2012-10-12,Ben Affleck
+749,750,"Worldwide Lifetime Gross: $232,225,908",Mr. Bean's Holiday,6.4,90,2007,"Comedy, Family",2007-08-24,Steve Bendelack
+750,751,"Worldwide Lifetime Gross: $231,976,425",The English Patient,7.4,162,1996,"Drama, Romance, War",1996-12-06,Anthony Minghella
+751,752,"Worldwide Lifetime Gross: $231,605,150",Sister Act,6.5,100,1992,"Comedy, Family, Music",1992-05-29,Emile Ardolino
+752,753,"Worldwide Lifetime Gross: $231,252,591",Annabelle Comes Home,5.9,106,2019,"Horror, Mystery, Thriller",2019-06-26,Gary Dauberman
+753,754,"Worldwide Lifetime Gross: $230,884,728",Constantine,7.0,121,2005,"Action, Fantasy, Horror, Mystery",2005-02-18,Francis Lawrence
+754,755,"Worldwide Lifetime Gross: $230,685,453",Get Smart,6.5,110,2008,"Action, Adventure, Comedy",2008-06-20,Peter Segal
+755,756,"Worldwide Lifetime Gross: $230,594,962",Space Jam,6.5,88,1996,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi, Sport",1996-11-15,Joe Pytka
+756,757,"Worldwide Lifetime Gross: $230,099,013",Life Is Beautiful,8.6,116,1997,"Comedy, Drama, Romance, War",1997-12-20,Roberto Benigni
+757,758,"Worldwide Lifetime Gross: $229,930,771",The Heat,6.6,117,2013,"Action, Comedy, Crime",2013-06-28,Paul Feig
+758,759,"Worldwide Lifetime Gross: $229,147,509",Ghostbusters,6.8,117,2016,"Action, Comedy, Fantasy, Sci-Fi",2016-07-15,Paul Feig
+759,760,"Worldwide Lifetime Gross: $228,936,304",Elf,7.1,97,2003,"Adventure, Comedy, Family, Fantasy, Romance",2003-11-07,Jon Favreau
+760,761,"Worldwide Lifetime Gross: $228,738,393",Ghost Rider,5.3,110,2007,"Action, Fantasy, Thriller",2007-02-16,Mark Steven Johnson
+761,762,"Worldwide Lifetime Gross: $228,122,928",Goodbye Mr. Loser,6.7,104,2015,"Comedy, Drama, Fantasy, Romance",2015-09-30,"Da-Mo Peng, Fei Yan"
+762,763,"Worldwide Lifetime Gross: $227,927,165",Sleepless in Seattle,6.8,105,1993,"Comedy, Drama, Romance",1993-06-25,Nora Ephron
+763,764,"Worldwide Lifetime Gross: $227,853,986",Lethal Weapon 2,7.3,114,1989,"Action, Crime, Thriller",1989-07-07,Richard Donner
+764,765,"Worldwide Lifetime Gross: $227,817,248",The Green Hornet,5.8,119,2011,"Action, Comedy, Crime",2011-01-14,Michel Gondry
+765,766,"Worldwide Lifetime Gross: $227,514,205",Out of Africa,7.1,161,1985,"Biography, Drama, Romance",1985-12-20,Sydney Pollack
+766,767,"Worldwide Lifetime Gross: $227,309,407",Paddington 2,7.8,103,2017,"Adventure, Comedy, Family",2018-01-12,Paul King
+767,768,"Worldwide Lifetime Gross: $227,091,290",Youth,7.0,135,2017,"Drama, Romance, War",2017-12-15,Xiaogang Feng
+768,769,"Worldwide Lifetime Gross: $226,945,087",Baby Driver,7.5,113,2017,"Action, Crime, Drama, Music",2017-06-28,Edgar Wright
+769,770,"Worldwide Lifetime Gross: $226,904,017",Immortals,6.0,110,2011,"Action, Drama, Fantasy, Romance",2011-11-11,Tarsem Singh
+770,771,"Worldwide Lifetime Gross: $226,837,760",Taken,7.7,90,2008,"Action, Crime, Thriller",2009-01-30,Pierre Morel
+771,772,"Worldwide Lifetime Gross: $226,497,209",Percy Jackson & the Olympians: The Lightning Thief,5.9,118,2010,"Adventure, Family, Fantasy",2010-02-12,Chris Columbus
+772,773,"Worldwide Lifetime Gross: $226,425,420",Lightyear,6.1,105,2022,"Animation, Action, Adventure, Comedy, Family, Sci-Fi",2022-08-03,Angus MacLane
+773,774,"Worldwide Lifetime Gross: $226,349,749",Hansel & Gretel: Witch Hunters,6.1,88,2013,"Action, Fantasy, Horror",2013-01-25,Tommy Wirkola
+774,775,"Worldwide Lifetime Gross: $225,973,340",Valerian and the City of a Thousand Planets,6.4,136,2017,"Action, Adventure, Fantasy, Sci-Fi",2017-07-21,Luc Besson
+775,776,"Worldwide Lifetime Gross: $225,933,435",Good Will Hunting,8.3,126,1997,"Drama, Romance",1998-01-09,Gus Van Sant
+776,777,"Worldwide Lifetime Gross: $225,833,113",Better Days,7.6,135,2019,"Crime, Drama, Romance, Thriller",2019-10-25,Derek Tsang
+777,778,"Worldwide Lifetime Gross: $225,508,210",Ford v Ferrari,8.1,152,2019,"Action, Biography, Drama, Sport",2019-11-15,James Mangold
+778,779,"Worldwide Lifetime Gross: $225,132,113",Jumper,6.1,88,2008,"Action, Adventure, Sci-Fi, Thriller",2008-02-14,Doug Liman
+779,780,"Worldwide Lifetime Gross: $224,927,749",The Social Network,7.8,120,2010,"Biography, Drama",2010-10-01,David Fincher
+780,781,"Worldwide Lifetime Gross: $224,888,359",Chicken Run,7.1,84,2000,"Animation, Adventure, Comedy, Drama, Family",2000-06-23,"Peter Lord, Nick Park"
+781,782,"Worldwide Lifetime Gross: $224,012,234",Con Air,6.9,115,1997,"Action, Crime, Thriller",1997-06-06,Simon West
+782,783,"Worldwide Lifetime Gross: $223,664,608",Interview with the Vampire: The Vampire Chronicles,7.5,123,1994,"Drama, Fantasy, Horror",1994-11-11,Neil Jordan
+783,784,"Worldwide Lifetime Gross: $223,387,299",Flightplan,6.3,98,2005,"Drama, Mystery, Thriller",2005-09-23,Robert Schwentke
+784,785,"Worldwide Lifetime Gross: $223,241,637",Yes Man,6.8,104,2008,"Comedy, Romance",2008-12-19,Peyton Reed
+785,786,"Worldwide Lifetime Gross: $222,809,600",Non-Stop,6.9,106,2014,"Action, Mystery, Thriller",2014-02-28,Jaume Collet-Serra
+786,787,"Worldwide Lifetime Gross: $222,724,172","Honey, I Shrunk the Kids",6.4,93,1989,"Adventure, Comedy, Family, Sci-Fi",1989-06-23,Joe Johnston
+787,788,"Worldwide Lifetime Gross: $222,446,882",Fahrenheit 9/11,7.5,122,2004,"Documentary, Drama, War",2004-06-25,Michael Moore
+788,789,"Worldwide Lifetime Gross: $222,104,681",Wild Wild West,4.9,106,1999,"Action, Comedy, Sci-Fi, Western",1999-06-30,Barry Sonnenfeld
+789,790,"Worldwide Lifetime Gross: $221,900,160",Geostorm,5.3,109,2017,"Action, Sci-Fi, Thriller",2017-10-20,Dean Devlin
+790,791,"Worldwide Lifetime Gross: $221,831,086","My Country, My Parents",6.1,157,2021,Drama,2021-09-30,"Teng Shen, Jing Wu, Zheng Xu, Ziyi Zhang"
+791,792,"Worldwide Lifetime Gross: $221,802,186",The Help,8.1,146,2011,Drama,2011-08-10,Tate Taylor
+792,793,"Worldwide Lifetime Gross: $221,394,838",Napoleon,6.4,158,2023,"Action, Adventure, Biography, Drama, History, War",2023-11-22,Ridley Scott
+793,794,"Worldwide Lifetime Gross: $221,303,188",Presumed Innocent,6.9,127,1990,"Mystery, Thriller",1990-07-27,Alan J. Pakula
+794,795,"Worldwide Lifetime Gross: $220,889,446",Jungle Cruise,6.6,127,2021,"Action, Adventure, Comedy, Fantasy",2021-07-30,Jaume Collet-Serra
+795,796,"Worldwide Lifetime Gross: $220,729,000",A Quiet Place: Day One,6.4,99,2024,"Drama, Horror, Sci-Fi, Thriller",2024-06-28,Michael Sarnoski
+796,797,"Worldwide Lifetime Gross: $220,673,217",Scary Movie 3,5.5,84,2003,Comedy,2003-10-24,David Zucker
+797,798,"Worldwide Lifetime Gross: $220,239,925",Collateral,7.5,120,2004,"Action, Crime, Drama, Thriller",2004-08-06,Michael Mann
+798,799,"Worldwide Lifetime Gross: $220,123,698",Anyone But You,6.1,103,2023,"Comedy, Romance",2023-12-22,Will Gluck
+799,800,"Worldwide Lifetime Gross: $220,021,259",Inferno,6.2,121,2016,"Action, Adventure, Crime, Drama, Mystery, Thriller",2016-10-28,Ron Howard
+800,801,"Worldwide Lifetime Gross: $219,922,417",Knocked Up,6.9,129,2007,"Comedy, Romance",2007-06-01,Judd Apatow
+801,802,"Worldwide Lifetime Gross: $219,375,562",What Happens in Vegas,6.1,99,2008,"Comedy, Romance",2008-05-09,Tom Vaughan
+802,803,"Worldwide Lifetime Gross: $219,103,655",It's Complicated,6.5,120,2009,"Comedy, Drama, Romance",2009-12-25,Nancy Meyers
+803,804,"Worldwide Lifetime Gross: $219,100,084",The Terminal,7.4,128,2004,"Comedy, Drama, Romance",2004-06-18,Steven Spielberg
+804,805,"Worldwide Lifetime Gross: $218,872,737",The Garfield Movie,5.7,101,2024,"Animation, Adventure, Comedy, Family, Fantasy",2024-05-24,Mark Dindal
+805,806,"Worldwide Lifetime Gross: $218,843,645",Little Women,7.8,135,2019,"Drama, Romance",2019-12-25,Greta Gerwig
+806,807,"Worldwide Lifetime Gross: $218,791,811",Captain Phillips,7.8,134,2013,"Action, Biography, Crime, Drama, Thriller",2013-10-11,Paul Greengrass
+807,808,"Worldwide Lifetime Gross: $218,613,188",The Prince of Egypt,7.2,99,1998,"Animation, Adventure, Drama, Family, Fantasy, Musical",1998-12-18,"Brenda Chapman, Steve Hickner, Simon Wells"
+808,809,"Worldwide Lifetime Gross: $218,340,595",Jack Reacher,7.0,130,2012,"Action, Mystery, Thriller",2012-12-21,Christopher McQuarrie
+809,810,"Worldwide Lifetime Gross: $218,237,071",Kingdom of Heaven,7.3,144,2005,"Action, Adventure, Drama, History, War",2005-05-06,Ridley Scott
+810,811,"Worldwide Lifetime Gross: $218,015,531",Smallfoot,6.6,96,2018,"Animation, Adventure, Comedy, Drama, Family, Fantasy, Musical",2018-09-28,"Karey Kirkpatrick, Jason Reisig"
+811,812,"Worldwide Lifetime Gross: $217,776,646",The Emoji Movie,3.4,86,2017,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi",2017-07-28,Tony Leondis
+812,813,"Worldwide Lifetime Gross: $217,408,513",Smile,6.5,115,2022,"Horror, Mystery, Thriller",2022-09-30,Parker Finn
+813,814,"Worldwide Lifetime Gross: $217,254,604",Too Cool to Kill,6.1,109,2022,Comedy,2022-02-01,"Wenxiong Xing, Ru Qian"
+814,815,"Worldwide Lifetime Gross: $217,124,280",Dracula Untold,6.2,92,2014,"Action, Drama, Fantasy, Horror",2014-10-10,Gary Shore
+815,816,"Worldwide Lifetime Gross: $216,940,871",Central Intelligence,6.3,107,2016,"Action, Comedy, Crime",2016-06-17,Rawson Marshall Thurber
+816,817,"Worldwide Lifetime Gross: $216,763,646",Million Dollar Baby,8.1,132,2004,"Drama, Sport",2005-01-28,Clint Eastwood
+817,818,"Worldwide Lifetime Gross: $216,614,388",Twins,6.2,107,1988,"Comedy, Crime",1988-12-09,Ivan Reitman
+818,819,"Worldwide Lifetime Gross: $216,528,528",Valentine's Day,5.7,125,2010,"Comedy, Romance",2010-02-12,Garry Marshall
+819,820,"Worldwide Lifetime Gross: $216,385,706",Superman II,6.8,127,1980,"Action, Adventure, Sci-Fi",1981-06-19,Richard Lester
+820,821,"Worldwide Lifetime Gross: $216,197,492",Bad Teacher,5.7,92,2011,"Comedy, Romance",2011-06-24,Jake Kasdan
+821,822,"Worldwide Lifetime Gross: $216,000,000",A Little Red Flower,6.7,122,2020,"Drama, Family",2020-12-31,Yan Han
+822,823,"Worldwide Lifetime Gross: $215,905,815",The Croods: A New Age,6.9,95,2020,"Animation, Adventure, Comedy, Family, Fantasy",2020-11-25,Joel Crawford
+823,824,"Worldwide Lifetime Gross: $215,887,717",Clear and Present Danger,6.9,141,1994,"Action, Crime, Drama, Thriller",1994-08-03,Phillip Noyce
+824,825,"Worldwide Lifetime Gross: $215,880,014",One Hundred and One Dalmatians,7.3,79,1961,"Animation, Adventure, Comedy, Family",1961-01-25,"Clyde Geronimi, Hamilton Luske, Wolfgang Reitherman"
+825,826,"Worldwide Lifetime Gross: $215,863,606",Ted 2,6.3,115,2015,Comedy,2015-06-26,Seth MacFarlane
+826,827,"Worldwide Lifetime Gross: $215,862,692",Bram Stoker's Dracula,7.4,128,1992,"Fantasy, Horror, Romance",1992-11-13,Francis Ford Coppola
+827,828,"Worldwide Lifetime Gross: $215,663,859",Vertical Limit,5.9,124,2000,"Action, Adventure, Drama, Sport, Thriller",2000-12-08,Martin Campbell
+828,829,"Worldwide Lifetime Gross: $215,394,738",Ghostbusters II,6.6,108,1989,"Action, Comedy, Fantasy, Sci-Fi",1989-06-16,Ivan Reitman
+829,830,"Worldwide Lifetime Gross: $215,294,342",The Patriot,7.2,165,2000,"Action, Drama, History, War",2000-06-28,Roland Emmerich
+830,831,"Worldwide Lifetime Gross: $215,283,742",The Sorcerer's Apprentice,6.1,109,2010,"Action, Adventure, Family, Fantasy",2010-07-14,Jon Turteltaub
+831,832,"Worldwide Lifetime Gross: $214,945,591",Just Go with It,6.4,117,2011,"Comedy, Romance",2011-02-11,Dennis Dugan
+832,833,"Worldwide Lifetime Gross: $214,657,577",The Expendables 3,6.1,126,2014,"Action, Adventure, Thriller",2014-08-15,Patrick Hughes
+833,834,"Worldwide Lifetime Gross: $214,577,242",Dirty Dancing,7.1,100,1987,"Drama, Music, Romance",1987-08-21,Emile Ardolino
+834,835,"Worldwide Lifetime Gross: $214,215,889",Creed II,7.1,130,2018,"Action, Drama, Sport",2018-11-21,Steven Caple Jr.
+835,836,"Worldwide Lifetime Gross: $214,104,620",Public Enemies,6.9,140,2009,"Action, Biography, Crime, Drama, History",2009-07-01,Michael Mann
+836,837,"Worldwide Lifetime Gross: $214,034,224",The Bourne Identity,7.8,119,2002,"Action, Mystery, Thriller",2002-06-14,Doug Liman
+837,838,"Worldwide Lifetime Gross: $214,015,089",Disclosure,6.2,128,1994,"Drama, Thriller",1994-12-09,Barry Levinson
+838,839,"Worldwide Lifetime Gross: $213,978,518","Crouching Tiger, Hidden Dragon",7.9,120,2000,"Action, Adventure, Drama, Fantasy, Romance",2001-01-12,Ang Lee
+839,840,"Worldwide Lifetime Gross: $213,928,762",Pulp Fiction,8.9,154,1994,"Crime, Drama",1994-10-14,Quentin Tarantino
+840,841,"Worldwide Lifetime Gross: $213,719,942",The Aviator,7.5,170,2004,"Biography, Drama",2004-12-25,Martin Scorsese
+841,842,"Worldwide Lifetime Gross: $213,216,216",Braveheart,8.3,178,1995,"Biography, Drama, War",1995-05-24,Mel Gibson
+842,843,"Worldwide Lifetime Gross: $212,902,959",Into the Woods,5.9,125,2014,"Adventure, Comedy, Drama, Family, Fantasy, Musical",2014-12-25,Rob Marshall
+843,844,"Worldwide Lifetime Gross: $212,874,864",Bedtime Stories,6.0,99,2008,"Adventure, Comedy, Family, Fantasy, Romance, Sci-Fi",2008-12-25,Adam Shankman
+844,845,"Worldwide Lifetime Gross: $212,742,720",Miss Congeniality,6.3,109,2000,"Action, Comedy, Crime, Romance",2000-12-22,Donald Petrie
+845,846,"Worldwide Lifetime Gross: $212,404,396",Entrapment,6.3,113,1999,"Action, Crime, Romance, Thriller",1999-04-30,Jon Amiel
+846,847,"Worldwide Lifetime Gross: $212,385,533",Ace Ventura: When Nature Calls,6.4,90,1995,"Adventure, Comedy, Crime",1995-11-10,Steve Oedekerk
+847,848,"Worldwide Lifetime Gross: $211,989,043",End of Days,5.8,122,1999,"Action, Fantasy, Horror, Thriller",1999-11-24,Peter Hyams
+848,849,"Worldwide Lifetime Gross: $211,952,420",Bridget Jones's Baby,6.5,123,2016,"Comedy, Drama, Romance",2016-09-16,Sharon Maguire
+849,850,"Worldwide Lifetime Gross: $211,822,697",Fury,7.6,134,2014,"Action, Drama, War",2014-10-17,David Ayer
+850,851,"Worldwide Lifetime Gross: $211,819,354",Battle Los Angeles,5.7,116,2011,"Action, Adventure, Sci-Fi",2011-03-11,Jonathan Liebesman
+851,852,"Worldwide Lifetime Gross: $211,788,761",Australia,6.6,165,2008,"Adventure, Drama, Romance, War, Western",2008-11-26,Baz Luhrmann
+852,853,"Worldwide Lifetime Gross: $211,780,824",Due Date,6.5,95,2010,"Comedy, Drama",2010-11-05,Todd Phillips
+853,854,"Worldwide Lifetime Gross: $211,622,535",Master and Commander: The Far Side of the World,7.5,138,2003,"Action, Adventure, Drama, War",2003-11-14,Peter Weir
+854,855,"Worldwide Lifetime Gross: $211,468,235",A Series of Unfortunate Events,6.8,108,2004,"Adventure, Comedy, Family, Fantasy",2004-12-17,Brad Silberling
+855,856,"Worldwide Lifetime Gross: $211,343,479",The Little Mermaid,7.6,83,1989,"Animation, Adventure, Family, Fantasy, Musical, Romance",1989-11-17,"Ron Clements, John Musker"
+856,857,"Worldwide Lifetime Gross: $211,019,042",Nice View,6.7,106,2022,"Comedy, Drama",2022-02-01,Muye Wen
+857,858,"Worldwide Lifetime Gross: $210,888,950",District 9,7.9,112,2009,"Action, Sci-Fi, Thriller",2009-08-14,Neill Blomkamp
+858,859,"Worldwide Lifetime Gross: $210,308,099",Moonraker,6.2,126,1979,"Action, Adventure, Sci-Fi, Thriller",1979-06-29,Lewis Gilbert
+859,860,"Worldwide Lifetime Gross: $210,002,906",The Others,7.6,104,2001,"Horror, Mystery, Thriller",2001-08-10,Alejandro Amenábar
+860,861,"Worldwide Lifetime Gross: $209,838,559",Horrible Bosses,6.9,98,2011,"Comedy, Crime",2011-07-08,Seth Gordon
+861,862,"Worldwide Lifetime Gross: $209,361,042",Trolls Band Together,6.0,91,2023,"Animation, Adventure, Comedy, Family, Fantasy, Musical",2023-11-17,"Walt Dohrn, Tim Heitz"
+862,863,"Worldwide Lifetime Gross: $209,221,380",Us and Them,7.4,120,2018,"Drama, Romance",2018-06-22,Rene Liu
+863,864,"Worldwide Lifetime Gross: $209,196,298",Red Dragon,7.2,124,2002,"Crime, Drama, Thriller",2002-10-04,Brett Ratner
+864,865,"Worldwide Lifetime Gross: $209,035,668",Tomorrowland,6.4,130,2015,"Action, Adventure, Family, Fantasy, Mystery, Sci-Fi",2015-05-22,Brad Bird
+865,866,"Worldwide Lifetime Gross: $208,445,075",Me Before You,7.4,110,2016,"Drama, Romance",2016-06-03,Thea Sharrock
+866,867,"Worldwide Lifetime Gross: $208,177,026",Dungeons & Dragons: Honor Among Thieves,7.2,134,2023,"Action, Adventure, Comedy, Fantasy",2023-03-31,"John Francis Daley, Jonathan Goldstein"
+867,868,"Worldwide Lifetime Gross: $208,076,205",Safe House,6.7,115,2012,"Action, Thriller",2012-02-10,Daniel Espinosa
+868,869,"Worldwide Lifetime Gross: $207,725,639",S.W.A.T.,6.1,117,2003,"Action, Adventure, Crime, Thriller",2003-08-08,Clark Johnson
+869,870,"Worldwide Lifetime Gross: $207,557,117",DC League of Super-Pets,7.1,105,2022,"Animation, Action, Adventure, Comedy, Crime, Family, Fantasy, Sci-Fi",2022-07-29,"Jared Stern, Sam J. Levine"
+870,871,"Worldwide Lifetime Gross: $207,517,995",The Fast and the Furious,6.8,106,2001,"Action, Crime, Thriller",2001-06-22,Rob Cohen
+871,872,"Worldwide Lifetime Gross: $207,515,725",Traffic,7.6,147,2000,"Crime, Drama, Thriller",2001-01-05,Steven Soderbergh
+872,873,"Worldwide Lifetime Gross: $207,039,844",Paranormal Activity 3,5.8,83,2011,"Horror, Mystery, Thriller",2011-10-21,"Henry Joost, Ariel Schulman"
+873,874,"Worldwide Lifetime Gross: $206,678,440",Philadelphia,7.7,125,1993,Drama,1994-01-14,Jonathan Demme
+874,875,"Worldwide Lifetime Gross: $206,431,050",The Conjuring: The Devil Made Me Do It,6.3,112,2021,"Horror, Mystery, Thriller",2021-06-04,Michael Chaves
+875,876,"Worldwide Lifetime Gross: $206,136,825",The Marvels,5.5,105,2023,"Action, Adventure, Fantasy",2023-11-10,Nia DaCosta
+876,877,"Worldwide Lifetime Gross: $206,071,502",Sleepy Hollow,7.3,105,1999,"Fantasy, Horror, Mystery",1999-11-19,Tim Burton
+877,878,"Worldwide Lifetime Gross: $205,891,960",The Holiday,6.9,136,2006,"Comedy, Romance",2006-12-08,Nancy Meyers
+878,879,"Worldwide Lifetime Gross: $205,843,612",The Jungle Book,7.6,78,1967,"Animation, Adventure, Comedy, Family, Musical",1967-10-18,Wolfgang Reitherman
+879,880,"Worldwide Lifetime Gross: $205,842,393",Raging Fire,6.5,126,2021,"Action, Adventure, Crime, Mystery, Thriller",2021-07-30,"Benny Chan, Shane Comley-White"
+880,881,"Worldwide Lifetime Gross: $205,754,447",London Has Fallen,5.9,99,2016,"Action, Thriller",2016-03-04,Babak Najafi
+881,882,"Worldwide Lifetime Gross: $205,668,210",The Break-Up,5.8,106,2006,"Comedy, Drama, Romance",2006-06-02,Peyton Reed
+882,883,"Worldwide Lifetime Gross: $205,637,183",Journey to the West: Conquering the Demons,6.7,110,2013,"Action, Adventure, Comedy, Fantasy, Romance",2013-02-07,"Stephen Chow, Chi-Kin Kwok"
+883,884,"Worldwide Lifetime Gross: $205,599,393",The Ugly Truth,6.4,96,2009,"Comedy, Romance",2009-07-24,Robert Luketic
+884,885,"Worldwide Lifetime Gross: $205,537,933",Birds of Prey,6.1,109,2020,"Action, Comedy, Crime",2020-02-07,Cathy Yan
+885,886,"Worldwide Lifetime Gross: $205,405,498",JFK,8.0,189,1991,"Drama, History, Thriller",1991-12-20,Oliver Stone
+886,887,"Worldwide Lifetime Gross: $205,366,737",White House Down,6.3,131,2013,"Action, Drama, Thriller",2013-06-28,Roland Emmerich
+887,888,"Worldwide Lifetime Gross: $205,124,664",Ponyo,7.6,101,2008,"Animation, Adventure, Comedy, Family, Fantasy",2009-08-14,Hayao Miyazaki
+888,889,"Worldwide Lifetime Gross: $205,035,819",A Dog's Purpose,7.2,100,2017,"Adventure, Comedy, Drama, Family, Fantasy",2017-01-27,Lasse Hallström
+889,890,"Worldwide Lifetime Gross: $204,681,899",Fun with Dick and Jane,6.2,90,2005,"Comedy, Crime",2005-12-21,Dean Parisot
+890,891,"Worldwide Lifetime Gross: $204,596,571",Eat Pray Love,5.8,133,2010,"Biography, Drama, Romance",2010-08-13,Ryan Murphy
+891,892,"Worldwide Lifetime Gross: $204,394,183",The Addams Family,5.8,86,2019,"Animation, Comedy, Family, Fantasy, Horror",2019-10-11,"Greg Tiernan, Conrad Vernon"
+892,893,"Worldwide Lifetime Gross: $204,334,455",Ghostbusters: Afterlife,7.0,124,2021,"Adventure, Comedy, Fantasy, Sci-Fi",2021-11-19,Jason Reitman
+893,894,"Worldwide Lifetime Gross: $204,313,400",You Don't Mess with the Zohan,5.6,113,2008,"Action, Comedy",2008-06-06,Dennis Dugan
+894,895,"Worldwide Lifetime Gross: $203,629,185",Hairspray,6.7,117,2007,"Comedy, Drama, Musical, Romance",2007-07-20,Adam Shankman
+895,896,"Worldwide Lifetime Gross: $203,567,857",King Arthur,6.3,126,2004,"Action, Adventure, Drama, War",2004-07-07,Antoine Fuqua
+896,897,"Worldwide Lifetime Gross: $203,509,374",Yogi Bear,4.6,80,2010,"Animation, Adventure, Comedy, Family",2010-12-17,Eric Brevig
+897,898,"Worldwide Lifetime Gross: $203,427,584",Everest,7.1,121,2015,"Action, Adventure, Biography, Drama, Thriller",2015-09-25,Baltasar Kormákur
+898,899,"Worldwide Lifetime Gross: $203,389,228",Arrival,7.9,116,2016,"Drama, Mystery, Sci-Fi",2016-11-11,Denis Villeneuve
+899,900,"Worldwide Lifetime Gross: $203,388,341",Vanilla Sky,6.9,136,2001,"Fantasy, Mystery, Romance, Sci-Fi, Thriller",2001-12-14,Cameron Crowe
+900,901,"Worldwide Lifetime Gross: $203,277,636",Need for Speed,6.4,132,2014,"Action, Crime, Thriller",2014-03-14,Scott Waugh
+901,902,"Worldwide Lifetime Gross: $203,172,417",Garfield: The Movie,5.0,80,2004,"Adventure, Comedy, Family, Fantasy",2004-06-11,Peter Hewitt
+902,903,"Worldwide Lifetime Gross: $202,292,902",Patch Adams,6.8,115,1998,"Biography, Comedy, Drama, Romance",1998-12-25,Tom Shadyac
+903,904,"Worldwide Lifetime Gross: $202,231,360",PAW Patrol: The Mighty Movie,5.9,88,2023,"Animation, Action, Adventure, Comedy, Crime, Family, Fantasy, Sci-Fi",2023-09-29,Cal Brunker
+904,905,"Worldwide Lifetime Gross: $202,084,756",Teenage Mutant Ninja Turtles,6.8,93,1990,"Action, Adventure, Comedy, Family, Sci-Fi",1990-03-30,Steve Barron
+905,906,"Worldwide Lifetime Gross: $201,957,688",Kindergarten Cop,6.2,111,1990,"Action, Comedy, Crime",1990-12-21,Ivan Reitman
+906,907,"Worldwide Lifetime Gross: $201,837,442",Ghostbusters: Frozen Empire,6.1,115,2024,"Adventure, Comedy, Fantasy, Sci-Fi",2024-03-22,Gil Kenan
+907,908,"Worldwide Lifetime Gross: $201,634,991",Straight Outta Compton,7.8,147,2015,"Biography, Drama, History, Music",2015-08-14,F. Gary Gray
+908,909,"Worldwide Lifetime Gross: $201,585,556",21 Jump Street,7.2,109,2012,"Action, Comedy, Crime",2012-03-16,"Phil Lord, Christopher Miller"
+909,910,"Worldwide Lifetime Gross: $201,545,517",Valkyrie,7.1,121,2008,"Drama, History, Thriller, War",2008-12-25,Bryan Singer
+910,911,"Worldwide Lifetime Gross: $200,811,689",Open Season,6.1,86,2006,"Animation, Adventure, Comedy, Family",2006-09-29,"Roger Allers, Jill Culton, Anthony Stacchi"
+911,912,"Worldwide Lifetime Gross: $200,687,492",Cats & Dogs,5.2,87,2001,"Action, Adventure, Comedy, Family, Fantasy",2001-07-04,Lawrence Guterman
+912,913,"Worldwide Lifetime Gross: $200,512,643",The Hunt for Red October,7.5,135,1990,"Action, Adventure, Thriller",1990-03-02,John McTiernan
+913,914,"Worldwide Lifetime Gross: $199,850,315",Percy Jackson: Sea of Monsters,5.7,106,2013,"Adventure, Family, Fantasy",2013-08-07,Thor Freudenthal
+914,915,"Worldwide Lifetime Gross: $199,603,202",The Lego Movie 2: The Second Part,6.5,107,2019,"Animation, Action, Adventure, Comedy, Family, Fantasy, Musical, Sci-Fi",2019-02-08,Mike Mitchell
+915,916,"Worldwide Lifetime Gross: $199,043,471",Two Weeks Notice,6.1,101,2002,"Comedy, Romance",2002-12-20,Marc Lawrence
+916,917,"Worldwide Lifetime Gross: $199,006,387",RED,7.0,111,2010,"Action, Comedy, Crime, Thriller",2010-10-15,Robert Schwentke
+917,918,"Worldwide Lifetime Gross: $198,921,659",Shock Wave 2,6.6,120,2020,"Action, Crime, Thriller",2021-03-22,"Herman Yau, Shane Comley-White"
+918,919,"Worldwide Lifetime Gross: $198,685,114",City of Angels,6.7,114,1998,"Drama, Fantasy, Romance",1998-04-10,Brad Silberling
+919,920,"Worldwide Lifetime Gross: $198,636,868",The Pacifier,5.6,95,2005,"Action, Comedy, Drama, Family",2005-03-04,Adam Shankman
+920,921,"Worldwide Lifetime Gross: $198,520,934",50 First Dates,6.8,99,2004,"Comedy, Drama, Romance",2004-02-13,Peter Segal
+921,922,"Worldwide Lifetime Gross: $198,467,607",Total Recall,6.2,118,2012,"Action, Adventure, Sci-Fi, Thriller",2012-08-03,Len Wiseman
+922,923,"Worldwide Lifetime Gross: $198,326,350",The Island,6.2,134,2018,"Comedy, Drama",2018-08-10,Huang Bo
+923,924,"Worldwide Lifetime Gross: $198,087,212",The Impossible,7.5,114,2012,"Drama, History, Thriller",2013-01-04,J.A. Bayona
+924,925,"Worldwide Lifetime Gross: $197,757,387",Lost in Thailand,6.2,105,2012,"Adventure, Comedy, Drama",2013-01-31,Zheng Xu
+925,926,"Worldwide Lifetime Gross: $197,744,825",Christopher Robin,7.2,104,2018,"Adventure, Comedy, Drama, Family, Fantasy, Musical",2018-08-03,Marc Forster
+926,927,"Worldwide Lifetime Gross: $197,687,603",Jack the Giant Slayer,6.3,114,2013,"Action, Adventure, Fantasy",2013-03-01,Bryan Singer
+927,928,"Worldwide Lifetime Gross: $197,183,546",Smurfs: The Lost Village,6.0,90,2017,"Animation, Adventure, Comedy, Family, Fantasy",2017-04-07,Kelly Asbury
+928,929,"Worldwide Lifetime Gross: $197,143,218",Chinese Doctors,4.7,129,2021,Drama,2021-07-09,Andrew Lau
+929,930,"Worldwide Lifetime Gross: $197,101,678",Spy Kids 3: Game Over,4.4,84,2003,"Action, Adventure, Comedy, Family, Sci-Fi",2003-07-25,Robert Rodriguez
+930,931,"Worldwide Lifetime Gross: $197,079,546",Panic Room,6.8,112,2002,"Crime, Drama, Thriller",2002-03-29,David Fincher
+931,932,"Worldwide Lifetime Gross: $196,710,396",The Other Woman,6.0,109,2014,"Comedy, Romance",2014-04-25,Nick Cassavetes
+932,933,"Worldwide Lifetime Gross: $196,567,262",Stargate,7.0,116,1994,"Action, Adventure, Sci-Fi",1994-10-28,Roland Emmerich
+933,934,"Worldwide Lifetime Gross: $196,393,745",Beowulf,6.3,115,2007,"Animation, Action, Adventure, Fantasy",2007-11-16,Robert Zemeckis
+934,935,"Worldwide Lifetime Gross: $196,114,570",The Vow,6.8,104,2012,"Drama, Romance",2012-02-10,Michael Sucsy
+935,936,"Worldwide Lifetime Gross: $195,745,823",Anger Management,6.3,106,2003,Comedy,2003-04-11,Peter Segal
+936,937,"Worldwide Lifetime Gross: $195,703,351",Tropic Thunder,7.1,107,2008,"Action, Comedy, War",2008-08-13,Ben Stiller
+937,938,"Worldwide Lifetime Gross: $195,320,400",Rocketman,7.3,121,2019,"Biography, Drama, Music, Musical",2019-05-31,Dexter Fletcher
+938,939,"Worldwide Lifetime Gross: $195,268,056",The Pelican Brief,6.6,141,1993,"Crime, Drama, Mystery, Thriller",1993-12-17,Alan J. Pakula
+939,940,"Worldwide Lifetime Gross: $195,243,464",The Shape of Water,7.3,123,2017,"Drama, Fantasy, Romance, Sci-Fi",2017-12-22,Guillermo del Toro
+940,941,"Worldwide Lifetime Gross: $195,243,411",The BFG,6.3,117,2016,"Adventure, Family, Fantasy",2016-07-01,Steven Spielberg
+941,942,"Worldwide Lifetime Gross: $194,764,672",The Intern,7.1,121,2015,"Comedy, Drama",2015-09-25,Nancy Meyers
+942,943,"Worldwide Lifetime Gross: $194,694,725",Downton Abbey,7.4,122,2019,"Drama, Romance",2019-09-20,Michael Engler
+943,944,"Worldwide Lifetime Gross: $193,967,670",Gnomeo & Juliet,5.9,84,2011,"Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance",2011-02-11,Kelly Asbury
+944,945,"Worldwide Lifetime Gross: $193,921,372",The Sum of All Fears,6.5,124,2002,"Action, Drama, Thriller, War",2002-05-31,Phil Alden Robinson
+945,946,"Worldwide Lifetime Gross: $193,772,504",Gangs of New York,7.5,167,2002,"Crime, Drama",2002-12-20,Martin Scorsese
+946,947,"Worldwide Lifetime Gross: $193,764,664",The Post,7.2,116,2017,"Biography, Drama, History, Thriller, War",2018-01-12,Steven Spielberg
+947,948,"Worldwide Lifetime Gross: $193,678,298",The Monkey King 2,5.9,119,2016,"Action, Adventure, Fantasy",2016-02-05,Soi Cheang
+948,949,"Worldwide Lifetime Gross: $193,355,933",Paranormal Activity,6.3,86,2007,"Horror, Mystery",2009-10-16,Oren Peli
+949,950,"Worldwide Lifetime Gross: $192,907,684",The Lost City,6.1,112,2022,"Action, Adventure, Comedy, Romance",2022-03-25,"Aaron Nee, Adam Nee"
+950,951,"Worldwide Lifetime Gross: $192,894,700",Weathering with You,7.5,112,2019,"Animation, Drama, Fantasy, Romance",2020-01-17,Makoto Shinkai
+951,952,"Worldwide Lifetime Gross: $192,652,752",Wallace & Gromit: The Curse of the Were-Rabbit,7.5,85,2005,"Animation, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",2005-10-07,"Steve Box, Nick Park"
+952,953,"Worldwide Lifetime Gross: $192,330,738",The Equalizer,7.2,132,2014,"Action, Crime, Thriller",2014-09-26,Antoine Fuqua
+953,954,"Worldwide Lifetime Gross: $191,602,146",Sheep Without a Shepherd,6.8,112,2019,"Crime, Drama, Thriller",2019-12-20,Sam Quah
+954,955,"Worldwide Lifetime Gross: $191,502,426",The Addams Family,6.9,99,1991,"Comedy, Fantasy",1991-11-22,Barry Sonnenfeld
+955,956,"Worldwide Lifetime Gross: $191,466,556",The Longest Yard,6.4,113,2005,"Comedy, Crime, Sport",2005-05-27,Peter Segal
+956,957,"Worldwide Lifetime Gross: $191,067,560",The Equalizer 3,6.8,109,2023,"Action, Crime, Thriller",2023-09-01,Antoine Fuqua
+957,958,"Worldwide Lifetime Gross: $190,539,357",The Santa Clause,6.6,97,1994,"Comedy, Drama, Family, Fantasy",1994-11-11,John Pasquin
+958,959,"Worldwide Lifetime Gross: $190,538,630",Cheaper by the Dozen,5.9,98,2003,"Comedy, Family",2003-12-25,Shawn Levy
+959,960,"Worldwide Lifetime Gross: $190,400,157",The Equalizer 2,6.7,121,2018,"Action, Crime, Thriller",2018-07-20,Antoine Fuqua
+960,961,"Worldwide Lifetime Gross: $190,304,772",Abominable,7.0,97,2019,"Animation, Adventure, Comedy, Family, Fantasy",2019-09-27,"Jill Culton, Todd Wilderman"
+961,962,"Worldwide Lifetime Gross: $190,213,455",Hollow Man,5.8,112,2000,"Action, Horror, Sci-Fi, Thriller",2000-08-04,Paul Verhoeven
+962,963,"Worldwide Lifetime Gross: $189,859,560",Outbreak,6.6,127,1995,"Action, Drama, Thriller",1995-03-10,Wolfgang Petersen
+963,964,"Worldwide Lifetime Gross: $189,396,380",The White Storm 2: Drug Lords,6.0,99,2019,"Action, Crime",2019-07-12,Herman Yau
+964,965,"Worldwide Lifetime Gross: $189,176,423",The X Files,7.0,121,1998,"Drama, Mystery, Sci-Fi, Thriller",1998-06-19,Rob Bowman
+965,966,"Worldwide Lifetime Gross: $189,086,877",Insidious: The Red Door,5.5,107,2023,"Horror, Mystery, Thriller",2023-07-07,Patrick Wilson
+966,967,"Worldwide Lifetime Gross: $189,017,596",Breakup Buddies,6.4,116,2014,"Comedy, Drama, Romance",2014-10-03,Hao Ning
+967,968,"Worldwide Lifetime Gross: $189,015,611",Rambo III,5.8,102,1988,"Action, Adventure, Thriller",1988-05-25,Peter MacDonald
+968,969,"Worldwide Lifetime Gross: $188,133,322",The Secret Life of Walter Mitty,7.3,114,2013,"Adventure, Comedy, Drama, Fantasy, Romance",2013-12-25,Ben Stiller
+969,970,"Worldwide Lifetime Gross: $188,116,796",Project Gutenberg,6.8,130,2018,"Action, Crime, Mystery, Thriller",2018-10-05,Felix Chong
+970,971,"Worldwide Lifetime Gross: $187,884,007",Jaws 2,5.8,116,1978,"Adventure, Horror, Thriller",1978-06-16,Jeannot Szwarc
+971,972,"Worldwide Lifetime Gross: $187,734,091",12 Years a Slave,8.1,134,2013,"Biography, Drama, History",2013-11-08,Steve McQueen
+972,973,"Worldwide Lifetime Gross: $187,436,818",Heat,8.3,170,1995,"Action, Crime, Drama",1995-12-15,Michael Mann
+973,974,"Worldwide Lifetime Gross: $187,361,754",Mr. Popper's Penguins,6.0,94,2011,"Comedy, Family, Fantasy",2011-06-17,Mark Waters
+974,975,"Worldwide Lifetime Gross: $187,281,115",The Grudge,5.9,91,2004,"Horror, Mystery, Thriller",2004-10-22,Takashi Shimizu
+975,976,"Worldwide Lifetime Gross: $187,134,117",I Now Pronounce You Chuck & Larry,5.9,115,2007,"Comedy, Romance",2007-07-20,Dennis Dugan
+976,977,"Worldwide Lifetime Gross: $186,883,563",The Horse Whisperer,6.7,169,1998,"Drama, Romance, Western",1998-05-15,Robert Redford
+977,978,"Worldwide Lifetime Gross: $186,797,986",Walk the Line,7.8,136,2005,"Biography, Drama, Music, Romance",2005-11-18,James Mangold
+978,979,"Worldwide Lifetime Gross: $186,699,768",Jian Bing Man,5.6,113,2015,Comedy,2015-07-24,Da Peng
+979,980,"Worldwide Lifetime Gross: $186,303,759",The Jungle Book 2,5.3,72,2003,"Animation, Adventure, Comedy, Family, Music, Musical",2003-03-21,Steve Trenbirth
+980,981,"Worldwide Lifetime Gross: $186,167,139",The Final Destination,5.1,82,2009,"Horror, Thriller",2009-08-28,David R. Ellis
+981,982,"Worldwide Lifetime Gross: $186,053,725",Atlantis: The Lost Empire,6.9,95,2001,"Animation, Action, Adventure, Family, Fantasy, Sci-Fi",2001-06-15,"Gary Trousdale, Kirk Wise"
+982,983,"Worldwide Lifetime Gross: $186,003,591",Inside Man,7.6,129,2006,"Crime, Drama, Mystery, Thriller",2006-03-24,Spike Lee
+983,984,"Worldwide Lifetime Gross: $185,991,646",The Waterboy,6.2,90,1998,"Comedy, Sport",1998-11-06,Frank Coraci
+984,985,"Worldwide Lifetime Gross: $185,788,006",IF,6.5,104,2024,"Animation, Comedy, Drama, Family, Fantasy",2024-05-17,John Krasinski
+985,986,"Worldwide Lifetime Gross: $185,770,310",Hugo,7.5,126,2011,"Adventure, Drama, Family, Fantasy, Mystery",2011-11-23,Martin Scorsese
+986,987,"Worldwide Lifetime Gross: $185,400,345",Pitch Perfect 3,5.8,93,2017,"Comedy, Music",2017-12-22,Trish Sie
+987,988,"Worldwide Lifetime Gross: $185,382,813",Watchmen,7.6,162,2009,"Action, Drama, Mystery, Sci-Fi",2009-03-06,Zack Snyder
+988,989,"Worldwide Lifetime Gross: $185,260,553",The Birdcage,7.2,117,1996,Comedy,1996-03-08,Mike Nichols
+989,990,"Worldwide Lifetime Gross: $184,960,747",Snow White and the Seven Dwarfs,7.6,83,1937,"Animation, Adventure, Family, Fantasy, Musical, Romance",1938-02-04,"William Cottrell, David Hand, Wilfred Jackson, Larry Morey, Perce Pearce, Ben Sharpsteen"
+990,991,"Worldwide Lifetime Gross: $184,934,573",Moulin Rouge!,7.6,127,2001,"Drama, Musical, Romance",2001-06-01,Baz Luhrmann
+991,992,"Worldwide Lifetime Gross: $184,827,559",Ode to My Father,7.8,126,2014,"Drama, War",2014-12-17,JK Youn
+992,993,"Worldwide Lifetime Gross: $184,367,665",Hop,5.4,95,2011,"Animation, Adventure, Comedy, Family, Fantasy",2011-04-01,Tim Hill
+993,994,"Worldwide Lifetime Gross: $184,287,723",Jupiter Ascending,5.3,127,2015,"Action, Adventure, Sci-Fi",2015-02-06,"Lana Wachowski, Lilly Wachowski"
+994,995,"Worldwide Lifetime Gross: $183,936,074",Bad Moms,6.2,100,2016,Comedy,2016-07-29,"Jon Lucas, Scott Moore"
+995,996,"Worldwide Lifetime Gross: $183,800,603",Storks,6.8,87,2016,"Animation, Adventure, Comedy, Family, Fantasy",2016-09-23,"Nicholas Stoller, Doug Sweetland"
+996,997,"Worldwide Lifetime Gross: $183,658,498",Knowing,6.2,121,2009,"Action, Mystery, Sci-Fi, Thriller",2009-03-20,Alex Proyas
+997,998,"Worldwide Lifetime Gross: $183,611,771",102 Dalmatians,4.8,100,2000,"Adventure, Comedy, Family",2000-11-22,"Michael D Moore, Kevin Lima"
+998,999,"Worldwide Lifetime Gross: $183,442,714",Stand by Me Doraemon,7.3,95,2014,"Animation, Comedy, Drama, Family, Sci-Fi",2014-10-24,"Tony Oliver, Ryuichi Yagi, Takashi Yamazaki"
+999,1000,"Worldwide Lifetime Gross: $183,431,147",The Hitman's Bodyguard,6.9,118,2017,"Action, Comedy, Crime, Thriller",2017-08-18,Patrick Hughes
