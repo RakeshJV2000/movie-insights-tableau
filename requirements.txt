@@ -1,0 +1,9 @@
+pandas
+numpy
+seaborn
+matplotlib
+setuptools
+requests
+bs4
+simplejson
+#-e .
