@@ -75,6 +75,7 @@ class DataScraping:
                         number_list, name_list, rating_list, gross_list, year_list, runtime_list, certification_list
                     )
                 ]
+                logging.info("Data scraping successfully completed")
                 movies = json.dumps(movies)
                 return movies
 
@@ -84,9 +85,9 @@ class DataScraping:
     def save_csv_file(self, movies):
         try:
             os.makedirs(os.path.dirname(self.ingestion_config.data_path), exist_ok=True)
-            logging.info("Inmgestion of the data iss completed")
             df = pd.read_json(movies)
             df.to_csv(self.ingestion_config.data_path)
+            logging.info("Data saved as CSV file")
 
         except Exception as e:
             raise CustomException(e, sys)
