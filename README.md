@@ -7,7 +7,7 @@
 
 ## Dashboard report
 
-<img width="1416" alt="dashboard" src="https://github.com/user-attachments/assets/88b29661-c2ba-4045-baf1-1b6254fd7db9">
+<img width="1416" alt="Dashboard" src="https://github.com/user-attachments/assets/e37fe9b2-5396-4031-9b9b-634acc0d4f81">
 
 ## Details on Visuals
 - **Top 10 Movies by Gross Revenue:** This bar chart ranks the top 10 movies based on their gross revenue, providing a clear comparison of box office success among the highest-grossing films.
