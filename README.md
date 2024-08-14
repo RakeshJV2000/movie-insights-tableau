@@ -14,3 +14,5 @@
 - **Distribution of Movie Ratings:** The histogram illustrates the spread of movie ratings, highlighting the most common rating ranges and identifying any skewness or outliers in the data.
 - **Distribution of Movie Genres:** This donut chart (or pie chart) shows the proportion of movies in various genres, helping to understand the dominance of certain genres in the dataset.
 - **Average Movie Rating Over the Years:** The line chart tracks the trend in average movie ratings over time, indicating how audience reception or rating criteria may have evolved across different decades.
+
+Link to the [dashboard](https://public.tableau.com/app/profile/rakesh.j.v/viz/movie-insights/Dashboard1?publish=yes)
