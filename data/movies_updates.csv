@@ -1,0 +1,1001 @@
+,id,Title,rating,runtime-mins,Year,Genres,release-date,Directors,Gross_Millions
+0,1,Avatar,7.9,162,2009,"Action, Adventure, Fantasy, Sci-Fi",2009-12-18,James Cameron,2924
+1,2,Avengers: Endgame,8.4,181,2019,"Action, Adventure, Drama, Sci-Fi",2019-04-26,"Anthony Russo, Joe Russo",2799
+2,3,Avatar: The Way of Water,7.5,192,2022,"Action, Adventure, Fantasy, Sci-Fi",2022-12-16,James Cameron,2320
+3,4,Titanic,7.9,194,1997,"Drama, Romance",1997-12-19,James Cameron,2265
+4,5,Star Wars: Episode VII - The Force Awakens,7.8,138,2015,"Action, Adventure, Sci-Fi",2015-12-18,J.J. Abrams,2071
+5,6,Avengers: Infinity War,8.4,149,2018,"Action, Adventure, Sci-Fi",2018-04-27,"Anthony Russo, Joe Russo",2052
+6,7,Spider-Man: No Way Home,8.2,148,2021,"Action, Adventure, Fantasy, Sci-Fi",2021-12-17,Jon Watts,1923
+7,8,Jurassic World,6.9,124,2015,"Action, Adventure, Sci-Fi",2015-06-12,Colin Trevorrow,1672
+8,9,The Lion King,6.8,118,2019,"Animation, Adventure, Drama, Family, Fantasy, Musical",2019-07-19,Jon Favreau,1663
+9,10,The Avengers,8.0,143,2012,"Action, Sci-Fi",2012-05-04,Joss Whedon,1521
+10,11,Furious 7,7.1,137,2015,"Action, Crime, Thriller",2015-04-03,James Wan,1515
+11,12,Top Gun: Maverick,8.2,130,2022,"Action, Drama",2022-05-27,Joseph Kosinski,1496
+12,13,Frozen II,6.8,103,2019,"Animation, Adventure, Comedy, Drama, Family, Fantasy, Musical",2019-11-22,"Chris Buck, Jennifer Lee",1454
+13,14,Barbie,6.8,114,2023,"Adventure, Comedy, Fantasy",2023-07-21,Greta Gerwig,1446
+14,15,Avengers: Age of Ultron,7.3,141,2015,"Action, Adventure, Sci-Fi",2015-05-01,Joss Whedon,1405
+15,16,The Super Mario Bros. Movie,7.0,92,2023,"Animation, Adventure, Comedy, Family, Fantasy",2023-04-05,"Aaron Horvath, Michael Jelenic, Pierre Leduc, Fabien Polack",1362
+16,17,Inside Out 2,7.8,96,2024,"Animation, Adventure, Comedy, Drama, Family, Fantasy",2024-06-14,Kelsey Mann,1350
+17,18,Black Panther,7.3,134,2018,"Action, Adventure, Sci-Fi",2018-02-16,Ryan Coogler,1350
+18,19,Harry Potter and the Deathly Hallows: Part 2,8.1,130,2011,"Adventure, Family, Fantasy, Mystery",2011-07-15,David Yates,1342
+19,20,Star Wars: Episode VIII - The Last Jedi,6.9,152,2017,"Action, Adventure, Fantasy, Sci-Fi",2017-12-15,Rian Johnson,1334
+20,21,Jurassic World: Fallen Kingdom,6.1,128,2018,"Action, Adventure, Sci-Fi",2018-06-22,J.A. Bayona,1310
+21,22,Frozen,7.4,102,2013,"Animation, Adventure, Comedy, Family, Fantasy, Musical",2013-11-27,"Chris Buck, Jennifer Lee",1285
+22,23,Beauty and the Beast,7.1,129,2017,"Adventure, Family, Fantasy, Musical, Romance",2017-03-17,Bill Condon,1266
+23,24,Incredibles 2,7.5,118,2018,"Animation, Action, Adventure, Comedy, Family, Sci-Fi",2018-06-15,Brad Bird,1243
+24,25,The Fate of the Furious,6.6,136,2017,"Action, Crime, Thriller",2017-04-14,F. Gary Gray,1236
+25,26,Iron Man 3,7.1,130,2013,"Action, Adventure, Sci-Fi",2013-05-03,Shane Black,1216
+26,27,Minions,6.4,91,2015,"Animation, Adventure, Comedy, Crime, Family, Sci-Fi",2015-07-10,"Kyle Balda, Pierre Coffin",1159
+27,28,Captain America: Civil War,7.8,147,2016,"Action, Sci-Fi",2016-05-06,"Anthony Russo, Joe Russo",1155
+28,29,Aquaman,6.8,143,2018,"Action, Adventure, Fantasy, Sci-Fi",2018-12-21,James Wan,1152
+29,30,The Lord of the Rings: The Return of the King,9.0,201,2003,"Action, Adventure, Drama, Fantasy",2003-12-17,Peter Jackson,1151
+30,31,Spider-Man: Far from Home,7.4,129,2019,"Action, Adventure, Comedy, Fantasy, Sci-Fi",2019-07-02,Jon Watts,1133
+31,32,Captain Marvel,6.8,123,2019,"Action, Adventure, Sci-Fi",2019-03-08,"Anna Boden, Ryan Fleck",1131
+32,33,Transformers: Dark of the Moon,6.2,154,2011,"Action, Adventure, Sci-Fi",2011-06-29,Michael Bay,1124
+33,34,Skyfall,7.8,143,2012,"Action, Adventure, Thriller",2012-11-09,Sam Mendes,1109
+34,35,Transformers: Age of Extinction,5.6,165,2014,"Action, Adventure, Sci-Fi",2014-06-27,Michael Bay,1104
+35,36,Jurassic Park,8.2,127,1993,"Action, Adventure, Sci-Fi, Thriller",1993-06-11,Steven Spielberg,1103
+36,37,The Dark Knight Rises,8.4,164,2012,"Action, Drama, Thriller",2012-07-20,Christopher Nolan,1085
+37,38,Joker,8.4,122,2019,"Crime, Drama, Thriller",2019-10-04,Todd Phillips,1079
+38,39,Star Wars: Episode IX - The Rise of Skywalker,6.4,141,2019,"Action, Adventure, Fantasy, Sci-Fi",2019-12-20,J.J. Abrams,1077
+39,40,Toy Story 4,7.7,100,2019,"Animation, Adventure, Comedy, Family, Fantasy",2019-06-21,Josh Cooley,1074
+40,41,Toy Story 3,8.3,103,2010,"Animation, Adventure, Comedy, Family, Fantasy",2010-06-29,Lee Unkrich,1067
+41,42,Pirates of the Caribbean: Dead Man's Chest,7.4,151,2006,"Action, Adventure, Fantasy",2006-07-07,Gore Verbinski,1066
+42,43,Rogue One: A Star Wars Story,7.8,133,2016,"Action, Adventure, Sci-Fi",2016-12-16,Gareth Edwards,1059
+43,44,Aladdin,6.9,128,2019,"Adventure, Comedy, Family, Fantasy, Musical, Romance",2019-05-24,Guy Ritchie,1054
+44,45,Pirates of the Caribbean: On Stranger Tides,6.6,136,2011,"Action, Adventure, Fantasy",2011-05-20,Rob Marshall,1047
+45,46,Star Wars: Episode I - The Phantom Menace,6.5,136,1999,"Action, Adventure, Fantasy, Sci-Fi",1999-05-19,George Lucas,1047
+46,47,Harry Potter and the Sorcerer's Stone,7.6,152,2001,"Adventure, Family, Fantasy",2001-11-16,Chris Columbus,1038
+47,48,Despicable Me 3,6.2,89,2017,"Animation, Adventure, Comedy, Crime, Family, Sci-Fi",2017-06-30,"Kyle Balda, Pierre Coffin, Eric Guillon",1035
+48,49,Finding Dory,7.2,97,2016,"Animation, Adventure, Comedy, Family, Fantasy",2016-06-17,"Andrew Stanton, Angus MacLane",1029
+49,50,Zootopia,8.0,108,2016,"Animation, Action, Adventure, Comedy, Crime, Family, Mystery",2016-03-04,"Byron Howard, Rich Moore, Jared Bush",1026
+50,51,Alice in Wonderland,6.4,108,2010,"Adventure, Family, Fantasy, Mystery",2010-03-05,Tim Burton,1025
+51,52,The Hobbit: An Unexpected Journey,7.8,169,2012,"Adventure, Fantasy",2012-12-14,Peter Jackson,1017
+52,53,The Dark Knight,9.0,152,2008,"Action, Crime, Drama, Thriller",2008-07-18,Christopher Nolan,1009
+53,54,Jurassic World Dominion,5.6,147,2022,"Action, Adventure, Sci-Fi, Thriller",2022-06-10,Colin Trevorrow,1002
+54,55,The Lion King,8.5,88,1994,"Animation, Adventure, Drama, Family, Fantasy, Musical",1994-06-24,"Roger Allers, Rob Minkoff",978
+55,56,Oppenheimer,8.3,180,2023,"Biography, Drama, History",2023-07-21,Christopher Nolan,975
+56,57,Despicable Me 2,7.3,98,2013,"Animation, Adventure, Comedy, Crime, Family, Sci-Fi",2013-07-03,"Pierre Coffin, Chris Renaud",971
+57,58,The Jungle Book,7.4,106,2016,"Animation, Action, Adventure, Drama, Family, Fantasy, Musical",2016-04-15,Jon Favreau,968
+58,59,Jumanji: Welcome to the Jungle,7.0,119,2017,"Action, Adventure, Comedy, Fantasy",2017-12-20,Jake Kasdan,963
+59,60,The Hobbit: The Battle of the Five Armies,7.4,144,2014,"Adventure, Fantasy",2014-12-17,Peter Jackson,962
+60,61,Pirates of the Caribbean: At World's End,7.1,169,2007,"Action, Adventure, Fantasy",2007-05-25,Gore Verbinski,962
+61,62,Harry Potter and the Deathly Hallows: Part 1,7.7,146,2010,"Adventure, Family, Fantasy, Mystery",2010-11-19,David Yates,961
+62,63,The Hobbit: The Desolation of Smaug,7.8,161,2013,"Adventure, Drama, Fantasy",2013-12-13,Peter Jackson,959
+63,64,Doctor Strange in the Multiverse of Madness,6.9,126,2022,"Action, Adventure, Fantasy, Sci-Fi",2022-05-06,Sam Raimi,956
+64,65,The Lord of the Rings: The Two Towers,8.8,179,2002,"Action, Adventure, Drama, Fantasy",2002-12-18,Peter Jackson,952
+65,66,Harry Potter and the Order of the Phoenix,7.5,138,2007,"Action, Adventure, Family, Fantasy, Mystery",2007-07-11,David Yates,943
+66,67,Finding Nemo,8.2,100,2003,"Animation, Adventure, Comedy, Family",2003-05-30,"Andrew Stanton, Lee Unkrich",942
+67,68,Minions: The Rise of Gru,6.5,87,2022,"Animation, Adventure, Comedy, Crime, Family, Sci-Fi",2022-07-01,"Kyle Balda, Brad Ableson, Jonathan del Val",940
+68,69,Harry Potter and the Half-Blood Prince,7.6,153,2009,"Action, Adventure, Family, Fantasy, Mystery",2009-07-15,David Yates,935
+69,70,Shrek 2,7.3,93,2004,"Animation, Adventure, Comedy, Family, Fantasy, Romance",2004-05-21,"Andrew Adamson, Kelly Asbury, Conrad Vernon",932
+70,71,Bohemian Rhapsody,7.9,134,2018,"Biography, Drama, Music",2018-11-02,Bryan Singer,911
+71,72,The Battle at Lake Changjin,5.5,176,2021,"Action, Drama, History, War",2021-09-30,"Kaige Chen, Dante Lam, Hark Tsui, Jianxin Huang, Haiqiang Ning, Ju-chun Park",903
+72,73,Harry Potter and the Goblet of Fire,7.7,157,2005,"Adventure, Family, Fantasy, Mystery",2005-11-18,Mike Newell,897
+73,74,Spider-Man 3,6.3,139,2007,"Action, Adventure, Sci-Fi",2007-05-04,Sam Raimi,896
+74,75,The Lord of the Rings: The Fellowship of the Ring,8.9,178,2001,"Action, Adventure, Drama, Fantasy",2001-12-19,Peter Jackson,887
+75,76,Ice Age: Dawn of the Dinosaurs,6.9,94,2009,"Animation, Adventure, Comedy, Family",2009-07-01,"Carlos Saldanha, Michael Thurmeier",887
+76,77,Harry Potter and the Chamber of Secrets,7.4,161,2002,"Adventure, Family, Fantasy, Mystery",2002-11-15,Chris Columbus,883
+77,78,Spider-Man: Homecoming,7.4,133,2017,"Action, Adventure, Sci-Fi",2017-07-07,Jon Watts,881
+78,79,Spectre,6.8,148,2015,"Action, Adventure, Thriller",2015-11-06,Sam Mendes,881
+79,80,Ice Age: Continental Drift,6.5,88,2012,"Animation, Adventure, Comedy, Family",2012-07-13,"Steve Martino, Michael Thurmeier",877
+80,81,The Secret Life of Pets,6.5,86,2016,"Animation, Adventure, Comedy, Family",2016-07-08,Chris Renaud,876
+81,82,Batman v Superman: Dawn of Justice,6.5,151,2016,"Action, Adventure, Sci-Fi",2016-03-25,Zack Snyder,874
+82,83,Wolf Warrior 2,5.9,123,2017,"Action, Adventure, Drama, Thriller, War",2017-07-27,Jing Wu,870
+83,84,Star Wars: Episode III - Revenge of the Sith,7.6,140,2005,"Action, Adventure, Fantasy, Sci-Fi",2005-05-19,George Lucas,868
+84,85,The Hunger Games: Catching Fire,7.5,146,2013,"Action, Adventure, Sci-Fi, Thriller",2013-11-22,Francis Lawrence,865
+85,86,Guardians of the Galaxy Vol. 2,7.6,136,2017,"Action, Adventure, Comedy, Sci-Fi",2017-05-05,James Gunn,864
+86,87,Black Panther: Wakanda Forever,6.7,161,2022,"Action, Adventure, Drama, Sci-Fi",2022-11-11,Ryan Coogler,859
+87,88,Inside Out,8.1,95,2015,"Animation, Adventure, Comedy, Drama, Family, Fantasy",2015-06-19,"Pete Docter, Ronnie Del Carmen",859
+88,89,Venom,6.6,112,2018,"Action, Adventure, Sci-Fi",2018-10-05,Ruben Fleischer,856
+89,90,Thor: Ragnarok,7.9,130,2017,"Action, Adventure, Comedy, Fantasy, Sci-Fi",2017-11-03,Taika Waititi,855
+90,91,The Twilight Saga: Breaking Dawn - Part 2,5.5,115,2012,"Adventure, Drama, Fantasy, Romance",2012-11-16,Bill Condon,849
+91,92,Guardians of the Galaxy Vol. 3,7.9,150,2023,"Action, Adventure, Comedy, Sci-Fi",2023-05-05,James Gunn,846
+92,93,Inception,8.8,148,2010,"Action, Adventure, Sci-Fi, Thriller",2010-07-16,Christopher Nolan,839
+93,94,Transformers: Revenge of the Fallen,6.0,149,2009,"Action, Adventure, Sci-Fi",2009-06-24,Michael Bay,836
+94,95,Spider-Man,7.4,121,2002,"Action, Adventure, Sci-Fi",2002-05-03,Sam Raimi,826
+95,96,Wonder Woman,7.3,141,2017,"Action, Adventure, Fantasy, Sci-Fi, War",2017-06-02,Patty Jenkins,824
+96,97,"Hi, Mom",6.9,128,2021,"Comedy, Drama, Fantasy",2021-02-12,Ling Jia,822
+97,98,Independence Day,7.0,145,1996,"Action, Adventure, Sci-Fi",1996-07-03,Roland Emmerich,817
+98,99,Fantastic Beasts and Where to Find Them,7.2,132,2016,"Adventure, Family, Fantasy",2016-11-18,David Yates,816
+99,100,Coco,8.4,105,2017,"Animation, Adventure, Drama, Family, Fantasy, Musical, Mystery",2017-11-22,"Lee Unkrich, Adrian Molina",815
+100,101,Shrek the Third,6.1,93,2007,"Animation, Adventure, Comedy, Family, Fantasy, Romance",2007-05-18,"Chris Miller, Raman Hui",813
+101,102,Harry Potter and the Prisoner of Azkaban,7.9,142,2004,"Adventure, Family, Fantasy, Mystery",2004-06-04,Alfonso Cuarón,808
+102,103,Jumanji: The Next Level,6.7,123,2019,"Action, Adventure, Comedy, Fantasy",2019-12-13,Jake Kasdan,802
+103,104,Pirates of the Caribbean: Dead Men Tell No Tales,6.5,129,2017,"Action, Adventure, Fantasy",2017-05-26,"Joachim Rønning, Espen Sandberg",796
+104,105,E.T. the Extra-Terrestrial,7.9,115,1982,"Adventure, Family, Sci-Fi",1982-06-11,Steven Spielberg,793
+105,106,Mission: Impossible - Fallout,7.7,147,2018,"Action, Adventure, Thriller",2018-07-27,Christopher McQuarrie,792
+106,107,2012,5.8,158,2009,"Action, Adventure, Sci-Fi",2009-11-13,Roland Emmerich,791
+107,108,Spider-Man 2,7.5,127,2004,"Action, Adventure, Sci-Fi",2004-06-30,Sam Raimi,790
+108,109,Fast & Furious 6,7.0,130,2013,"Action, Crime, Thriller",2013-05-24,Justin Lin,789
+109,110,Indiana Jones and the Kingdom of the Crystal Skull,6.2,122,2008,"Action, Adventure",2008-05-22,Steven Spielberg,787
+110,111,Deadpool 2,7.6,119,2018,"Action, Adventure, Comedy, Sci-Fi",2018-05-18,David Leitch,786
+111,112,Deadpool,8.0,108,2016,"Action, Comedy",2016-02-12,Tim Miller,783
+112,113,Star Wars: Episode IV - A New Hope,8.6,121,1977,"Action, Adventure, Fantasy, Sci-Fi",1977-05-25,George Lucas,775
+113,114,No Time to Die,7.3,163,2021,"Action, Adventure, Thriller",2021-10-08,Cary Joji Fukunaga,774
+114,115,Guardians of the Galaxy,8.0,121,2014,"Action, Adventure, Comedy, Sci-Fi",2014-08-01,James Gunn,773
+115,116,Gravity,7.7,91,2013,"Drama, Sci-Fi, Thriller",2013-10-04,Alfonso Cuarón,773
+116,117,The Batman,7.8,176,2022,"Action, Crime, Drama, Mystery, Thriller",2022-03-04,Matt Reeves,772
+117,118,Thor: Love and Thunder,6.2,118,2022,"Action, Adventure, Comedy, Fantasy, Romance, Sci-Fi",2022-07-08,Taika Waititi,761
+118,119,Fast & Furious Presents: Hobbs & Shaw,6.5,137,2019,"Action, Adventure, Thriller",2019-08-02,David Leitch,761
+119,120,The Da Vinci Code,6.6,149,2006,"Mystery, Thriller",2006-05-19,Ron Howard,760
+120,121,Maleficent,6.9,97,2014,"Action, Adventure, Drama, Family, Fantasy, Romance",2014-05-30,Robert Stromberg,760
+121,122,The Hunger Games: Mockingjay - Part 1,6.6,123,2014,"Action, Adventure, Sci-Fi, Thriller",2014-11-21,Francis Lawrence,759
+122,123,The Amazing Spider-Man,6.9,136,2012,"Action, Adventure, Sci-Fi",2012-07-03,Marc Webb,759
+123,124,Shrek Forever After,6.3,93,2010,"Animation, Adventure, Comedy, Family, Fantasy, Romance",2010-06-18,Mike Mitchell,753
+124,125,Suicide Squad,5.9,123,2016,"Action, Adventure, Fantasy, Sci-Fi",2016-08-05,David Ayer,749
+125,126,Madagascar 3: Europe's Most Wanted,6.8,93,2012,"Animation, Adventure, Comedy, Family",2012-06-08,"Eric Darnell, Tom McGrath, Conrad Vernon",747
+126,127,X-Men: Days of Future Past,7.9,132,2014,"Action, Adventure, Sci-Fi, Thriller",2014-05-23,Bryan Singer,746
+127,128,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",6.9,143,2005,"Adventure, Family, Fantasy",2005-12-09,Andrew Adamson,745
+128,129,Monsters University,7.2,104,2013,"Animation, Adventure, Comedy, Family, Fantasy",2013-06-21,Dan Scanlon,744
+129,130,The Matrix Reloaded,7.2,138,2003,"Action, Sci-Fi",2003-05-15,"Lana Wachowski, Lilly Wachowski",742
+130,131,Up,8.3,96,2009,"Animation, Adventure, Comedy, Drama, Family",2009-07-23,"Pete Docter, Bob Peterson",735
+131,132,Ne Zha,7.4,110,2019,"Animation, Action, Adventure, Family, Fantasy, Thriller",2019-07-26,Yu Yang,726
+132,133,F9: The Fast Saga,5.2,143,2021,"Action, Crime, Thriller",2021-06-25,Justin Lin,726
+133,134,Captain America: The Winter Soldier,7.7,136,2014,"Action, Adventure, Sci-Fi, Thriller",2014-04-04,"Anthony Russo, Joe Russo",714
+134,135,The Twilight Saga: Breaking Dawn - Part 1,4.9,117,2011,"Adventure, Drama, Fantasy, Romance, Thriller",2011-11-18,Bill Condon,712
+135,136,Dune: Part Two,8.5,166,2024,"Action, Adventure, Drama, Sci-Fi",2024-03-01,Denis Villeneuve,712
+136,137,The Twilight Saga: New Moon,4.8,130,2009,"Adventure, Drama, Fantasy, Romance",2009-11-20,Chris Weitz,711
+137,138,Dawn of the Planet of the Apes,7.6,130,2014,"Action, Adventure, Drama, Sci-Fi, Thriller",2014-07-11,Matt Reeves,711
+138,139,The Amazing Spider-Man 2,6.6,142,2014,"Action, Adventure, Sci-Fi",2014-05-02,Marc Webb,710
+139,140,Transformers,7.0,144,2007,"Action, Adventure, Sci-Fi",2007-07-03,Michael Bay,710
+140,141,Interstellar,8.7,169,2014,"Adventure, Drama, Sci-Fi",2014-11-07,Christopher Nolan,705
+141,142,Fast X,5.7,141,2023,"Action, Adventure, Crime, Mystery, Thriller",2023-05-19,Louis Leterrier,705
+142,143,It,7.3,135,2017,"Fantasy, Horror",2017-09-08,Andy Muschietti,704
+143,144,The Wandering Earth,5.9,125,2019,"Action, Adventure, Sci-Fi, Thriller",2019-02-05,Frant Gwo,700
+144,145,The Twilight Saga: Eclipse,5.1,124,2010,"Action, Adventure, Drama, Fantasy, Mystery, Romance, Thriller",2010-06-30,David Slade,699
+145,146,The Hunger Games,7.2,142,2012,"Action, Adventure, Sci-Fi, Thriller",2012-03-23,Gary Ross,695
+146,147,Mission: Impossible - Ghost Protocol,7.4,132,2011,"Action, Adventure, Thriller",2011-12-21,Brad Bird,695
+147,148,Mamma Mia!,6.5,108,2008,"Comedy, Musical, Romance",2008-07-18,Phyllida Lloyd,695
+148,149,Spider-Man: Across the Spider-Verse,8.6,140,2023,"Animation, Action, Adventure, Fantasy, Sci-Fi",2023-06-02,"Joaquim Dos Santos, Kemp Powers, Justin K. Thompson",691
+149,150,Detective Chinatown 3,5.6,136,2021,"Action, Adventure, Comedy, Mystery",2021-02-12,Sicheng Chen,686
+150,151,Mission: Impossible - Rogue Nation,7.4,131,2015,"Action, Adventure, Thriller",2015-07-31,Christopher McQuarrie,683
+151,152,Forrest Gump,8.8,142,1994,"Drama, Romance",1994-07-06,Robert Zemeckis,678
+152,153,Doctor Strange,7.5,115,2016,"Action, Adventure, Fantasy, Sci-Fi",2016-11-04,Scott Derrickson,678
+153,154,The Sixth Sense,8.2,107,1999,"Drama, Mystery, Thriller",1999-08-06,M. Night Shyamalan,673
+154,155,Man of Steel,7.1,143,2013,"Action, Adventure, Sci-Fi",2013-06-14,Zack Snyder,670
+155,156,Ice Age: The Meltdown,6.8,91,2006,"Animation, Adventure, Comedy, Family",2006-03-31,Carlos Saldanha,667
+156,157,Kung Fu Panda 2,7.3,90,2011,"Animation, Action, Adventure, Comedy, Drama, Family, Fantasy",2011-05-26,Jennifer Yuh Nelson,666
+157,158,The Hunger Games: Mockingjay - Part 2,6.6,137,2015,"Action, Adventure, Sci-Fi, Thriller",2015-11-20,Francis Lawrence,661
+158,159,Justice League,6.1,120,2017,"Action, Adventure, Fantasy, Sci-Fi",2017-11-17,Zack Snyder,661
+159,160,Big Hero 6,7.8,102,2014,"Animation, Action, Adventure, Comedy, Crime, Family, Sci-Fi",2014-11-07,"Don Hall, Chris Williams",658
+160,161,Fantastic Beasts: The Crimes of Grindelwald,6.5,134,2018,"Adventure, Family, Fantasy",2018-11-16,David Yates,656
+161,162,Pirates of the Caribbean: The Curse of the Black Pearl,8.1,143,2003,"Action, Adventure, Fantasy",2003-07-09,Gore Verbinski,654
+162,163,Men in Black³,6.8,106,2012,"Action, Adventure, Comedy, Sci-Fi",2012-05-25,Barry Sonnenfeld,654
+163,164,Star Wars: Episode II - Attack of the Clones,6.6,142,2002,"Action, Adventure, Fantasy, Sci-Fi",2002-05-16,George Lucas,654
+164,165,Thor: The Dark World,6.8,112,2013,"Action, Adventure, Fantasy",2013-11-08,Alan Taylor,645
+165,166,Moana,7.6,107,2016,"Animation, Adventure, Comedy, Family, Fantasy, Musical",2016-11-23,"Ron Clements, John Musker, Don Hall, Chris Williams",643
+166,167,Sing,7.1,108,2016,"Animation, Comedy, Family, Musical",2016-12-21,"Garth Jennings, Christophe Lourdelet",634
+167,168,Wonka,7.0,116,2023,"Adventure, Comedy, Family, Fantasy, Musical",2023-12-15,Paul King,632
+168,169,Kung Fu Panda,7.6,92,2008,"Animation, Action, Adventure, Comedy, Family, Fantasy",2008-06-06,"Mark Osborne, John Stevenson",632
+169,170,The Incredibles,8.0,115,2004,"Animation, Action, Adventure, Family",2004-11-28,Brad Bird,632
+170,171,The Martian,8.0,144,2015,"Adventure, Drama, Sci-Fi",2015-10-02,Ridley Scott,631
+171,172,Hancock,6.4,92,2008,"Action, Comedy, Drama, Fantasy",2008-07-02,Peter Berg,629
+172,173,Water Gate Bridge,5.6,153,2022,"Action, Drama, History, War",2022-02-01,"Hark Tsui, Kaige Chen, Dante Lam, Jianxin Huang, Ju-chun Park",627
+173,174,Fast Five,7.3,130,2011,"Action, Crime, Thriller",2011-04-29,Justin Lin,626
+174,175,Iron Man 2,6.9,124,2010,"Action, Sci-Fi",2010-05-07,Jon Favreau,624
+175,176,Ratatouille,8.1,111,2007,"Animation, Adventure, Comedy, Family, Fantasy",2007-06-27,"Brad Bird, Jan Pinkava",624
+176,177,Ant-Man and the Wasp,7.0,118,2018,"Action, Adventure, Comedy, Sci-Fi",2018-07-06,Peyton Reed,623
+177,178,How to Train Your Dragon 2,7.8,102,2014,"Animation, Action, Adventure, Comedy, Family, Fantasy",2014-06-13,Dean DeBlois,622
+178,179,Logan,8.1,137,2017,"Action, Drama, Sci-Fi, Thriller",2017-03-03,James Mangold,619
+179,180,The Lost World: Jurassic Park,6.6,129,1997,"Action, Adventure, Sci-Fi",1997-05-22,Steven Spielberg,619
+180,181,Casino Royale,8.0,144,2006,"Action, Adventure, Thriller",2006-11-17,Martin Campbell,617
+181,182,The Passion of the Christ,7.2,127,2004,Drama,2004-02-25,Mel Gibson,612
+182,183,Life of Pi,7.9,127,2012,"Adventure, Drama, Fantasy",2012-11-21,Ang Lee,609
+183,184,Ready Player One,7.4,140,2018,"Action, Adventure, Sci-Fi",2018-03-29,Steven Spielberg,608
+184,185,Transformers: The Last Knight,5.2,154,2017,"Action, Adventure, Sci-Fi",2017-06-21,Michael Bay,605
+185,186,Madagascar: Escape 2 Africa,6.6,89,2008,"Animation, Adventure, Comedy, Family",2008-11-07,"Eric Darnell, Tom McGrath",604
+186,187,War of the Worlds,6.5,116,2005,"Action, Adventure, Sci-Fi",2005-06-29,Steven Spielberg,604
+187,188,Tangled,7.7,100,2010,"Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance",2010-11-24,"Nathan Greno, Byron Howard",592
+188,189,Quantum of Solace,6.5,106,2008,"Action, Adventure, Mystery, Thriller",2008-11-14,Marc Forster,590
+189,190,Men in Black,7.3,98,1997,"Action, Adventure, Comedy, Sci-Fi",1997-07-02,Barry Sonnenfeld,589
+190,191,The Croods,7.1,98,2013,"Animation, Adventure, Comedy, Family, Fantasy",2013-03-22,"Kirk DeMicco, Chris Sanders",587
+191,192,The Hangover Part II,6.5,102,2011,Comedy,2011-05-26,Todd Phillips,587
+192,193,Iron Man,7.9,126,2008,"Action, Adventure, Sci-Fi",2008-05-02,Jon Favreau,586
+193,194,I Am Legend,7.2,101,2007,"Action, Drama, Horror, Sci-Fi, Thriller",2007-12-14,Francis Lawrence,585
+194,195,"Monsters, Inc.",8.1,92,2001,"Animation, Adventure, Comedy, Family, Fantasy",2001-11-23,"Pete Docter, David Silverman, Lee Unkrich",580
+195,196,Operation Red Sea,6.6,142,2018,"Action, Drama, Thriller, War",2018-02-23,Dante Lam,579
+196,197,Night at the Museum,6.5,108,2006,"Adventure, Comedy, Family, Fantasy",2006-12-22,Shawn Levy,574
+197,198,Fifty Shades of Grey,4.2,125,2015,"Drama, Romance, Thriller",2015-02-13,Sam Taylor-Johnson,570
+198,199,The Little Mermaid,7.2,135,2023,"Adventure, Family, Fantasy, Musical, Romance",2023-05-26,Rob Marshall,570
+199,200,Kong: Skull Island,6.7,118,2017,"Action, Adventure, Fantasy, Sci-Fi",2017-03-10,Jordan Vogt-Roberts,569
+200,201,Godzilla x Kong: The New Empire,6.1,115,2024,"Action, Adventure, Fantasy, Sci-Fi, Thriller",2024-03-29,Adam Wingard,568
+201,202,Mission: Impossible - Dead Reckoning Part One,7.7,163,2023,"Action, Adventure, Thriller",2023-07-12,Christopher McQuarrie,568
+202,203,The Smurfs,5.4,103,2011,"Animation, Adventure, Comedy, Family, Fantasy",2011-07-29,Raja Gosnell,564
+203,204,Cars 2,6.2,106,2011,"Animation, Adventure, Comedy, Crime, Family, Sport",2011-06-24,"John Lasseter, Bradford Lewis",560
+204,205,King Kong,7.2,187,2005,"Action, Adventure, Romance",2005-12-14,Peter Jackson,557
+205,206,Puss in Boots,6.6,90,2011,"Animation, Action, Adventure, Comedy, Family, Fantasy",2011-11-15,Chris Miller,555
+206,207,The Mermaid,6.2,94,2016,"Comedy, Drama, Fantasy, Romance",2016-02-08,Stephen Chow,554
+207,208,Armageddon,6.7,151,1998,"Action, Adventure, Sci-Fi, Thriller",1998-07-01,Michael Bay,554
+208,209,The Day After Tomorrow,6.5,124,2004,"Action, Adventure, Sci-Fi, Thriller",2004-05-28,Roland Emmerich,553
+209,210,Ted,6.9,106,2012,Comedy,2012-06-29,Seth MacFarlane,549
+210,211,American Sniper,7.3,133,2014,"Action, Biography, Drama, War",2015-01-16,Clint Eastwood,548
+211,212,Mission: Impossible II,6.1,123,2000,"Action, Adventure, Thriller",2000-05-24,John Woo,546
+212,213,Kung Fu Panda 4,6.3,94,2024,"Animation, Action, Adventure, Comedy, Family, Fantasy",2024-03-08,"Mike Mitchell, Stephanie Stine",545
+213,214,Detective Chinatown 2,6.1,121,2018,"Action, Comedy, Mystery",2018-02-16,Sicheng Chen,544
+214,215,X-Men: Apocalypse,6.8,144,2016,"Action, Adventure, Sci-Fi",2016-05-27,Bryan Singer,544
+215,216,Sherlock Holmes: A Game of Shadows,7.4,129,2011,"Action, Adventure, Mystery",2011-12-16,Guy Ritchie,544
+216,217,Despicable Me,7.6,95,2010,"Animation, Adventure, Comedy, Crime, Family, Sci-Fi",2010-07-09,"Pierre Coffin, Chris Renaud",543
+217,218,Cinderella,6.9,105,2015,"Adventure, Drama, Family, Fantasy, Romance",2015-03-13,Kenneth Branagh,542
+218,219,Madagascar,6.9,86,2005,"Animation, Adventure, Comedy, Family",2005-06-24,"Eric Darnell, Tom McGrath",542
+219,220,World War Z,7.0,116,2013,"Action, Adventure, Horror, Sci-Fi",2013-06-21,Marc Forster,540
+220,221,The Grinch,6.4,85,2018,"Animation, Comedy, Drama, Family, Fantasy, Musical",2018-11-09,"Yarrow Cheney, Scott Mosier",540
+221,222,Brave,7.1,93,2012,"Animation, Action, Adventure, Comedy, Drama, Family, Fantasy, Mystery",2012-06-19,"Mark Andrews, Brenda Chapman, Steve Purcell",539
+222,223,Star Wars: Episode V - The Empire Strikes Back,8.7,124,1980,"Action, Adventure, Fantasy, Sci-Fi",1980-06-18,Irvin Kershner,538
+223,224,The Simpsons Movie,7.3,87,2007,"Animation, Adventure, Comedy",2007-07-27,David Silverman,536
+224,225,The Revenant,8.0,156,2015,"Action, Adventure, Drama, Western",2016-01-08,Alejandro G. Iñárritu,533
+225,226,Dunkirk,7.8,106,2017,"Action, Drama, History, Thriller, War",2017-07-21,Christopher Nolan,530
+226,227,The Meg,5.7,113,2018,"Action, Horror, Sci-Fi, Thriller",2018-08-10,Jon Turteltaub,529
+227,228,Ralph Breaks the Internet,7.0,112,2018,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi, Sport",2018-11-23,"Phil Johnston, Rich Moore",529
+228,229,Hotel Transylvania 3: Summer Vacation,6.3,97,2018,"Animation, Adventure, Comedy, Family, Fantasy, Horror",2018-07-13,Genndy Tartakovsky,529
+229,230,The Boss Baby,6.3,97,2017,"Animation, Adventure, Comedy, Family, Fantasy",2017-03-31,Tom McGrath,528
+230,231,WALL·E,8.4,98,2008,"Animation, Adventure, Family, Sci-Fi",2008-06-29,Andrew Stanton,527
+231,232,Godzilla,6.4,123,2014,"Action, Adventure, Sci-Fi, Thriller",2014-05-16,Gareth Edwards,525
+232,233,How to Train Your Dragon: The Hidden World,7.4,104,2019,"Animation, Action, Adventure, Comedy, Drama, Family, Fantasy",2019-02-22,Dean DeBlois,525
+233,234,Sherlock Holmes,7.6,128,2009,"Action, Adventure, Mystery",2009-12-25,Guy Ritchie,524
+234,235,Meet the Fockers,6.3,115,2004,"Comedy, Romance",2004-12-22,Jay Roach,523
+235,236,Kung Fu Panda 3,7.1,95,2016,"Animation, Action, Adventure, Comedy, Family, Fantasy",2016-01-29,"Alessandro Carloni, Jennifer Yuh Nelson",521
+236,237,Terminator 2: Judgment Day,8.6,137,1991,"Action, Adventure, Sci-Fi",1991-07-03,James Cameron,521
+237,238,Ant-Man,7.2,117,2015,"Action, Comedy, Sci-Fi",2015-07-17,Peyton Reed,519
+238,239,Venom: Let There Be Carnage,5.9,97,2021,"Action, Sci-Fi, Thriller",2021-10-01,Andy Serkis,507
+239,240,Ghost,7.1,127,1990,"Drama, Fantasy, Romance, Thriller",1990-07-13,Jerry Zucker,506
+240,241,Aladdin,8.0,90,1992,"Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance",1992-11-25,"Ron Clements, John Musker",504
+241,242,Rio 2,6.3,101,2014,"Animation, Adventure, Comedy, Family, Music, Musical, Romance",2014-04-11,Carlos Saldanha,499
+242,243,Troy,7.3,163,2004,"Adventure, Drama",2004-05-14,Wolfgang Petersen,497
+243,244,Toy Story 2,7.9,92,1999,"Animation, Adventure, Comedy, Family, Fantasy",1999-11-24,"John Lasseter, Ash Brannon, Lee Unkrich",497
+244,245,Elemental,7.0,101,2023,"Animation, Adventure, Comedy, Family, Fantasy, Romance",2023-06-16,Peter Sohn,496
+245,246,How to Train Your Dragon,8.1,98,2010,"Animation, Action, Adventure, Family, Fantasy",2010-03-26,"Dean DeBlois, Chris Sanders",495
+246,247,Twister,6.5,113,1996,"Action, Adventure, Thriller",1996-05-10,Jan de Bont,495
+247,248,Oz the Great and Powerful,6.3,130,2013,"Adventure, Family, Fantasy",2013-03-08,Sam Raimi,493
+248,249,Clash of the Titans,5.8,106,2010,"Action, Adventure, Fantasy",2010-04-02,Louis Leterrier,493
+249,250,Maleficent: Mistress of Evil,6.6,119,2019,"Adventure, Drama, Family, Fantasy, Romance",2019-10-18,Joachim Rønning,492
+250,251,War for the Planet of the Apes,7.4,140,2017,"Action, Adventure, Drama, Sci-Fi, Thriller",2017-07-14,Matt Reeves,491
+251,252,Shrek,7.9,90,2001,"Animation, Adventure, Comedy, Family, Fantasy, Romance",2001-05-18,"Andrew Adamson, Vicky Jenson",489
+252,253,Mr. & Mrs. Smith,6.5,120,2005,"Action, Comedy, Crime, Thriller",2005-06-10,Doug Liman,487
+253,254,Angels & Demons,6.7,138,2009,"Action, Mystery, Thriller",2009-05-15,Ron Howard,486
+254,255,Teenage Mutant Ninja Turtles,5.8,101,2014,"Action, Adventure, Comedy, Crime, Fantasy, Sci-Fi",2014-08-08,Jonathan Liebesman,485
+255,256,Bruce Almighty,6.8,101,2003,"Comedy, Fantasy",2003-05-23,Tom Shadyac,485
+256,257,Rio,6.9,96,2011,"Animation, Adventure, Comedy, Family, Music, Musical, Romance",2011-04-15,Carlos Saldanha,484
+257,258,Saving Private Ryan,8.6,169,1998,"Drama, War",1998-07-24,Steven Spielberg,482
+258,259,Rise of the Planet of the Apes,7.6,105,2011,"Action, Drama, Sci-Fi, Thriller",2011-08-05,Rupert Wyatt,482
+259,260,Puss in Boots: The Last Wish,7.8,102,2022,"Animation, Action, Adventure, Comedy, Family, Fantasy",2022-12-21,"Joel Crawford, Januel Mercado",482
+260,261,Jaws,8.1,124,1975,"Adventure, Drama, Thriller",1975-06-20,Steven Spielberg,477
+261,262,Home Alone,7.7,103,1990,"Comedy, Family",1990-11-16,Chris Columbus,477
+262,263,Ant-Man and the Wasp: Quantumania,6.0,124,2023,"Action, Adventure, Comedy, Sci-Fi",2023-02-17,Peyton Reed,476
+263,264,Hotel Transylvania 2,6.6,89,2015,"Animation, Adventure, Comedy, Family, Fantasy",2015-09-25,Genndy Tartakovsky,475
+264,265,Star Wars: Episode VI - Return of the Jedi,8.3,131,1983,"Action, Adventure, Fantasy, Sci-Fi",1983-05-25,Richard Marquand,475
+265,266,Charlie and the Chocolate Factory,6.7,115,2005,"Adventure, Comedy, Family, Fantasy, Musical",2005-07-15,Tim Burton,475
+266,267,San Andreas,6.1,114,2015,"Action, Adventure, Thriller",2015-05-29,Brad Peyton,475
+267,268,Indiana Jones and the Last Crusade,8.2,127,1989,"Action, Adventure",1989-05-24,Steven Spielberg,474
+268,269,It Chapter Two,6.5,169,2019,"Drama, Fantasy, Horror",2019-09-06,Andy Muschietti,473
+269,270,The King's Speech,8.0,118,2010,"Biography, Drama, History",2010-12-25,Tom Hooper,472
+270,271,La La Land,8.0,128,2016,"Comedy, Drama, Music, Musical, Romance",2016-12-25,Damien Chazelle,472
+271,272,Wreck-It Ralph,7.7,101,2012,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi, Sport",2012-11-02,Rich Moore,471
+272,273,The Lego Movie,7.7,100,2014,"Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",2014-02-07,"Phil Lord, Christopher Miller",471
+273,274,Godzilla vs. Kong,6.3,113,2021,"Action, Sci-Fi, Thriller",2021-03-31,Adam Wingard,470
+274,275,The Hangover,7.7,100,2009,Comedy,2009-06-05,Todd Phillips,469
+275,276,Lucy,6.4,89,2014,"Action, Sci-Fi, Thriller",2014-07-25,Luc Besson,469
+276,277,Bumblebee,6.7,114,2018,"Action, Adventure, Sci-Fi",2018-12-21,Travis Knight,468
+277,278,The Matrix,8.7,136,1999,"Action, Sci-Fi",1999-03-31,"Lana Wachowski, Lilly Wachowski",468
+278,279,Star Trek Into Darkness,7.7,132,2013,"Action, Adventure, Sci-Fi",2013-05-16,J.J. Abrams,467
+279,280,Gladiator,8.5,155,2000,"Action, Adventure, Drama",2000-05-05,Ridley Scott,465
+280,281,Pretty Woman,7.1,119,1990,"Comedy, Romance",1990-03-23,Garry Marshall,463
+281,282,Cars,7.2,116,2006,"Animation, Adventure, Comedy, Family, Sport",2006-06-23,"John Lasseter, Joe Ranft",462
+282,283,The Eight Hundred,6.7,149,2020,"Action, Drama, History, War",2020-08-28,Hu Guan,461
+283,284,X-Men: The Last Stand,6.6,104,2006,"Action, Adventure, Sci-Fi",2006-05-26,Brett Ratner,460
+284,285,Moon Man,6.4,122,2022,"Comedy, Sci-Fi",2022-07-29,Chiyu Zhang,460
+285,286,National Treasure: Book of Secrets,6.5,124,2007,"Action, Adventure, Mystery, Thriller",2007-12-21,Jon Turteltaub,459
+286,287,Mission: Impossible,7.2,110,1996,"Action, Adventure, Thriller",1996-05-22,Brian De Palma,458
+287,288,300,7.6,117,2006,"Action, Drama",2007-03-09,Zack Snyder,456
+288,289,The Last Samurai,7.8,154,2003,"Action, Drama",2003-12-05,Edward Zwick,455
+289,290,Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train,8.2,117,2020,"Animation, Action, Adventure, Fantasy, Thriller",2021-04-23,Haruo Sotozaki,453
+290,291,Dying to Survive,7.8,117,2018,"Comedy, Drama",2019-08-09,Muye Wen,451
+291,292,Ocean's Eleven,7.7,116,2001,"Crime, Thriller",2001-12-07,Steven Soderbergh,451
+292,293,"My People, My Country",6.3,154,2019,"Drama, History",2019-10-01,"Kaige Chen, Hu Guan, Hao Ning, Muye Wen, Zheng Xu, Xiaolu Xue, Yibai Zhang",450
+293,294,Pokémon: Detective Pikachu,6.5,104,2019,"Action, Adventure, Comedy, Family, Mystery, Sci-Fi",2019-05-10,Rob Letterman,450
+294,295,Thor,7.0,115,2011,"Action, Fantasy",2011-05-06,Kenneth Branagh,449
+295,296,Pearl Harbor,6.2,183,2001,"Action, Drama, Romance, War",2001-05-25,Michael Bay,449
+296,297,Tarzan,7.3,88,1999,"Animation, Adventure, Comedy, Drama, Family, Music",1999-06-18,"Chris Buck, Kevin Lima",448
+297,298,Men in Black II,6.2,88,2002,"Action, Adventure, Comedy, Mystery, Sci-Fi",2002-07-03,Barry Sonnenfeld,445
+298,299,The Bourne Ultimatum,8.0,115,2007,"Action, Mystery, Thriller",2007-08-03,Paul Greengrass,444
+299,300,The Mummy Returns,6.4,130,2001,"Action, Adventure, Fantasy, Thriller",2001-05-04,Stephen Sommers,443
+300,301,Alvin and the Chipmunks: The Squeakquel,4.5,88,2009,"Adventure, Comedy, Family, Fantasy, Music, Musical",2009-12-23,Betty Thomas,443
+301,302,Les Misérables,7.5,158,2012,"Drama, Musical, Romance",2012-12-25,Tom Hooper,443
+302,303,The Exorcist,8.1,122,1973,Horror,1973-12-26,William Friedkin,441
+303,304,Mrs. Doubtfire,7.1,125,1993,"Comedy, Drama",1993-11-24,Chris Columbus,441
+304,305,Terminator Genisys,6.3,126,2015,"Action, Adventure, Sci-Fi, Thriller",2015-07-01,Alan Taylor,441
+305,306,John Wick: Chapter 4,7.7,169,2023,"Action, Crime, Thriller",2023-03-24,Chad Stahelski,440
+306,307,Warcraft,6.7,123,2016,"Action, Adventure, Fantasy",2016-06-10,Duncan Jones,439
+307,308,Transformers: Rise of the Beasts,6.0,127,2023,"Action, Adventure, Sci-Fi",2023-06-09,Steven Caple Jr.,439
+308,309,The Greatest Showman,7.5,105,2017,"Biography, Drama, Musical",2017-12-20,Michael Gracey,439
+309,310,Despicable Me 4,6.2,94,2024,"Animation, Adventure, Comedy, Crime, Family, Sci-Fi",2024-07-03,"Chris Renaud, Patrick Delage",438
+310,311,A Star Is Born,7.6,136,2018,"Drama, Music, Romance",2018-10-05,Bradley Cooper,436
+311,312,Aquaman and the Lost Kingdom,5.6,124,2023,"Action, Adventure, Fantasy, Sci-Fi",2023-12-22,James Wan,434
+312,313,Terminator 3: Rise of the Machines,6.3,109,2003,"Action, Sci-Fi",2003-07-02,Jonathan Mostow,433
+313,314,Shang-Chi and the Legend of the Ten Rings,7.4,132,2021,"Action, Adventure, Fantasy, Sci-Fi",2021-09-03,Destin Daniel Cretton,432
+314,315,Die Another Day,6.1,133,2002,"Action, Adventure, Thriller",2002-11-22,Lee Tamahori,432
+315,316,The Secret Life of Pets 2,6.4,86,2019,"Animation, Adventure, Comedy, Family",2019-06-07,"Chris Renaud, Jonathan del Val",431
+316,317,Cast Away,7.8,143,2000,"Adventure, Drama, Romance",2000-12-22,Robert Zemeckis,430
+317,318,Rampage,6.1,107,2018,"Action, Adventure, Sci-Fi",2018-04-13,Brad Peyton,428
+318,319,The Matrix Revolutions,6.7,129,2003,"Action, Sci-Fi",2003-11-05,"Lana Wachowski, Lilly Wachowski",427
+319,320,The Intouchables,8.5,112,2011,"Comedy, Drama",2011-11-02,"Olivier Nakache, Éric Toledano",427
+320,321,Bad Boys for Life,6.5,124,2020,"Action, Comedy, Crime, Thriller",2020-01-17,"Adil El Arbi, Bilall Fallah",427
+321,322,Django Unchained,8.5,165,2012,"Comedy, Drama, Western",2012-12-25,Quentin Tarantino,426
+322,323,Beauty and the Beast,8.0,84,1991,"Animation, Family, Fantasy, Musical, Romance",1991-11-22,"Gary Trousdale, Kirk Wise",425
+323,324,Dances with Wolves,8.0,181,1990,"Adventure, Drama, Western",1990-11-21,Kevin Costner,424
+324,325,"My People, My Homeland",6.4,153,2020,Drama,2020-10-01,"Hao Ning, Sicheng Chen, Chao Deng, Da-Mo Peng, Ao Shen, Zheng Xu, Fei Yan, Baimei Yu",422
+325,326,The Chronicles of Narnia: Prince Caspian,6.5,150,2008,"Action, Adventure, Family, Fantasy",2008-05-16,Andrew Adamson,420
+326,327,Sex and the City,5.7,145,2008,"Comedy, Drama, Romance",2008-05-30,Michael Patrick King,419
+327,328,The Mummy,7.1,124,1999,"Action, Adventure, Fantasy",1999-05-07,Stephen Sommers,418
+328,329,The Captain,6.2,111,2019,"Action, Adventure, Drama, Family, Thriller",2019-09-30,Andrew Lau,417
+329,330,The Chronicles of Narnia: The Voyage of the Dawn Treader,6.3,113,2010,"Adventure, Family, Fantasy",2010-12-10,Michael Apted,416
+330,331,Jason Bourne,6.6,123,2016,"Action, Thriller",2016-07-29,Paul Greengrass,415
+331,332,The Wolverine,6.7,126,2013,"Action, Sci-Fi",2013-07-26,James Mangold,415
+332,333,Kingsman: The Secret Service,7.7,129,2014,"Action, Adventure, Comedy, Thriller",2015-02-13,Matthew Vaughn,414
+333,334,Night at the Museum: Battle of the Smithsonian,6.0,105,2009,"Adventure, Comedy, Family, Fantasy",2009-05-22,Shawn Levy,413
+334,335,Batman,7.5,126,1989,"Action, Adventure",1989-06-23,Tim Burton,412
+335,336,The Bodyguard,6.4,129,1992,"Action, Drama, Music, Romance, Thriller",1992-11-25,Mick Jackson,411
+336,337,Pacific Rim,6.9,131,2013,"Action, Adventure, Sci-Fi",2013-07-12,Guillermo del Toro,411
+337,338,Kingsman: The Golden Circle,6.7,141,2017,"Action, Adventure, Comedy, Crime, Thriller",2017-09-22,Matthew Vaughn,411
+338,339,The Mummy,5.4,110,2017,"Action, Adventure, Fantasy, Horror, Thriller",2017-06-09,Alex Kurtzman,409
+339,340,Ice Age: Collision Course,5.7,94,2016,"Animation, Adventure, Comedy, Family, Sci-Fi",2016-07-22,"Michael Thurmeier, Galen T. Chu",409
+340,341,Twilight,5.3,122,2008,"Drama, Fantasy, Romance",2008-11-21,Catherine Hardwicke,408
+341,342,Sing 2,7.3,110,2021,"Animation, Adventure, Comedy, Family, Musical",2021-12-22,"Garth Jennings, Christophe Lourdelet",408
+342,343,Signs,6.8,106,2002,"Drama, Mystery, Sci-Fi, Thriller",2002-08-02,M. Night Shyamalan,408
+343,344,X2: X-Men United,7.4,134,2003,"Action, Sci-Fi, Thriller",2003-05-02,Bryan Singer,408
+344,345,Dune: Part One,8.0,155,2021,"Action, Adventure, Drama, Sci-Fi",2021-10-22,Denis Villeneuve,408
+345,346,Fantastic Beasts: The Secrets of Dumbledore,6.2,142,2022,"Adventure, Family, Fantasy",2022-04-15,David Yates,407
+346,347,Uncharted,6.3,116,2022,"Action, Adventure",2022-02-18,Ruben Fleischer,407
+347,348,The Wolf of Wall Street,8.2,180,2013,"Biography, Comedy, Crime, Drama",2013-12-25,Martin Scorsese,407
+348,349,Sonic the Hedgehog 2,6.5,122,2022,"Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",2022-04-08,Jeff Fowler,405
+349,350,Alita: Battle Angel,7.3,122,2019,"Action, Adventure, Sci-Fi, Thriller",2019-02-14,Robert Rodriguez,405
+350,351,The Mummy: Tomb of the Dragon Emperor,5.2,112,2008,"Action, Adventure, Fantasy, Horror",2008-08-01,Rob Cohen,403
+351,352,Prometheus,7.0,124,2012,"Adventure, Mystery, Sci-Fi",2012-06-08,Ridley Scott,403
+352,353,Gone with the Wind,8.2,238,1939,"Drama, Romance, War",1940-01-17,"Victor Fleming, George Cukor, Sam Wood",402
+353,354,Mamma Mia! Here We Go Again,6.6,114,2018,"Comedy, Musical, Romance",2018-07-20,Ol Parker,402
+354,355,Eternals,6.3,156,2021,"Action, Adventure, Fantasy, Sci-Fi",2021-11-05,Chloé Zhao,402
+355,356,Tron: Legacy,6.8,125,2010,"Action, Adventure, Sci-Fi",2010-12-17,Joseph Kosinski,400
+356,357,Mission: Impossible III,6.9,126,2006,"Action, Adventure, Thriller",2006-05-05,J.J. Abrams,398
+357,358,Meg 2: The Trench,5.0,116,2023,"Action, Adventure, Horror, Sci-Fi, Thriller",2023-08-04,Ben Wheatley,398
+358,359,Snow White and the Huntsman,6.1,127,2012,"Action, Adventure, Drama, Fantasy, Romance, Sci-Fi, Thriller, War",2012-06-01,Rupert Sanders,397
+359,360,Grease,7.2,110,1978,"Comedy, Musical, Romance",1978-06-16,Randal Kleiser,396
+360,361,Kingdom of the Planet of the Apes,7.0,145,2024,"Action, Adventure, Drama, Sci-Fi, Thriller",2024-05-10,Wes Ball,395
+361,362,Toy Story,8.3,81,1995,"Animation, Adventure, Comedy, Family, Fantasy",1995-11-22,John Lasseter,394
+362,363,Black Adam,6.2,125,2022,"Action, Adventure, Fantasy, Sci-Fi",2022-10-21,Jaume Collet-Serra,393
+363,364,Solo: A Star Wars Story,6.9,135,2018,"Action, Adventure, Sci-Fi",2018-05-25,Ron Howard,393
+364,365,Superman Returns,6.1,154,2006,"Action, Adventure, Sci-Fi",2006-06-30,Bryan Singer,391
+365,366,Robin Hood: Prince of Thieves,6.9,143,1991,"Action, Adventure, Drama, Romance",1991-06-14,Kevin Reynolds,390
+366,367,1917,8.2,119,2019,"Action, Drama, History, War",2020-01-10,Sam Mendes,390
+367,368,Raiders of the Lost Ark,8.4,115,1981,"Action, Adventure",1981-06-12,Steven Spielberg,390
+368,369,Independence Day: Resurgence,5.2,120,2016,"Action, Adventure, Sci-Fi",2016-06-24,Roland Emmerich,390
+369,370,Live Free or Die Hard,7.1,128,2007,"Action, Thriller",2007-06-27,Len Wiseman,388
+370,371,Godzilla: King of the Monsters,6.0,132,2019,"Action, Adventure, Fantasy, Sci-Fi",2019-05-31,Michael Dougherty,387
+371,372,Monster Hunt,6.1,117,2015,"Adventure, Comedy, Fantasy",2016-01-22,Raman Hui,387
+372,373,Home,6.5,94,2015,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi",2015-03-27,Tim Johnson,386
+373,374,Star Trek,7.9,127,2009,"Action, Adventure, Sci-Fi",2009-05-08,J.J. Abrams,386
+374,375,Back to the Future,8.5,116,1985,"Adventure, Comedy, Sci-Fi",1985-07-03,Robert Zemeckis,385
+375,376,Happy Feet,6.4,108,2006,"Animation, Adventure, Comedy, Family, Music, Musical, Romance",2006-11-17,"George Miller, Warren Coleman, Judy Morris",384
+376,377,Spider-Man: Into the Spider-Verse,8.4,117,2018,"Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",2018-12-14,"Bob Persichetti, Peter Ramsey, Rodney Rothman",384
+377,378,Indiana Jones and the Dial of Destiny,6.5,154,2023,"Action, Adventure, Sci-Fi",2023-06-30,James Mangold,384
+378,379,Cars 3,6.7,102,2017,"Animation, Adventure, Comedy, Family, Sport",2017-06-16,Brian Fee,384
+379,380,Ice Age,7.5,81,2002,"Animation, Adventure, Comedy, Family",2002-03-27,"Chris Wedge, Carlos Saldanha",383
+380,381,Your Name.,8.4,106,2016,"Animation, Drama, Fantasy, Romance",2017-04-07,Makoto Shinkai,382
+381,382,Fifty Shades Darker,4.6,118,2017,"Drama, Mystery, Romance, Thriller",2017-02-10,James Foley,382
+382,383,Monsters vs. Aliens,6.4,94,2009,"Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",2009-03-27,"Rob Letterman, Conrad Vernon",382
+383,384,Mad Max: Fury Road,8.1,120,2015,"Action, Adventure, Sci-Fi, Thriller",2015-05-15,George Miller,380
+384,385,Black Widow,6.6,134,2021,"Action, Adventure, Sci-Fi",2021-07-09,Cate Shortland,380
+385,386,Godzilla,5.4,139,1998,"Action, Sci-Fi, Thriller",1998-05-20,Roland Emmerich,379
+386,387,True Lies,7.3,141,1994,"Action, Comedy, Thriller",1994-07-15,James Cameron,379
+387,388,Slumdog Millionaire,8.0,120,2008,"Crime, Drama, Romance",2008-12-25,"Danny Boyle, Loveleen Tandan",378
+388,389,Bad Boys: Ride or Die,6.7,115,2024,"Action, Adventure, Comedy, Crime, Thriller",2024-06-07,"Adil El Arbi, Bilall Fallah",378
+389,390,Once Upon a Time... in Hollywood,7.6,161,2019,"Comedy, Drama",2019-07-26,Quentin Tarantino,378
+390,391,Taken 2,6.2,92,2012,"Action, Crime, Thriller",2012-10-05,Olivier Megaton,376
+391,392,G.I. Joe: Retaliation,5.7,110,2013,"Action, Adventure, Sci-Fi, Thriller",2013-03-28,Jon M. Chu,376
+392,393,Batman Begins,8.2,140,2005,"Action, Crime, Drama",2005-06-15,Christopher Nolan,375
+393,394,Shark Tale,6.0,90,2004,"Animation, Adventure, Comedy, Family, Thriller",2004-11-05,"Bibo Bergeron, Vicky Jenson, Rob Letterman",375
+394,395,What Women Want,6.4,127,2000,"Comedy, Fantasy, Romance",2000-12-15,Nancy Meyers,374
+395,396,The Adventures of Tintin,7.3,107,2011,"Animation, Action, Adventure, Family, Mystery",2011-12-21,Steven Spielberg,374
+396,397,Penguins of Madagascar,6.6,92,2014,"Animation, Action, Adventure, Comedy, Crime, Family, Sci-Fi",2014-11-26,"Eric Darnell, Simon J. Smith",374
+397,398,X-Men Origins: Wolverine,6.5,107,2009,"Action, Sci-Fi",2009-05-01,Gavin Hood,373
+398,399,The Golden Compass,6.1,113,2007,"Adventure, Family, Fantasy",2007-12-07,Chris Weitz,372
+399,400,Fifty Shades Freed,4.5,105,2018,"Drama, Mystery, Romance, Thriller",2018-02-09,James Foley,372
+400,401,Hitch,6.6,118,2005,"Comedy, Romance",2005-02-11,Andy Tennant,372
+401,402,Terminator Salvation,6.5,115,2009,"Action, Adventure, Sci-Fi",2009-05-21,McG,371
+402,403,Gone Girl,8.1,149,2014,"Drama, Mystery, Thriller",2014-10-03,David Fincher,371
+403,404,Edge of Tomorrow,7.9,113,2014,"Action, Adventure, Sci-Fi",2014-06-06,Doug Liman,371
+404,405,Captain America: The First Avenger,6.9,124,2011,"Action, Adventure, Sci-Fi",2011-07-22,Joe Johnston,371
+405,406,There's Something About Mary,7.1,119,1998,"Comedy, Romance",1998-07-15,"Bobby Farrelly, Peter Farrelly",370
+406,407,The Fugitive,7.8,130,1993,"Action, Crime, Drama, Mystery, Thriller",1993-08-06,Andrew Davis,369
+407,408,Jurassic Park III,5.9,92,2001,"Action, Adventure, Sci-Fi, Thriller",2001-07-18,Joe Johnston,369
+408,409,My Big Fat Greek Wedding,6.6,95,2002,"Comedy, Drama, Romance",2002-08-02,Joel Zwick,369
+409,410,Shazam!,7.0,132,2019,"Action, Adventure, Comedy, Fantasy",2019-04-05,David F. Sandberg,368
+410,411,Hello Mr. Billionaire,6.1,118,2018,Comedy,2018-07-27,"Da-Mo Peng, Fei Yan",367
+411,412,Die Hard with a Vengeance,7.6,128,1995,"Action, Adventure, Thriller",1995-05-19,John McTiernan,366
+412,413,The Nun,5.3,96,2018,"Horror, Mystery, Thriller",2018-09-07,Corin Hardy,366
+413,414,Alvin and the Chipmunks,5.2,92,2007,"Adventure, Comedy, Family, Fantasy, Music, Musical",2007-12-14,Tim Hill,365
+414,415,Tenet,7.3,150,2020,"Action, Sci-Fi, Thriller",2020-09-03,Christopher Nolan,365
+415,416,Notting Hill,7.2,124,1999,"Comedy, Drama, Romance",1999-05-28,Roger Michell,364
+416,417,A Bug's Life,7.2,95,1998,"Animation, Adventure, Comedy, Family",1998-11-25,"John Lasseter, Andrew Stanton",363
+417,418,Night at the Museum: Secret of the Tomb,6.2,98,2014,"Adventure, Comedy, Family, Fantasy",2014-12-19,Shawn Levy,363
+418,419,Ocean's Twelve,6.5,125,2004,"Crime, Thriller",2004-12-10,Steven Soderbergh,363
+419,420,Planet of the Apes,5.7,120,2001,"Action, Adventure, Sci-Fi, Thriller",2001-07-27,Tim Burton,362
+420,421,The Hangover Part III,5.8,100,2013,"Comedy, Crime",2013-05-23,Todd Phillips,362
+421,422,The World Is Not Enough,6.4,128,1999,"Action, Adventure, Thriller",1999-11-19,Michael Apted,362
+422,423,Monster Hunt 2,5.4,110,2018,"Adventure, Comedy, Fantasy, Sci-Fi",2018-02-16,Raman Hui,362
+423,424,Fast & Furious,6.5,107,2009,"Action, Crime, Thriller",2009-04-03,Justin Lin,360
+424,425,Noah,5.8,138,2014,"Action, Adventure, Drama",2014-03-28,Darren Aronofsky,359
+425,426,The Karate Kid,6.2,140,2010,"Action, Drama, Family, Sport",2010-06-11,Harald Zwart,359
+426,427,Home Alone 2: Lost in New York,6.9,120,1992,"Adventure, Comedy, Crime, Family",1992-11-20,Chris Columbus,359
+427,428,Hotel Transylvania,7.0,91,2012,"Animation, Adventure, Comedy, Family, Fantasy, Horror",2012-09-28,Genndy Tartakovsky,358
+428,429,Minority Report,7.6,145,2002,"Action, Crime, Mystery, Sci-Fi, Thriller",2002-06-21,Steven Spielberg,358
+429,430,Spirited Away,8.6,125,2001,"Animation, Adventure, Family, Fantasy, Mystery",2003-03-28,Hayao Miyazaki,358
+430,431,Top Gun,6.9,109,1986,"Action, Drama",1986-05-16,Tony Scott,357
+431,432,The Legend of Tarzan,6.2,110,2016,"Action, Adventure, Drama, Fantasy, Romance",2016-07-01,David Yates,357
+432,433,American Beauty,8.3,122,1999,Drama,1999-10-01,Sam Mendes,356
+433,434,Apollo 13,7.7,140,1995,"Adventure, Drama, History",1995-06-30,Ron Howard,355
+434,435,Rain Man,8.0,133,1988,Drama,1988-12-16,Barry Levinson,355
+435,436,The Great Gatsby,7.2,143,2013,"Drama, Romance",2013-05-10,Baz Luhrmann,354
+436,437,Dumbo,6.3,112,2019,"Adventure, Family, Fantasy",2019-03-29,Tim Burton,353
+437,438,"I, Robot",7.1,115,2004,"Action, Mystery, Sci-Fi, Thriller",2004-07-16,Alex Proyas,353
+438,439,Basic Instinct,7.1,127,1992,"Drama, Mystery, Thriller",1992-03-20,Paul Verhoeven,353
+439,440,Murder on the Orient Express,6.5,114,2017,"Crime, Drama, Mystery, Thriller",2017-11-10,Kenneth Branagh,353
+440,441,X-Men: First Class,7.7,131,2011,"Action, Sci-Fi",2011-06-03,Matthew Vaughn,353
+441,442,The Angry Birds Movie,6.3,97,2016,"Animation, Action, Adventure, Comedy, Family",2016-05-20,"Clay Kaytis, Fergal Reilly",352
+442,443,GoldenEye,7.2,130,1995,"Action, Adventure, Thriller",1995-11-17,Martin Campbell,352
+443,444,Catch Me If You Can,8.1,141,2002,"Biography, Crime, Drama",2002-12-25,Steven Spielberg,352
+444,445,Now You See Me,7.2,115,2013,"Crime, Mystery, Thriller",2013-05-31,Louis Leterrier,352
+445,446,Hannibal,6.8,131,2001,"Crime, Drama, Thriller",2001-02-09,Ridley Scott,352
+446,447,The Mask,6.9,101,1994,"Action, Comedy, Crime, Fantasy",1994-07-29,Chuck Russell,352
+447,448,Peter Rabbit,6.6,95,2018,"Animation, Adventure, Comedy, Drama, Family, Fantasy",2018-02-09,Will Gluck,352
+448,449,Speed,7.3,116,1994,"Action, Adventure, Thriller",1994-06-10,Jan de Bont,350
+449,450,Dinosaur,6.4,82,2000,"Animation, Adventure, Drama, Family, Fantasy",2000-05-19,"Eric Leighton, Ralph Zondag",350
+450,451,Mary Poppins Returns,6.7,130,2018,"Adventure, Comedy, Family, Fantasy, Musical",2018-12-19,Rob Marshall,350
+451,452,Deep Impact,6.2,120,1998,"Action, Drama, Sci-Fi, Thriller",1998-05-08,Mimi Leder,349
+452,453,The Lorax,6.4,86,2012,"Animation, Adventure, Comedy, Drama, Family, Fantasy, Musical",2012-03-02,"Chris Renaud, Kyle Balda",349
+453,454,The Maze Runner,6.8,113,2014,"Action, Mystery, Sci-Fi, Thriller",2014-09-19,Wes Ball,348
+454,455,The Smurfs 2,5.3,105,2013,"Animation, Adventure, Comedy, Family, Fantasy",2013-07-31,Raja Gosnell,348
+455,456,National Treasure,6.9,131,2004,"Action, Adventure, Mystery, Thriller",2004-11-19,Jon Turteltaub,348
+456,457,Trolls,6.4,92,2016,"Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance",2016-11-04,"Mike Mitchell, Walt Dohrn",347
+457,458,Rush Hour 2,6.7,90,2001,"Action, Comedy, Crime, Thriller",2001-08-03,Brett Ratner,347
+458,459,How the Grinch Stole Christmas,6.3,104,2000,"Comedy, Family, Fantasy",2000-11-17,Ron Howard,347
+459,460,xXx: Return of Xander Cage,5.2,107,2017,"Action, Adventure, Thriller",2017-01-20,D.J. Caruso,346
+460,461,Pocahontas,6.7,81,1995,"Animation, Adventure, Drama, Family, Musical, Romance",1995-06-23,"Mike Gabriel, Eric Goldberg",346
+461,462,Star Trek Beyond,7.0,122,2016,"Action, Adventure, Sci-Fi, Thriller",2016-07-22,Justin Lin,343
+462,463,Alvin and the Chipmunks: Chipwrecked,4.4,87,2011,"Adventure, Comedy, Family, Fantasy, Music, Musical",2011-12-16,Mike Mitchell,343
+463,464,Wanted,6.7,110,2008,"Action, Crime, Thriller",2008-06-27,Timur Bekmambetov,342
+464,465,The Flintstones,5.0,91,1994,"Comedy, Family, Fantasy",1994-05-27,Brian Levant,342
+465,466,A Quiet Place,7.5,90,2018,"Drama, Horror, Sci-Fi",2018-04-06,John Krasinski,341
+466,467,Enchanted,7.1,107,2007,"Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance",2007-11-21,Kevin Lima,340
+467,468,Over the Hedge,6.7,83,2006,"Animation, Adventure, Comedy, Family",2006-05-19,"Tim Johnson, Karey Kirkpatrick",340
+468,469,300: Rise of an Empire,6.2,102,2014,"Action, Drama",2014-03-07,Noam Murro,338
+469,470,The Hunger Games: The Ballad of Songbirds & Snakes,6.7,157,2023,"Action, Adventure, Drama, Sci-Fi, Thriller, War",2023-11-17,Francis Lawrence,337
+470,471,Batman Forever,5.4,121,1995,"Action, Adventure",1995-06-16,Joel Schumacher,337
+471,472,Prince of Persia: The Sands of Time,6.6,116,2010,"Action, Adventure, Fantasy",2010-05-28,Mike Newell,336
+472,473,The Curious Case of Benjamin Button,7.8,166,2008,"Drama, Fantasy, Romance",2008-12-25,David Fincher,336
+473,474,Journey 2: The Mysterious Island,5.7,94,2012,"Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",2012-02-10,Brad Peyton,335
+474,475,The Rock,7.4,136,1996,"Action, Adventure, Thriller",1996-06-07,Michael Bay,335
+475,476,The Great Wall,5.9,103,2016,"Action, Adventure, Fantasy, Thriller",2017-02-17,Yimou Zhang,335
+476,477,Now You See Me 2,6.4,129,2016,"Action, Adventure, Comedy, Crime, Mystery, Thriller",2016-06-10,Jon M. Chu,335
+477,478,Never Say Die,6.2,100,2017,"Comedy, Fantasy, Sport",2017-09-29,"Yang Song, Chiyu Zhang",335
+478,479,Bridget Jones's Diary,6.8,97,2001,"Comedy, Drama, Romance",2001-04-13,Sharon Maguire,334
+479,480,Fantastic Four,5.7,106,2005,"Action, Adventure, Fantasy, Sci-Fi",2005-07-08,Tim Story,334
+480,481,Indiana Jones and the Temple of Doom,7.5,118,1984,"Action, Adventure",1984-05-23,Steven Spielberg,333
+481,482,Tomorrow Never Dies,6.5,119,1997,"Action, Adventure, Thriller",1997-12-19,Roger Spottiswoode,333
+482,483,Back to the Future Part II,7.8,108,1989,"Adventure, Comedy, Sci-Fi",1989-11-22,Robert Zemeckis,333
+483,484,The Good Dinosaur,6.7,93,2015,"Animation, Action, Adventure, Comedy, Drama, Family, Fantasy",2015-11-25,Peter Sohn,332
+484,485,Free Guy,7.1,115,2021,"Action, Adventure, Comedy, Fantasy, Sci-Fi",2021-08-13,Shawn Levy,332
+485,486,22 Jump Street,7.0,112,2014,"Action, Comedy, Crime",2014-06-13,"Phil Lord, Christopher Miller",331
+486,487,Meet the Parents,7.0,108,2000,"Comedy, Romance",2000-10-06,Jay Roach,330
+487,488,Who Framed Roger Rabbit,7.7,104,1988,"Animation, Adventure, Comedy, Crime, Family, Fantasy, Mystery",1988-06-22,Robert Zemeckis,330
+488,489,Black Swan,8.0,108,2010,"Drama, Thriller",2010-12-17,Darren Aronofsky,329
+489,490,The Perfect Storm,6.5,130,2000,"Action, Adventure, Drama, Thriller",2000-06-30,Wolfgang Petersen,329
+490,491,John Wick: Chapter 3 - Parabellum,7.4,130,2019,"Action, Crime, Thriller",2019-05-17,Chad Stahelski,328
+491,492,Crocodile Dundee,6.6,97,1986,"Action, Adventure, Comedy",1986-09-26,Peter Faiman,328
+492,493,Crazy Alien,5.7,116,2019,"Comedy, Sci-Fi",2019-02-05,Hao Ning,328
+493,494,Se7en,8.6,127,1995,"Crime, Drama, Mystery, Thriller",1995-09-22,David Fincher,327
+494,495,The Devil Wears Prada,6.9,109,2006,"Comedy, Drama",2006-06-30,David Frankel,327
+495,496,Taken 3,6.0,108,2014,"Action, Crime, Thriller",2015-01-09,Olivier Megaton,326
+496,497,The Hunchback of Notre Dame,7.0,91,1996,"Animation, Drama, Family, Musical, Romance",1996-06-21,"Gary Trousdale, Kirk Wise",325
+497,498,A Christmas Carol,6.8,96,2009,"Animation, Adventure, Comedy, Drama, Family, Fantasy",2009-11-06,Robert Zemeckis,325
+498,499,The SpongeBob Movie: Sponge Out of Water,6.0,92,2015,"Animation, Adventure, Comedy, Family, Fantasy",2015-02-06,"Paul Tibbitt, Mike Mitchell",325
+499,500,The Conjuring 2,7.3,134,2016,"Horror, Mystery, Thriller",2016-06-10,James Wan,323
+500,501,Schindler's List,9.0,195,1993,"Biography, Drama, History",1994-02-04,Steven Spielberg,322
+501,502,Megamind,7.3,95,2010,"Animation, Action, Adventure, Comedy, Crime, Family, Fantasy, Sci-Fi",2010-11-05,Tom McGrath,322
+502,503,Green Book,8.2,130,2018,"Biography, Comedy, Drama, Music",2018-11-16,Peter Farrelly,322
+503,504,Lethal Weapon 3,6.7,118,1992,"Action, Crime, Thriller",1992-05-15,Richard Donner,322
+504,505,Robin Hood,6.6,140,2010,"Action, Adventure, Drama, History",2010-05-14,Ridley Scott,322
+505,506,Inglourious Basterds,8.4,153,2009,"Adventure, Drama, War",2009-08-21,Quentin Tarantino,321
+506,507,101 Dalmatians,5.7,103,1996,"Adventure, Comedy, Crime, Family",1996-11-27,Stephen Herek,321
+507,508,The Conjuring,7.5,112,2013,"Horror, Mystery, Thriller",2013-07-19,James Wan,320
+508,509,Fatal Attraction,6.9,119,1987,"Drama, Thriller",1987-09-18,Adrian Lyne,320
+509,510,Sonic the Hedgehog,6.5,99,2020,"Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",2020-02-14,Jeff Fowler,320
+510,511,The Last Airbender,4.0,103,2010,"Action, Adventure, Family, Fantasy",2010-07-01,M. Night Shyamalan,320
+511,512,The Polar Express,6.6,100,2004,"Animation, Adventure, Comedy, Family, Fantasy, Musical",2004-11-10,Robert Zemeckis,318
+512,513,The Proposal,6.8,108,2009,"Comedy, Drama, Romance",2009-06-19,Anne Fletcher,317
+513,514,A Beautiful Mind,8.2,135,2001,"Biography, Drama, Mystery",2002-01-04,Ron Howard,317
+514,515,Beverly Hills Cop,7.4,105,1984,"Action, Comedy, Crime, Thriller",1984-12-05,Martin Brest,316
+515,516,Air Force One,6.5,124,1997,"Action, Crime, Drama, Thriller",1997-07-25,Wolfgang Petersen,315
+516,517,Wonder,7.9,113,2017,"Drama, Family",2017-11-17,Stephen Chbosky,315
+517,518,The Expendables 2,6.6,103,2012,"Action, Adventure, Thriller",2012-08-17,Simon West,315
+518,519,Chicken Little,5.7,81,2005,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi",2005-10-06,Mark Dindal,314
+519,520,As Good as It Gets,7.7,139,1997,"Comedy, Drama, Romance",1997-12-25,James L. Brooks,314
+520,521,Austin Powers: The Spy Who Shagged Me,6.7,95,1999,"Action, Adventure, Comedy, Crime",1999-06-11,Jay Roach,314
+521,522,Knives Out,7.9,130,2019,"Comedy, Crime, Drama, Mystery, Thriller",2019-11-27,Rian Johnson,313
+522,523,The Lego Batman Movie,7.3,104,2017,"Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",2017-02-10,Chris McKay,312
+523,524,Maze Runner: The Scorch Trials,6.3,131,2015,"Action, Adventure, Sci-Fi, Thriller",2015-09-18,Wes Ball,312
+524,525,Resident Evil: The Final Chapter,5.5,107,2016,"Action, Horror, Sci-Fi",2017-01-27,Paul W.S. Anderson,312
+525,526,Ocean's Thirteen,6.9,122,2007,"Crime, Thriller",2007-06-08,Steven Soderbergh,311
+526,527,Little Fockers,5.5,98,2010,"Comedy, Romance",2010-12-22,Paul Weitz,311
+527,528,Bolt,6.8,96,2008,"Animation, Adventure, Comedy, Crime, Drama, Family, Sci-Fi",2008-11-21,"Byron Howard, Chris Williams",310
+528,529,Ransom,6.7,121,1996,"Action, Crime, Thriller",1996-11-08,Ron Howard,309
+529,530,Runaway Bride,5.6,116,1999,"Comedy, Romance",1999-07-30,Garry Marshall,309
+530,531,The Blind Side,7.6,129,2009,"Biography, Drama, Sport",2009-11-20,John Lee Hancock,309
+531,532,The Ex-File 3: Return of the Exes,5.5,120,2017,"Comedy, Romance",2017-12-29,Yusheng Tian,308
+532,533,The Fault in Our Stars,7.7,126,2014,"Drama, Romance",2014-06-06,Josh Boone,307
+533,534,The Pursuit of Happyness,8.0,117,2006,"Biography, Drama",2006-12-15,Gabriele Muccino,307
+534,535,Rise of the Guardians,7.2,97,2012,"Animation, Action, Adventure, Comedy, Drama, Family, Fantasy, Sci-Fi",2012-11-21,Peter Ramsey,307
+535,536,Close Encounters of the Third Kind,7.6,138,1977,"Drama, Sci-Fi",1977-12-14,Steven Spielberg,307
+536,537,Chicago,7.2,113,2002,"Comedy, Crime, Musical",2003-01-24,Rob Marshall,307
+537,538,Annabelle: Creation,6.5,109,2017,"Horror, Mystery, Thriller",2017-08-11,David F. Sandberg,307
+538,539,Bridesmaids,6.8,125,2011,Comedy,2011-05-13,Paul Feig,306
+539,540,Skyscraper,5.8,102,2018,"Action, Adventure, Thriller",2018-07-13,Rawson Marshall Thurber,305
+540,541,A Good Day to Die Hard,5.2,98,2013,"Action, Thriller",2013-02-14,John Moore,305
+541,542,Mulan,7.7,87,1998,"Animation, Adventure, Comedy, Family, Fantasy, Musical, War",1998-06-19,"Tony Bancroft, Barry Cook",304
+542,543,Dangal,8.3,161,2016,"Action, Biography, Drama, Sport",2016-12-21,Nitesh Tiwari,304
+543,544,Passengers,7.0,116,2016,"Drama, Romance, Sci-Fi, Thriller",2016-12-21,Morten Tyldum,303
+544,545,Battleship,5.8,131,2012,"Action, Adventure, Sci-Fi, Thriller",2012-05-18,Peter Berg,303
+545,546,Liar Liar,6.9,86,1997,"Comedy, Fantasy",1997-03-21,Tom Shadyac,303
+546,547,G.I. Joe: The Rise of Cobra,5.7,118,2009,"Action, Adventure, Sci-Fi, Thriller",2009-08-07,Stephen Sommers,302
+547,548,Wrath of the Titans,5.7,99,2012,"Action, Adventure, Fantasy",2012-03-30,Jonathan Liebesman,302
+548,549,Fantastic Four: Rise of the Silver Surfer,5.6,92,2007,"Action, Adventure, Fantasy, Sci-Fi",2007-06-15,Tim Story,302
+549,550,Hook,6.8,142,1991,"Adventure, Comedy, Family, Fantasy",1991-12-11,Steven Spielberg,301
+550,551,Superman,7.4,143,1978,"Action, Adventure, Sci-Fi",1978-12-15,Richard Donner,300
+551,552,Rocky IV,6.9,91,1985,"Drama, Sport",1985-11-27,Sylvester Stallone,300
+552,553,Rambo: First Blood Part II,6.5,96,1985,"Action, Adventure, Thriller",1985-05-22,George P. Cosmatos,300
+553,554,Resident Evil: Afterlife,5.8,96,2010,"Action, Horror, Sci-Fi",2010-09-10,Paul W.S. Anderson,300
+554,555,Van Helsing,6.1,131,2004,"Action, Adventure, Fantasy, Thriller",2004-05-07,Stephen Sommers,300
+555,556,Stuart Little,6.0,84,1999,"Adventure, Comedy, Family, Fantasy",1999-12-17,Rob Minkoff,300
+556,557,Beverly Hills Cop II,6.6,103,1987,"Action, Comedy, Crime, Thriller",1987-05-20,Tony Scott,300
+557,558,Alice Through the Looking Glass,6.2,113,2016,"Adventure, Family, Fantasy, Mystery",2016-05-27,James Bobin,300
+558,559,My Best Friend's Wedding,6.3,105,1997,"Comedy, Drama, Romance",1997-06-20,P.J. Hogan,299
+559,560,Real Steel,7.1,127,2011,"Action, Drama, Sci-Fi, Sport",2011-10-07,Shawn Levy,299
+560,561,Migration,6.6,83,2023,"Animation, Adventure, Comedy, Family",2023-12-22,"Benjamin Renner, Guylo Homsy",299
+561,562,Horton Hears a Who!,6.8,86,2008,"Animation, Adventure, Comedy, Drama, Family, Fantasy, Music",2008-03-14,"Jimmy Hayward, Steve Martino",299
+562,563,Ocean's Eight,6.3,110,2018,"Action, Comedy, Crime",2018-06-08,Gary Ross,298
+563,564,A Quiet Place Part II,7.2,97,2020,"Drama, Horror, Sci-Fi, Thriller",2021-05-28,John Krasinski,297
+564,565,The Divergent Series: Insurgent,6.2,119,2015,"Action, Adventure, Sci-Fi, Thriller",2015-03-20,Robert Schwentke,297
+565,566,Look Who's Talking,5.9,93,1989,Comedy,1989-10-13,Amy Heckerling,297
+566,567,Austin Powers in Goldmember,6.2,94,2002,"Action, Adventure, Comedy, Crime",2002-07-26,Jay Roach,297
+567,568,Ghostbusters,7.8,105,1984,"Action, Comedy, Fantasy, Sci-Fi",1984-06-08,Ivan Reitman,297
+568,569,Miss Peregrine's Home for Peculiar Children,6.7,127,2016,"Adventure, Drama, Family, Fantasy, Thriller",2016-09-30,Tim Burton,296
+569,570,X-Men,7.3,104,2000,"Action, Adventure, Sci-Fi",2000-07-14,Bryan Singer,296
+570,571,Ferdinand,6.7,108,2017,"Animation, Adventure, Comedy, Drama, Family",2017-12-15,Carlos Saldanha,296
+571,572,Shutter Island,8.2,138,2010,"Drama, Mystery, Thriller",2010-02-19,Martin Scorsese,295
+572,573,Doctor Dolittle,5.4,85,1998,"Comedy, Family, Fantasy",1998-06-26,Betty Thomas,294
+573,574,Bee Movie,6.1,91,2007,"Animation, Adventure, Comedy, Drama, Family",2007-11-02,"Simon J. Smith, Steve Hickner",294
+574,575,Salt,6.5,100,2010,"Action, Thriller",2010-07-23,Phillip Noyce,294
+575,576,G-Force,5.1,88,2009,"Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",2009-07-24,Hoyt Yeatman,293
+576,577,Five Nights at Freddy's,5.4,109,2023,"Horror, Mystery, Thriller",2023-10-27,Emma Tammi,291
+577,578,The Departed,8.5,151,2006,"Crime, Drama, Thriller",2006-10-06,Martin Scorsese,291
+578,579,What Lies Beneath,6.6,130,2000,"Drama, Horror, Mystery, Thriller",2000-07-21,Robert Zemeckis,291
+579,580,Pacific Rim: Uprising,5.6,111,2018,"Action, Adventure, Sci-Fi",2018-03-23,Steven S. DeKnight,291
+580,581,The Bourne Supremacy,7.7,108,2004,"Action, Mystery, Thriller",2004-07-23,Paul Greengrass,291
+581,582,Sex and the City 2,4.5,146,2010,"Comedy, Drama, Romance",2010-05-27,Michael Patrick King,291
+582,583,Shakespeare in Love,7.1,123,1998,"Comedy, Drama, History, Romance",1999-01-08,John Madden,289
+583,584,Divergent,6.6,139,2014,"Action, Adventure, Mystery, Sci-Fi",2014-03-21,Neil Burger,289
+584,585,Coming to America,7.1,117,1988,"Comedy, Romance",1988-06-29,John Landis,289
+585,586,Elvis,7.3,159,2022,"Biography, Drama, Music",2022-06-24,Baz Luhrmann,289
+586,587,Wedding Crashers,7.0,119,2005,"Comedy, Romance",2005-07-15,David Dobkin,288
+587,588,Maze Runner: The Death Cure,6.3,143,2018,"Action, Adventure, Sci-Fi, Thriller",2018-01-26,Wes Ball,288
+588,589,Casper,6.2,100,1995,"Comedy, Family, Fantasy",1995-05-26,Brad Silberling,288
+589,590,American Pie 2,6.4,108,2001,Comedy,2001-08-10,J.B. Rogers,288
+590,591,Pitch Perfect 2,6.4,115,2015,"Comedy, Music",2015-05-15,Elizabeth Banks,287
+591,592,The Green Mile,8.6,189,1999,"Crime, Drama, Fantasy, Mystery",1999-12-10,Frank Darabont,287
+592,593,Oblivion,7.0,124,2013,"Action, Adventure, Sci-Fi",2013-04-19,Joseph Kosinski,286
+593,594,Elysium,6.6,109,2013,"Action, Drama, Sci-Fi, Thriller",2013-08-09,Neill Blomkamp,286
+594,595,Lethal Weapon 4,6.6,127,1998,"Action, Crime, Thriller",1998-07-10,Richard Donner,285
+595,596,John Carter,6.6,132,2012,"Action, Adventure, Sci-Fi",2012-03-09,Andrew Stanton,284
+596,597,Turbo,6.4,96,2013,"Animation, Adventure, Comedy, Family, Sport",2013-07-17,David Soren,283
+597,598,Paddington,7.3,95,2014,"Adventure, Comedy, Family, Fantasy",2015-01-16,Paul King,282
+598,599,The Tourist,6.0,103,2010,"Action, Thriller",2010-12-10,Florian Henckel von Donnersmarck,279
+599,600,Split,7.3,117,2016,"Horror, Thriller",2017-01-20,M. Night Shyamalan,278
+600,601,Scary Movie,6.3,88,2000,Comedy,2000-07-07,Keenen Ivory Wayans,278
+601,602,xXx,5.8,124,2002,"Action, Adventure, Thriller",2002-08-09,Rob Cohen,277
+602,603,Blade Runner 2049,8.0,164,2017,"Action, Drama, Mystery, Sci-Fi, Thriller",2017-10-06,Denis Villeneuve,277
+603,604,Creed III,6.7,116,2023,"Action, Drama, Sport",2023-03-03,Michael B. Jordan,276
+604,605,The Bourne Legacy,6.6,135,2012,"Action, Adventure, Thriller",2012-08-10,Tony Gilroy,276
+605,606,Mr. Peabody & Sherman,6.8,92,2014,"Animation, Adventure, Comedy, Family, Fantasy, History, Sci-Fi",2014-03-07,Rob Minkoff,276
+606,607,Scooby-Doo,5.3,86,2002,"Adventure, Comedy, Family, Fantasy, Mystery",2002-06-14,Raja Gosnell,276
+607,608,Lincoln,7.3,150,2012,"Biography, Drama, History, War",2012-11-16,Steven Spielberg,275
+608,609,Tomb Raider,6.3,119,2018,"Action, Adventure, Fantasy, Thriller",2018-03-16,Roar Uthaug,275
+609,610,Lara Croft: Tomb Raider,5.8,100,2001,"Action, Adventure, Fantasy, Thriller",2001-06-15,Simon West,275
+610,611,The Expendables,6.4,103,2010,"Action, Adventure, Thriller",2010-08-13,Sylvester Stallone,274
+611,612,Cloudy with a Chance of Meatballs 2,6.3,95,2013,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi",2013-09-27,"Cody Cameron, Kris Pearn",274
+612,613,The Nutty Professor,5.7,95,1996,"Comedy, Romance, Sci-Fi",1996-06-28,Tom Shadyac,274
+613,614,Jerry Maguire,7.3,139,1996,"Comedy, Drama, Romance, Sport",1996-12-13,Cameron Crowe,274
+614,615,Bad Boys II,6.6,147,2003,"Action, Comedy, Crime, Thriller",2003-07-18,Michael Bay,273
+615,616,Lilo & Stitch,7.3,85,2002,"Animation, Adventure, Comedy, Drama, Family, Fantasy, Sci-Fi",2002-06-21,"Dean DeBlois, Chris Sanders",273
+616,617,The Silence of the Lambs,8.6,118,1991,"Crime, Drama, Thriller",1991-02-14,Jonathan Demme,273
+617,618,Grown Ups,6.0,102,2010,Comedy,2010-06-25,Dennis Dugan,271
+618,619,The Flash,6.7,144,2023,"Action, Adventure, Fantasy, Sci-Fi",2023-06-16,Andy Muschietti,271
+619,620,Neighbors,6.3,97,2014,Comedy,2014-05-09,Nicholas Stoller,271
+620,621,The Firm,6.9,154,1993,"Drama, Mystery, Thriller",1993-06-30,Sydney Pollack,270
+621,622,We're the Millers,7.0,110,2013,"Comedy, Crime",2013-08-07,Rawson Marshall Thurber,270
+622,623,Gran Torino,8.1,116,2008,Drama,2009-01-09,Clint Eastwood,270
+623,624,"10,000 BC",5.1,109,2008,"Action, Adventure, Drama, Fantasy, History",2008-03-07,Roland Emmerich,270
+624,625,American Gangster,7.8,157,2007,"Biography, Crime, Drama",2007-11-02,Ridley Scott,270
+625,626,The Nun II,5.6,110,2023,"Horror, Mystery, Thriller",2023-09-08,Michael Chaves,269
+626,627,Epic,6.6,102,2013,"Animation, Action, Adventure, Family, Fantasy, Mystery",2013-05-24,Chris Wedge,268
+627,628,Exodus: Gods and Kings,6.0,150,2014,"Action, Adventure, Drama, Fantasy",2014-12-12,Ridley Scott,268
+628,629,This Is It,7.2,111,2009,"Documentary, Music",2009-10-28,Kenny Ortega,268
+629,630,Bambi,7.3,69,1942,"Animation, Adventure, Drama, Family",1942-08-21,"James Algar, Samuel Armstrong, David Hand, Graham Heid, Bill Roberts, Paul Satterfield, Norman Wright, Arthur Davis, Clyde Geronimi",267
+630,631,The Princess and the Frog,7.2,97,2009,"Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance",2009-12-11,"Ron Clements, John Musker",267
+631,632,Batman Returns,7.1,126,1992,"Action, Crime, Fantasy",1992-06-19,Tim Burton,267
+632,633,Indecent Proposal,6.0,117,1993,"Drama, Romance",1993-04-07,Adrian Lyne,267
+633,634,Something's Gotta Give,6.7,128,2003,"Comedy, Drama, Romance",2003-12-12,Nancy Meyers,265
+634,635,Bridget Jones: The Edge of Reason,6.0,108,2004,"Comedy, Drama, Romance",2004-11-19,Beeban Kidron,265
+635,636,The Incredible Hulk,6.6,112,2008,"Action, Adventure, Sci-Fi",2008-06-13,Louis Leterrier,265
+636,637,Waterworld,6.3,135,1995,"Action, Adventure, Sci-Fi",1995-07-28,Kevin Reynolds,264
+637,638,The Truman Show,8.2,103,1998,"Comedy, Drama",1998-06-05,Peter Weir,264
+638,639,Charlie's Angels,5.6,98,2000,"Action, Adventure, Comedy, Crime, Thriller",2000-11-03,McG,264
+639,640,The Fifth Element,7.6,126,1997,"Action, Adventure, Sci-Fi",1997-05-09,Luc Besson,264
+640,641,Jumanji,7.1,104,1995,"Adventure, Comedy, Family, Fantasy",1995-12-15,Joe Johnston,263
+641,642,Borat,7.4,84,2006,Comedy,2006-11-03,Larry Charles,263
+642,643,Robots,6.4,91,2005,"Animation, Adventure, Comedy, Family, Romance, Sci-Fi",2005-03-27,"Chris Wedge, Carlos Saldanha",263
+643,644,Parasite,8.5,132,2019,"Drama, Thriller",2019-11-08,Bong Joon Ho,262
+644,645,Knight and Day,6.3,109,2010,"Action, Adventure, Comedy",2010-06-23,James Mangold,262
+645,646,Taylor Swift: The Eras Tour,8.0,169,2023,"Documentary, Music",2023-10-12,Sam Wrench,262
+646,647,Total Recall,7.5,113,1990,"Action, Adventure, Sci-Fi",1990-06-01,Paul Verhoeven,261
+647,648,Terminator: Dark Fate,6.2,128,2019,"Action, Adventure, Sci-Fi",2019-11-01,Tim Miller,261
+648,649,The Lone Ranger,6.4,150,2013,"Action, Adventure, Drama, Western",2013-07-03,Gore Verbinski,261
+649,650,Super 8,7.0,112,2011,"Action, Mystery, Sci-Fi, Thriller",2011-06-10,J.J. Abrams,260
+650,651,Halloween,6.5,106,2018,"Crime, Drama, Horror, Thriller",2018-10-19,David Gordon Green,260
+651,652,Mojin: The Lost Legend,5.9,127,2015,"Action, Adventure, Drama, Fantasy, Horror, Mystery, Thriller",2015-12-18,Wuershan,259
+652,653,Charlie's Angels: Full Throttle,4.9,106,2003,"Action, Adventure, Comedy, Crime",2003-06-27,McG,259
+653,654,Rush Hour 3,6.2,91,2007,"Action, Comedy, Crime, Thriller",2007-08-10,Brett Ratner,258
+654,655,The Full Monty,7.2,91,1997,"Comedy, Drama",1997-09-19,Peter Cattaneo,258
+655,656,Kung Fu Yoga,5.2,107,2017,"Action, Adventure, Comedy, Family, Fantasy, Mystery",2017-01-28,Stanley Tong,258
+656,657,Annabelle,5.4,99,2014,"Horror, Mystery, Thriller",2014-10-03,John R. Leonetti,258
+657,658,Encanto,7.2,102,2021,"Animation, Comedy, Family, Fantasy, Musical",2021-11-24,"Jared Bush, Byron Howard, Charise Castro Smith",257
+658,659,The Village,6.6,108,2004,"Drama, Mystery, Thriller",2004-07-30,M. Night Shyamalan,257
+659,660,Lost in Hong Kong,5.4,114,2015,"Action, Adventure, Comedy, Crime, Family, Romance, Thriller",2015-09-25,Zheng Xu,256
+660,661,Erin Brockovich,7.4,131,2000,"Biography, Drama",2000-03-17,Steven Soderbergh,256
+661,662,Us,6.8,116,2019,"Horror, Mystery, Thriller",2019-03-22,Jordan Peele,256
+662,663,Pegasus,6.3,98,2019,"Comedy, Sport",2019-02-05,Han Han,256
+663,664,Get Out,7.8,104,2017,"Horror, Mystery, Thriller",2017-02-24,Jordan Peele,256
+664,665,Marley & Me,7.0,115,2008,"Drama, Family",2008-12-25,David Frankel,256
+665,666,Cliffhanger,6.5,113,1993,"Action, Adventure, Thriller",1993-05-28,Renny Harlin,255
+666,667,Wish,5.6,95,2023,"Animation, Adventure, Comedy, Family, Fantasy, Musical",2023-11-22,"Chris Buck, Fawn Veerasunthorn",255
+667,668,Baahubali 2: The Conclusion,8.2,167,2017,"Action, Drama",2017-04-28,S.S. Rajamouli,254
+668,669,Babe,6.9,91,1995,"Comedy, Drama, Family",1995-08-04,Chris Noonan,254
+669,670,Men in Black: International,5.6,114,2019,"Action, Adventure, Comedy, Sci-Fi",2019-06-14,F. Gary Gray,254
+670,671,Wild Hogs,5.8,100,2007,"Action, Adventure, Comedy",2007-03-02,Walt Becker,254
+671,672,High School Musical 3: Senior Year,5.0,112,2008,"Comedy, Drama, Family, Music, Musical, Romance",2008-10-24,Kenny Ortega,253
+672,673,Hercules,7.3,93,1997,"Animation, Action, Adventure, Comedy, Family, Fantasy, Musical, Romance",1997-06-27,"Ron Clements, John Musker",253
+673,674,X-Men: Dark Phoenix,5.7,113,2019,"Action, Adventure, Sci-Fi",2019-06-07,Simon Kinberg,252
+674,675,True Grit,7.6,110,2010,"Drama, Western",2010-12-22,"Ethan Coen, Joel Coen",252
+675,676,Dolittle,5.6,101,2020,"Adventure, Comedy, Family, Fantasy",2020-01-17,Stephen Gaghan,251
+676,677,Bean,6.5,89,1997,"Adventure, Comedy, Family",1997-11-07,Mel Smith,251
+677,678,American Hustle,7.2,138,2013,"Crime, Drama",2013-12-20,David O. Russell,251
+678,679,Enemy of the State,7.3,132,1998,"Action, Thriller",1998-11-20,Tony Scott,251
+679,680,You've Got Mail,6.7,119,1998,"Comedy, Drama, Romance",1998-12-18,Nora Ephron,251
+680,681,Sound of Freedom,7.6,131,2023,"Biography, Crime, Drama, History, Thriller",2023-07-04,Alejandro Monteverde,251
+681,682,Eragon,5.1,104,2006,"Action, Adventure, Family, Fantasy",2006-12-15,Stefen Fangmeier,250
+682,683,Brother Bear,6.9,85,2003,"Animation, Adventure, Comedy, Drama, Family, Fantasy, Musical",2003-09-21,"Aaron Blaise, Robert Walker",250
+683,684,The Bad Guys,6.8,100,2022,"Animation, Adventure, Comedy, Crime, Family",2022-04-22,Pierre Perifel,250
+684,685,The Godfather,9.2,175,1972,"Crime, Drama",1972-03-24,Francis Ford Coppola,250
+685,686,The Mask of Zorro,6.8,136,1998,"Action, Adventure, Comedy, Romance, Thriller, Western",1998-07-17,Martin Campbell,250
+686,687,Love Actually,7.6,135,2003,"Comedy, Drama, Romance",2003-11-14,Richard Curtis,250
+687,688,The Ring,7.1,115,2002,"Horror, Mystery",2002-10-18,Gore Verbinski,249
+688,689,The Blair Witch Project,6.5,81,1999,"Horror, Mystery",1999-07-30,"Daniel Myrick, Eduardo Sánchez",249
+689,690,Unbreakable,7.3,106,2000,"Drama, Mystery, Sci-Fi, Thriller",2000-11-22,M. Night Shyamalan,248
+690,691,Journey to the West: The Demons Strike Back,5.4,109,2017,"Adventure, Comedy, Fantasy",2017-02-03,Hark Tsui,248
+691,692,Dumb and Dumber,7.3,107,1994,Comedy,1994-12-16,"Peter Farrelly, Bobby Farrelly",247
+692,693,Glass,6.6,129,2019,"Drama, Horror, Sci-Fi, Thriller",2019-01-18,M. Night Shyamalan,247
+693,694,Grown Ups 2,5.4,101,2013,Comedy,2013-07-12,Dennis Dugan,247
+694,695,The Peanuts Movie,7.0,88,2015,"Animation, Adventure, Comedy, Drama, Family",2015-11-06,Steve Martino,246
+695,696,Rango,7.3,107,2011,"Animation, Action, Adventure, Comedy, Family, Western",2011-03-04,Gore Verbinski,246
+696,697,Four Weddings and a Funeral,7.1,117,1994,"Comedy, Drama, Romance",1994-04-15,Mike Newell,246
+697,698,Face/Off,7.3,138,1997,"Action, Crime, Sci-Fi, Thriller",1997-06-27,John Woo,246
+698,699,Teenage Mutant Ninja Turtles: Out of the Shadows,5.9,112,2016,"Action, Adventure, Comedy, Crime, Fantasy, Sci-Fi",2016-06-03,Dave Green,246
+699,700,Dark Shadows,6.2,113,2012,"Comedy, Fantasy, Horror",2012-05-11,Tim Burton,246
+700,701,Hulk,5.6,138,2003,"Action, Sci-Fi",2003-06-20,Ang Lee,245
+701,702,The Bravest,5.7,118,2019,"Action, Drama",2019-08-09,Tony Chan,245
+702,703,Welcome to the Sticks,7.1,106,2008,"Comedy, Romance",2008-02-27,Dany Boon,245
+703,704,Back to the Future Part III,7.4,118,1990,"Adventure, Comedy, Sci-Fi, Western",1990-05-25,Robert Zemeckis,245
+704,705,Pixels,5.6,105,2015,"Action, Comedy, Fantasy, Sci-Fi",2015-07-24,Chris Columbus,245
+705,706,Hercules,6.0,98,2014,"Action, Adventure, Fantasy",2014-07-25,Brett Ratner,245
+706,707,Rush Hour,7.0,98,1998,"Action, Comedy, Crime, Thriller",1998-09-18,Brett Ratner,245
+707,708,Journey to the Center of the Earth,5.8,93,2008,"Action, Adventure, Family, Fantasy, Sci-Fi",2008-07-11,Eric Brevig,244
+708,709,Sully,7.4,96,2016,"Biography, Drama",2016-09-09,Clint Eastwood,244
+709,710,After Earth,4.8,100,2013,"Action, Adventure, Sci-Fi",2013-05-31,M. Night Shyamalan,244
+710,711,A Few Good Men,7.7,138,1992,"Drama, Thriller",1992-12-11,Rob Reiner,243
+711,712,Cloudy with a Chance of Meatballs,6.9,90,2009,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi",2009-09-18,"Phil Lord, Christopher Miller",243
+712,713,8 Mile,7.2,110,2002,"Drama, Music",2002-11-08,Curtis Hanson,243
+713,714,Daddy's Home,6.2,96,2015,"Comedy, Family",2015-12-25,Sean Anders,243
+714,715,RoboCop,6.1,117,2014,"Action, Crime, Sci-Fi, Thriller",2014-02-12,José Padilha,243
+715,716,Eraser,6.2,115,1996,"Action, Crime, Thriller",1996-06-21,Chuck Russell,242
+716,717,Alien: Covenant,6.4,122,2017,"Horror, Sci-Fi, Thriller",2017-05-19,Ridley Scott,241
+717,718,Assassin's Creed,5.6,115,2016,"Action, Adventure, Sci-Fi",2016-12-21,Justin Kurzel,241
+718,719,Click,6.4,107,2006,"Comedy, Drama, Fantasy, Romance",2006-06-23,Frank Coraci,241
+719,720,Jiang Ziya,6.5,110,2020,"Animation, Action, Adventure, Drama, Family, Fantasy",2020-10-01,"Teng Cheng, Li Wei",241
+720,721,Planes,5.7,91,2013,"Animation, Adventure, Comedy, Family, Fantasy, Sport",2013-08-09,Klay Hall,240
+721,722,Resident Evil: Retribution,5.3,95,2012,"Action, Horror, Sci-Fi, Thriller",2012-09-14,Paul W.S. Anderson,240
+722,723,Die Hard 2,7.1,124,1990,"Action, Thriller",1990-07-03,Renny Harlin,240
+723,724,Crocodile Dundee II,5.7,111,1988,"Action, Adventure, Comedy",1988-05-25,John Cornell,240
+724,725,Crazy Rich Asians,6.9,120,2018,"Comedy, Drama, Romance",2018-08-15,Jon M. Chu,239
+725,726,Bullet Train,7.3,127,2022,"Action, Comedy, Thriller",2022-08-05,David Leitch,239
+726,727,Batman & Robin,3.8,125,1997,"Action, Sci-Fi",1997-06-20,Joel Schumacher,238
+727,728,Howl's Moving Castle,8.2,119,2004,"Animation, Adventure, Family, Fantasy",2005-06-17,Hayao Miyazaki,238
+728,729,Gulliver's Travels,4.9,85,2010,"Adventure, Comedy, Family, Fantasy",2010-12-25,Rob Letterman,237
+729,730,Gone in 60 Seconds,6.5,118,2000,"Action, Crime, Thriller",2000-06-09,Dominic Sena,237
+730,731,Green Lantern,5.5,114,2011,"Action, Adventure, Sci-Fi",2011-06-17,Martin Campbell,237
+731,732,Saturday Night Fever,6.8,118,1977,"Drama, Music",1977-12-16,John Badham,237
+732,733,Silver Linings Playbook,7.7,122,2012,"Comedy, Drama, Romance",2012-12-25,David O. Russell,236
+733,734,2 Fast 2 Furious,5.9,107,2003,"Action, Crime, Thriller",2003-06-06,John Singleton,236
+734,735,Hidden Figures,7.8,127,2016,"Biography, Drama, History",2017-01-06,Theodore Melfi,236
+735,736,A.I. Artificial Intelligence,7.2,146,2001,"Adventure, Drama, Sci-Fi",2001-06-29,Steven Spielberg,236
+736,737,Dead Poets Society,8.1,128,1989,"Comedy, Drama",1989-06-09,Peter Weir,236
+737,738,Spy,7.0,120,2015,"Action, Comedy",2015-06-05,Paul Feig,236
+738,739,American Pie,7.0,95,1999,Comedy,1999-07-09,"Paul Weitz, Chris Weitz",235
+739,740,American Reunion,6.7,113,2012,Comedy,2012-04-06,"Jon Hurwitz, Hayden Schlossberg",235
+740,741,Big Daddy,6.4,93,1999,"Comedy, Drama",1999-06-25,Dennis Dugan,235
+741,742,Alvin and the Chipmunks: The Road Chip,4.9,92,2015,"Adventure, Comedy, Family, Fantasy, Music, Musical",2015-12-18,Walt Becker,235
+742,743,The Imitation Game,8.0,114,2014,"Biography, Drama, Thriller, War",2014-12-25,Morten Tyldum,234
+743,744,Cruella,7.3,134,2021,"Adventure, Comedy, Crime, Drama",2021-05-28,Craig Gillespie,234
+744,745,The Day the Earth Stood Still,5.5,104,2008,"Adventure, Drama, Sci-Fi, Thriller",2008-12-12,Scott Derrickson,233
+745,746,American Wedding,6.3,96,2003,Comedy,2003-08-01,Jesse Dylan,233
+746,747,The Girl with the Dragon Tattoo,7.8,158,2011,"Crime, Drama, Mystery, Thriller",2011-12-21,David Fincher,233
+747,748,Juno,7.4,96,2007,"Comedy, Drama",2007-12-25,Jason Reitman,232
+748,749,Argo,7.7,120,2012,"Biography, Drama, History, Thriller",2012-10-12,Ben Affleck,232
+749,750,Mr. Bean's Holiday,6.4,90,2007,"Comedy, Family",2007-08-24,Steve Bendelack,232
+750,751,The English Patient,7.4,162,1996,"Drama, Romance, War",1996-12-06,Anthony Minghella,232
+751,752,Sister Act,6.5,100,1992,"Comedy, Family, Music",1992-05-29,Emile Ardolino,232
+752,753,Annabelle Comes Home,5.9,106,2019,"Horror, Mystery, Thriller",2019-06-26,Gary Dauberman,231
+753,754,Constantine,7.0,121,2005,"Action, Fantasy, Horror, Mystery",2005-02-18,Francis Lawrence,231
+754,755,Get Smart,6.5,110,2008,"Action, Adventure, Comedy",2008-06-20,Peter Segal,231
+755,756,Space Jam,6.5,88,1996,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi, Sport",1996-11-15,Joe Pytka,231
+756,757,Life Is Beautiful,8.6,116,1997,"Comedy, Drama, Romance, War",1997-12-20,Roberto Benigni,230
+757,758,The Heat,6.6,117,2013,"Action, Comedy, Crime",2013-06-28,Paul Feig,230
+758,759,Ghostbusters,6.8,117,2016,"Action, Comedy, Fantasy, Sci-Fi",2016-07-15,Paul Feig,229
+759,760,Elf,7.1,97,2003,"Adventure, Comedy, Family, Fantasy, Romance",2003-11-07,Jon Favreau,229
+760,761,Ghost Rider,5.3,110,2007,"Action, Fantasy, Thriller",2007-02-16,Mark Steven Johnson,229
+761,762,Goodbye Mr. Loser,6.7,104,2015,"Comedy, Drama, Fantasy, Romance",2015-09-30,"Da-Mo Peng, Fei Yan",228
+762,763,Sleepless in Seattle,6.8,105,1993,"Comedy, Drama, Romance",1993-06-25,Nora Ephron,228
+763,764,Lethal Weapon 2,7.3,114,1989,"Action, Crime, Thriller",1989-07-07,Richard Donner,228
+764,765,The Green Hornet,5.8,119,2011,"Action, Comedy, Crime",2011-01-14,Michel Gondry,228
+765,766,Out of Africa,7.1,161,1985,"Biography, Drama, Romance",1985-12-20,Sydney Pollack,228
+766,767,Paddington 2,7.8,103,2017,"Adventure, Comedy, Family",2018-01-12,Paul King,227
+767,768,Youth,7.0,135,2017,"Drama, Romance, War",2017-12-15,Xiaogang Feng,227
+768,769,Baby Driver,7.5,113,2017,"Action, Crime, Drama, Music",2017-06-28,Edgar Wright,227
+769,770,Immortals,6.0,110,2011,"Action, Drama, Fantasy, Romance",2011-11-11,Tarsem Singh,227
+770,771,Taken,7.7,90,2008,"Action, Crime, Thriller",2009-01-30,Pierre Morel,227
+771,772,Percy Jackson & the Olympians: The Lightning Thief,5.9,118,2010,"Adventure, Family, Fantasy",2010-02-12,Chris Columbus,226
+772,773,Lightyear,6.1,105,2022,"Animation, Action, Adventure, Comedy, Family, Sci-Fi",2022-08-03,Angus MacLane,226
+773,774,Hansel & Gretel: Witch Hunters,6.1,88,2013,"Action, Fantasy, Horror",2013-01-25,Tommy Wirkola,226
+774,775,Valerian and the City of a Thousand Planets,6.4,136,2017,"Action, Adventure, Fantasy, Sci-Fi",2017-07-21,Luc Besson,226
+775,776,Good Will Hunting,8.3,126,1997,"Drama, Romance",1998-01-09,Gus Van Sant,226
+776,777,Better Days,7.6,135,2019,"Crime, Drama, Romance, Thriller",2019-10-25,Derek Tsang,226
+777,778,Ford v Ferrari,8.1,152,2019,"Action, Biography, Drama, Sport",2019-11-15,James Mangold,226
+778,779,Jumper,6.1,88,2008,"Action, Adventure, Sci-Fi, Thriller",2008-02-14,Doug Liman,225
+779,780,The Social Network,7.8,120,2010,"Biography, Drama",2010-10-01,David Fincher,225
+780,781,Chicken Run,7.1,84,2000,"Animation, Adventure, Comedy, Drama, Family",2000-06-23,"Peter Lord, Nick Park",225
+781,782,Con Air,6.9,115,1997,"Action, Crime, Thriller",1997-06-06,Simon West,224
+782,783,Interview with the Vampire: The Vampire Chronicles,7.5,123,1994,"Drama, Fantasy, Horror",1994-11-11,Neil Jordan,224
+783,784,Flightplan,6.3,98,2005,"Drama, Mystery, Thriller",2005-09-23,Robert Schwentke,223
+784,785,Yes Man,6.8,104,2008,"Comedy, Romance",2008-12-19,Peyton Reed,223
+785,786,Non-Stop,6.9,106,2014,"Action, Mystery, Thriller",2014-02-28,Jaume Collet-Serra,223
+786,787,"Honey, I Shrunk the Kids",6.4,93,1989,"Adventure, Comedy, Family, Sci-Fi",1989-06-23,Joe Johnston,223
+787,788,Fahrenheit 9/11,7.5,122,2004,"Documentary, Drama, War",2004-06-25,Michael Moore,222
+788,789,Wild Wild West,4.9,106,1999,"Action, Comedy, Sci-Fi, Western",1999-06-30,Barry Sonnenfeld,222
+789,790,Geostorm,5.3,109,2017,"Action, Sci-Fi, Thriller",2017-10-20,Dean Devlin,222
+790,791,"My Country, My Parents",6.1,157,2021,Drama,2021-09-30,"Teng Shen, Jing Wu, Zheng Xu, Ziyi Zhang",222
+791,792,The Help,8.1,146,2011,Drama,2011-08-10,Tate Taylor,222
+792,793,Napoleon,6.4,158,2023,"Action, Adventure, Biography, Drama, History, War",2023-11-22,Ridley Scott,221
+793,794,Presumed Innocent,6.9,127,1990,"Mystery, Thriller",1990-07-27,Alan J. Pakula,221
+794,795,Jungle Cruise,6.6,127,2021,"Action, Adventure, Comedy, Fantasy",2021-07-30,Jaume Collet-Serra,221
+795,796,A Quiet Place: Day One,6.4,99,2024,"Drama, Horror, Sci-Fi, Thriller",2024-06-28,Michael Sarnoski,221
+796,797,Scary Movie 3,5.5,84,2003,Comedy,2003-10-24,David Zucker,221
+797,798,Collateral,7.5,120,2004,"Action, Crime, Drama, Thriller",2004-08-06,Michael Mann,220
+798,799,Anyone But You,6.1,103,2023,"Comedy, Romance",2023-12-22,Will Gluck,220
+799,800,Inferno,6.2,121,2016,"Action, Adventure, Crime, Drama, Mystery, Thriller",2016-10-28,Ron Howard,220
+800,801,Knocked Up,6.9,129,2007,"Comedy, Romance",2007-06-01,Judd Apatow,220
+801,802,What Happens in Vegas,6.1,99,2008,"Comedy, Romance",2008-05-09,Tom Vaughan,219
+802,803,It's Complicated,6.5,120,2009,"Comedy, Drama, Romance",2009-12-25,Nancy Meyers,219
+803,804,The Terminal,7.4,128,2004,"Comedy, Drama, Romance",2004-06-18,Steven Spielberg,219
+804,805,The Garfield Movie,5.7,101,2024,"Animation, Adventure, Comedy, Family, Fantasy",2024-05-24,Mark Dindal,219
+805,806,Little Women,7.8,135,2019,"Drama, Romance",2019-12-25,Greta Gerwig,219
+806,807,Captain Phillips,7.8,134,2013,"Action, Biography, Crime, Drama, Thriller",2013-10-11,Paul Greengrass,219
+807,808,The Prince of Egypt,7.2,99,1998,"Animation, Adventure, Drama, Family, Fantasy, Musical",1998-12-18,"Brenda Chapman, Steve Hickner, Simon Wells",219
+808,809,Jack Reacher,7.0,130,2012,"Action, Mystery, Thriller",2012-12-21,Christopher McQuarrie,218
+809,810,Kingdom of Heaven,7.3,144,2005,"Action, Adventure, Drama, History, War",2005-05-06,Ridley Scott,218
+810,811,Smallfoot,6.6,96,2018,"Animation, Adventure, Comedy, Drama, Family, Fantasy, Musical",2018-09-28,"Karey Kirkpatrick, Jason Reisig",218
+811,812,The Emoji Movie,3.4,86,2017,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi",2017-07-28,Tony Leondis,218
+812,813,Smile,6.5,115,2022,"Horror, Mystery, Thriller",2022-09-30,Parker Finn,217
+813,814,Too Cool to Kill,6.1,109,2022,Comedy,2022-02-01,"Wenxiong Xing, Ru Qian",217
+814,815,Dracula Untold,6.2,92,2014,"Action, Drama, Fantasy, Horror",2014-10-10,Gary Shore,217
+815,816,Central Intelligence,6.3,107,2016,"Action, Comedy, Crime",2016-06-17,Rawson Marshall Thurber,217
+816,817,Million Dollar Baby,8.1,132,2004,"Drama, Sport",2005-01-28,Clint Eastwood,217
+817,818,Twins,6.2,107,1988,"Comedy, Crime",1988-12-09,Ivan Reitman,217
+818,819,Valentine's Day,5.7,125,2010,"Comedy, Romance",2010-02-12,Garry Marshall,217
+819,820,Superman II,6.8,127,1980,"Action, Adventure, Sci-Fi",1981-06-19,Richard Lester,216
+820,821,Bad Teacher,5.7,92,2011,"Comedy, Romance",2011-06-24,Jake Kasdan,216
+821,822,A Little Red Flower,6.7,122,2020,"Drama, Family",2020-12-31,Yan Han,216
+822,823,The Croods: A New Age,6.9,95,2020,"Animation, Adventure, Comedy, Family, Fantasy",2020-11-25,Joel Crawford,216
+823,824,Clear and Present Danger,6.9,141,1994,"Action, Crime, Drama, Thriller",1994-08-03,Phillip Noyce,216
+824,825,One Hundred and One Dalmatians,7.3,79,1961,"Animation, Adventure, Comedy, Family",1961-01-25,"Clyde Geronimi, Hamilton Luske, Wolfgang Reitherman",216
+825,826,Ted 2,6.3,115,2015,Comedy,2015-06-26,Seth MacFarlane,216
+826,827,Bram Stoker's Dracula,7.4,128,1992,"Fantasy, Horror, Romance",1992-11-13,Francis Ford Coppola,216
+827,828,Vertical Limit,5.9,124,2000,"Action, Adventure, Drama, Sport, Thriller",2000-12-08,Martin Campbell,216
+828,829,Ghostbusters II,6.6,108,1989,"Action, Comedy, Fantasy, Sci-Fi",1989-06-16,Ivan Reitman,215
+829,830,The Patriot,7.2,165,2000,"Action, Drama, History, War",2000-06-28,Roland Emmerich,215
+830,831,The Sorcerer's Apprentice,6.1,109,2010,"Action, Adventure, Family, Fantasy",2010-07-14,Jon Turteltaub,215
+831,832,Just Go with It,6.4,117,2011,"Comedy, Romance",2011-02-11,Dennis Dugan,215
+832,833,The Expendables 3,6.1,126,2014,"Action, Adventure, Thriller",2014-08-15,Patrick Hughes,215
+833,834,Dirty Dancing,7.1,100,1987,"Drama, Music, Romance",1987-08-21,Emile Ardolino,215
+834,835,Creed II,7.1,130,2018,"Action, Drama, Sport",2018-11-21,Steven Caple Jr.,214
+835,836,Public Enemies,6.9,140,2009,"Action, Biography, Crime, Drama, History",2009-07-01,Michael Mann,214
+836,837,The Bourne Identity,7.8,119,2002,"Action, Mystery, Thriller",2002-06-14,Doug Liman,214
+837,838,Disclosure,6.2,128,1994,"Drama, Thriller",1994-12-09,Barry Levinson,214
+838,839,"Crouching Tiger, Hidden Dragon",7.9,120,2000,"Action, Adventure, Drama, Fantasy, Romance",2001-01-12,Ang Lee,214
+839,840,Pulp Fiction,8.9,154,1994,"Crime, Drama",1994-10-14,Quentin Tarantino,214
+840,841,The Aviator,7.5,170,2004,"Biography, Drama",2004-12-25,Martin Scorsese,214
+841,842,Braveheart,8.3,178,1995,"Biography, Drama, War",1995-05-24,Mel Gibson,213
+842,843,Into the Woods,5.9,125,2014,"Adventure, Comedy, Drama, Family, Fantasy, Musical",2014-12-25,Rob Marshall,213
+843,844,Bedtime Stories,6.0,99,2008,"Adventure, Comedy, Family, Fantasy, Romance, Sci-Fi",2008-12-25,Adam Shankman,213
+844,845,Miss Congeniality,6.3,109,2000,"Action, Comedy, Crime, Romance",2000-12-22,Donald Petrie,213
+845,846,Entrapment,6.3,113,1999,"Action, Crime, Romance, Thriller",1999-04-30,Jon Amiel,212
+846,847,Ace Ventura: When Nature Calls,6.4,90,1995,"Adventure, Comedy, Crime",1995-11-10,Steve Oedekerk,212
+847,848,End of Days,5.8,122,1999,"Action, Fantasy, Horror, Thriller",1999-11-24,Peter Hyams,212
+848,849,Bridget Jones's Baby,6.5,123,2016,"Comedy, Drama, Romance",2016-09-16,Sharon Maguire,212
+849,850,Fury,7.6,134,2014,"Action, Drama, War",2014-10-17,David Ayer,212
+850,851,Battle Los Angeles,5.7,116,2011,"Action, Adventure, Sci-Fi",2011-03-11,Jonathan Liebesman,212
+851,852,Australia,6.6,165,2008,"Adventure, Drama, Romance, War, Western",2008-11-26,Baz Luhrmann,212
+852,853,Due Date,6.5,95,2010,"Comedy, Drama",2010-11-05,Todd Phillips,212
+853,854,Master and Commander: The Far Side of the World,7.5,138,2003,"Action, Adventure, Drama, War",2003-11-14,Peter Weir,212
+854,855,A Series of Unfortunate Events,6.8,108,2004,"Adventure, Comedy, Family, Fantasy",2004-12-17,Brad Silberling,211
+855,856,The Little Mermaid,7.6,83,1989,"Animation, Adventure, Family, Fantasy, Musical, Romance",1989-11-17,"Ron Clements, John Musker",211
+856,857,Nice View,6.7,106,2022,"Comedy, Drama",2022-02-01,Muye Wen,211
+857,858,District 9,7.9,112,2009,"Action, Sci-Fi, Thriller",2009-08-14,Neill Blomkamp,211
+858,859,Moonraker,6.2,126,1979,"Action, Adventure, Sci-Fi, Thriller",1979-06-29,Lewis Gilbert,210
+859,860,The Others,7.6,104,2001,"Horror, Mystery, Thriller",2001-08-10,Alejandro Amenábar,210
+860,861,Horrible Bosses,6.9,98,2011,"Comedy, Crime",2011-07-08,Seth Gordon,210
+861,862,Trolls Band Together,6.0,91,2023,"Animation, Adventure, Comedy, Family, Fantasy, Musical",2023-11-17,"Walt Dohrn, Tim Heitz",209
+862,863,Us and Them,7.4,120,2018,"Drama, Romance",2018-06-22,Rene Liu,209
+863,864,Red Dragon,7.2,124,2002,"Crime, Drama, Thriller",2002-10-04,Brett Ratner,209
+864,865,Tomorrowland,6.4,130,2015,"Action, Adventure, Family, Fantasy, Mystery, Sci-Fi",2015-05-22,Brad Bird,209
+865,866,Me Before You,7.4,110,2016,"Drama, Romance",2016-06-03,Thea Sharrock,208
+866,867,Dungeons & Dragons: Honor Among Thieves,7.2,134,2023,"Action, Adventure, Comedy, Fantasy",2023-03-31,"John Francis Daley, Jonathan Goldstein",208
+867,868,Safe House,6.7,115,2012,"Action, Thriller",2012-02-10,Daniel Espinosa,208
+868,869,S.W.A.T.,6.1,117,2003,"Action, Adventure, Crime, Thriller",2003-08-08,Clark Johnson,208
+869,870,DC League of Super-Pets,7.1,105,2022,"Animation, Action, Adventure, Comedy, Crime, Family, Fantasy, Sci-Fi",2022-07-29,"Jared Stern, Sam J. Levine",208
+870,871,The Fast and the Furious,6.8,106,2001,"Action, Crime, Thriller",2001-06-22,Rob Cohen,208
+871,872,Traffic,7.6,147,2000,"Crime, Drama, Thriller",2001-01-05,Steven Soderbergh,208
+872,873,Paranormal Activity 3,5.8,83,2011,"Horror, Mystery, Thriller",2011-10-21,"Henry Joost, Ariel Schulman",207
+873,874,Philadelphia,7.7,125,1993,Drama,1994-01-14,Jonathan Demme,207
+874,875,The Conjuring: The Devil Made Me Do It,6.3,112,2021,"Horror, Mystery, Thriller",2021-06-04,Michael Chaves,206
+875,876,The Marvels,5.5,105,2023,"Action, Adventure, Fantasy",2023-11-10,Nia DaCosta,206
+876,877,Sleepy Hollow,7.3,105,1999,"Fantasy, Horror, Mystery",1999-11-19,Tim Burton,206
+877,878,The Holiday,6.9,136,2006,"Comedy, Romance",2006-12-08,Nancy Meyers,206
+878,879,The Jungle Book,7.6,78,1967,"Animation, Adventure, Comedy, Family, Musical",1967-10-18,Wolfgang Reitherman,206
+879,880,Raging Fire,6.5,126,2021,"Action, Adventure, Crime, Mystery, Thriller",2021-07-30,"Benny Chan, Shane Comley-White",206
+880,881,London Has Fallen,5.9,99,2016,"Action, Thriller",2016-03-04,Babak Najafi,206
+881,882,The Break-Up,5.8,106,2006,"Comedy, Drama, Romance",2006-06-02,Peyton Reed,206
+882,883,Journey to the West: Conquering the Demons,6.7,110,2013,"Action, Adventure, Comedy, Fantasy, Romance",2013-02-07,"Stephen Chow, Chi-Kin Kwok",206
+883,884,The Ugly Truth,6.4,96,2009,"Comedy, Romance",2009-07-24,Robert Luketic,206
+884,885,Birds of Prey,6.1,109,2020,"Action, Comedy, Crime",2020-02-07,Cathy Yan,206
+885,886,JFK,8.0,189,1991,"Drama, History, Thriller",1991-12-20,Oliver Stone,205
+886,887,White House Down,6.3,131,2013,"Action, Drama, Thriller",2013-06-28,Roland Emmerich,205
+887,888,Ponyo,7.6,101,2008,"Animation, Adventure, Comedy, Family, Fantasy",2009-08-14,Hayao Miyazaki,205
+888,889,A Dog's Purpose,7.2,100,2017,"Adventure, Comedy, Drama, Family, Fantasy",2017-01-27,Lasse Hallström,205
+889,890,Fun with Dick and Jane,6.2,90,2005,"Comedy, Crime",2005-12-21,Dean Parisot,205
+890,891,Eat Pray Love,5.8,133,2010,"Biography, Drama, Romance",2010-08-13,Ryan Murphy,205
+891,892,The Addams Family,5.8,86,2019,"Animation, Comedy, Family, Fantasy, Horror",2019-10-11,"Greg Tiernan, Conrad Vernon",204
+892,893,Ghostbusters: Afterlife,7.0,124,2021,"Adventure, Comedy, Fantasy, Sci-Fi",2021-11-19,Jason Reitman,204
+893,894,You Don't Mess with the Zohan,5.6,113,2008,"Action, Comedy",2008-06-06,Dennis Dugan,204
+894,895,Hairspray,6.7,117,2007,"Comedy, Drama, Musical, Romance",2007-07-20,Adam Shankman,204
+895,896,King Arthur,6.3,126,2004,"Action, Adventure, Drama, War",2004-07-07,Antoine Fuqua,204
+896,897,Yogi Bear,4.6,80,2010,"Animation, Adventure, Comedy, Family",2010-12-17,Eric Brevig,204
+897,898,Everest,7.1,121,2015,"Action, Adventure, Biography, Drama, Thriller",2015-09-25,Baltasar Kormákur,203
+898,899,Arrival,7.9,116,2016,"Drama, Mystery, Sci-Fi",2016-11-11,Denis Villeneuve,203
+899,900,Vanilla Sky,6.9,136,2001,"Fantasy, Mystery, Romance, Sci-Fi, Thriller",2001-12-14,Cameron Crowe,203
+900,901,Need for Speed,6.4,132,2014,"Action, Crime, Thriller",2014-03-14,Scott Waugh,203
+901,902,Garfield: The Movie,5.0,80,2004,"Adventure, Comedy, Family, Fantasy",2004-06-11,Peter Hewitt,203
+902,903,Patch Adams,6.8,115,1998,"Biography, Comedy, Drama, Romance",1998-12-25,Tom Shadyac,202
+903,904,PAW Patrol: The Mighty Movie,5.9,88,2023,"Animation, Action, Adventure, Comedy, Crime, Family, Fantasy, Sci-Fi",2023-09-29,Cal Brunker,202
+904,905,Teenage Mutant Ninja Turtles,6.8,93,1990,"Action, Adventure, Comedy, Family, Sci-Fi",1990-03-30,Steve Barron,202
+905,906,Kindergarten Cop,6.2,111,1990,"Action, Comedy, Crime",1990-12-21,Ivan Reitman,202
+906,907,Ghostbusters: Frozen Empire,6.1,115,2024,"Adventure, Comedy, Fantasy, Sci-Fi",2024-03-22,Gil Kenan,202
+907,908,Straight Outta Compton,7.8,147,2015,"Biography, Drama, History, Music",2015-08-14,F. Gary Gray,202
+908,909,21 Jump Street,7.2,109,2012,"Action, Comedy, Crime",2012-03-16,"Phil Lord, Christopher Miller",202
+909,910,Valkyrie,7.1,121,2008,"Drama, History, Thriller, War",2008-12-25,Bryan Singer,202
+910,911,Open Season,6.1,86,2006,"Animation, Adventure, Comedy, Family",2006-09-29,"Roger Allers, Jill Culton, Anthony Stacchi",201
+911,912,Cats & Dogs,5.2,87,2001,"Action, Adventure, Comedy, Family, Fantasy",2001-07-04,Lawrence Guterman,201
+912,913,The Hunt for Red October,7.5,135,1990,"Action, Adventure, Thriller",1990-03-02,John McTiernan,201
+913,914,Percy Jackson: Sea of Monsters,5.7,106,2013,"Adventure, Family, Fantasy",2013-08-07,Thor Freudenthal,200
+914,915,The Lego Movie 2: The Second Part,6.5,107,2019,"Animation, Action, Adventure, Comedy, Family, Fantasy, Musical, Sci-Fi",2019-02-08,Mike Mitchell,200
+915,916,Two Weeks Notice,6.1,101,2002,"Comedy, Romance",2002-12-20,Marc Lawrence,199
+916,917,RED,7.0,111,2010,"Action, Comedy, Crime, Thriller",2010-10-15,Robert Schwentke,199
+917,918,Shock Wave 2,6.6,120,2020,"Action, Crime, Thriller",2021-03-22,"Herman Yau, Shane Comley-White",199
+918,919,City of Angels,6.7,114,1998,"Drama, Fantasy, Romance",1998-04-10,Brad Silberling,199
+919,920,The Pacifier,5.6,95,2005,"Action, Comedy, Drama, Family",2005-03-04,Adam Shankman,199
+920,921,50 First Dates,6.8,99,2004,"Comedy, Drama, Romance",2004-02-13,Peter Segal,199
+921,922,Total Recall,6.2,118,2012,"Action, Adventure, Sci-Fi, Thriller",2012-08-03,Len Wiseman,198
+922,923,The Island,6.2,134,2018,"Comedy, Drama",2018-08-10,Huang Bo,198
+923,924,The Impossible,7.5,114,2012,"Drama, History, Thriller",2013-01-04,J.A. Bayona,198
+924,925,Lost in Thailand,6.2,105,2012,"Adventure, Comedy, Drama",2013-01-31,Zheng Xu,198
+925,926,Christopher Robin,7.2,104,2018,"Adventure, Comedy, Drama, Family, Fantasy, Musical",2018-08-03,Marc Forster,198
+926,927,Jack the Giant Slayer,6.3,114,2013,"Action, Adventure, Fantasy",2013-03-01,Bryan Singer,198
+927,928,Smurfs: The Lost Village,6.0,90,2017,"Animation, Adventure, Comedy, Family, Fantasy",2017-04-07,Kelly Asbury,197
+928,929,Chinese Doctors,4.7,129,2021,Drama,2021-07-09,Andrew Lau,197
+929,930,Spy Kids 3: Game Over,4.4,84,2003,"Action, Adventure, Comedy, Family, Sci-Fi",2003-07-25,Robert Rodriguez,197
+930,931,Panic Room,6.8,112,2002,"Crime, Drama, Thriller",2002-03-29,David Fincher,197
+931,932,The Other Woman,6.0,109,2014,"Comedy, Romance",2014-04-25,Nick Cassavetes,197
+932,933,Stargate,7.0,116,1994,"Action, Adventure, Sci-Fi",1994-10-28,Roland Emmerich,197
+933,934,Beowulf,6.3,115,2007,"Animation, Action, Adventure, Fantasy",2007-11-16,Robert Zemeckis,196
+934,935,The Vow,6.8,104,2012,"Drama, Romance",2012-02-10,Michael Sucsy,196
+935,936,Anger Management,6.3,106,2003,Comedy,2003-04-11,Peter Segal,196
+936,937,Tropic Thunder,7.1,107,2008,"Action, Comedy, War",2008-08-13,Ben Stiller,196
+937,938,Rocketman,7.3,121,2019,"Biography, Drama, Music, Musical",2019-05-31,Dexter Fletcher,195
+938,939,The Pelican Brief,6.6,141,1993,"Crime, Drama, Mystery, Thriller",1993-12-17,Alan J. Pakula,195
+939,940,The Shape of Water,7.3,123,2017,"Drama, Fantasy, Romance, Sci-Fi",2017-12-22,Guillermo del Toro,195
+940,941,The BFG,6.3,117,2016,"Adventure, Family, Fantasy",2016-07-01,Steven Spielberg,195
+941,942,The Intern,7.1,121,2015,"Comedy, Drama",2015-09-25,Nancy Meyers,195
+942,943,Downton Abbey,7.4,122,2019,"Drama, Romance",2019-09-20,Michael Engler,195
+943,944,Gnomeo & Juliet,5.9,84,2011,"Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance",2011-02-11,Kelly Asbury,194
+944,945,The Sum of All Fears,6.5,124,2002,"Action, Drama, Thriller, War",2002-05-31,Phil Alden Robinson,194
+945,946,Gangs of New York,7.5,167,2002,"Crime, Drama",2002-12-20,Martin Scorsese,194
+946,947,The Post,7.2,116,2017,"Biography, Drama, History, Thriller, War",2018-01-12,Steven Spielberg,194
+947,948,The Monkey King 2,5.9,119,2016,"Action, Adventure, Fantasy",2016-02-05,Soi Cheang,194
+948,949,Paranormal Activity,6.3,86,2007,"Horror, Mystery",2009-10-16,Oren Peli,193
+949,950,The Lost City,6.1,112,2022,"Action, Adventure, Comedy, Romance",2022-03-25,"Aaron Nee, Adam Nee",193
+950,951,Weathering with You,7.5,112,2019,"Animation, Drama, Fantasy, Romance",2020-01-17,Makoto Shinkai,193
+951,952,Wallace & Gromit: The Curse of the Were-Rabbit,7.5,85,2005,"Animation, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",2005-10-07,"Steve Box, Nick Park",193
+952,953,The Equalizer,7.2,132,2014,"Action, Crime, Thriller",2014-09-26,Antoine Fuqua,192
+953,954,Sheep Without a Shepherd,6.8,112,2019,"Crime, Drama, Thriller",2019-12-20,Sam Quah,192
+954,955,The Addams Family,6.9,99,1991,"Comedy, Fantasy",1991-11-22,Barry Sonnenfeld,192
+955,956,The Longest Yard,6.4,113,2005,"Comedy, Crime, Sport",2005-05-27,Peter Segal,191
+956,957,The Equalizer 3,6.8,109,2023,"Action, Crime, Thriller",2023-09-01,Antoine Fuqua,191
+957,958,The Santa Clause,6.6,97,1994,"Comedy, Drama, Family, Fantasy",1994-11-11,John Pasquin,191
+958,959,Cheaper by the Dozen,5.9,98,2003,"Comedy, Family",2003-12-25,Shawn Levy,191
+959,960,The Equalizer 2,6.7,121,2018,"Action, Crime, Thriller",2018-07-20,Antoine Fuqua,190
+960,961,Abominable,7.0,97,2019,"Animation, Adventure, Comedy, Family, Fantasy",2019-09-27,"Jill Culton, Todd Wilderman",190
+961,962,Hollow Man,5.8,112,2000,"Action, Horror, Sci-Fi, Thriller",2000-08-04,Paul Verhoeven,190
+962,963,Outbreak,6.6,127,1995,"Action, Drama, Thriller",1995-03-10,Wolfgang Petersen,190
+963,964,The White Storm 2: Drug Lords,6.0,99,2019,"Action, Crime",2019-07-12,Herman Yau,189
+964,965,The X Files,7.0,121,1998,"Drama, Mystery, Sci-Fi, Thriller",1998-06-19,Rob Bowman,189
+965,966,Insidious: The Red Door,5.5,107,2023,"Horror, Mystery, Thriller",2023-07-07,Patrick Wilson,189
+966,967,Breakup Buddies,6.4,116,2014,"Comedy, Drama, Romance",2014-10-03,Hao Ning,189
+967,968,Rambo III,5.8,102,1988,"Action, Adventure, Thriller",1988-05-25,Peter MacDonald,189
+968,969,The Secret Life of Walter Mitty,7.3,114,2013,"Adventure, Comedy, Drama, Fantasy, Romance",2013-12-25,Ben Stiller,188
+969,970,Project Gutenberg,6.8,130,2018,"Action, Crime, Mystery, Thriller",2018-10-05,Felix Chong,188
+970,971,Jaws 2,5.8,116,1978,"Adventure, Horror, Thriller",1978-06-16,Jeannot Szwarc,188
+971,972,12 Years a Slave,8.1,134,2013,"Biography, Drama, History",2013-11-08,Steve McQueen,188
+972,973,Heat,8.3,170,1995,"Action, Crime, Drama",1995-12-15,Michael Mann,187
+973,974,Mr. Popper's Penguins,6.0,94,2011,"Comedy, Family, Fantasy",2011-06-17,Mark Waters,187
+974,975,The Grudge,5.9,91,2004,"Horror, Mystery, Thriller",2004-10-22,Takashi Shimizu,187
+975,976,I Now Pronounce You Chuck & Larry,5.9,115,2007,"Comedy, Romance",2007-07-20,Dennis Dugan,187
+976,977,The Horse Whisperer,6.7,169,1998,"Drama, Romance, Western",1998-05-15,Robert Redford,187
+977,978,Walk the Line,7.8,136,2005,"Biography, Drama, Music, Romance",2005-11-18,James Mangold,187
+978,979,Jian Bing Man,5.6,113,2015,Comedy,2015-07-24,Da Peng,187
+979,980,The Jungle Book 2,5.3,72,2003,"Animation, Adventure, Comedy, Family, Music, Musical",2003-03-21,Steve Trenbirth,186
+980,981,The Final Destination,5.1,82,2009,"Horror, Thriller",2009-08-28,David R. Ellis,186
+981,982,Atlantis: The Lost Empire,6.9,95,2001,"Animation, Action, Adventure, Family, Fantasy, Sci-Fi",2001-06-15,"Gary Trousdale, Kirk Wise",186
+982,983,Inside Man,7.6,129,2006,"Crime, Drama, Mystery, Thriller",2006-03-24,Spike Lee,186
+983,984,The Waterboy,6.2,90,1998,"Comedy, Sport",1998-11-06,Frank Coraci,186
+984,985,IF,6.5,104,2024,"Animation, Comedy, Drama, Family, Fantasy",2024-05-17,John Krasinski,186
+985,986,Hugo,7.5,126,2011,"Adventure, Drama, Family, Fantasy, Mystery",2011-11-23,Martin Scorsese,186
+986,987,Pitch Perfect 3,5.8,93,2017,"Comedy, Music",2017-12-22,Trish Sie,185
+987,988,Watchmen,7.6,162,2009,"Action, Drama, Mystery, Sci-Fi",2009-03-06,Zack Snyder,185
+988,989,The Birdcage,7.2,117,1996,Comedy,1996-03-08,Mike Nichols,185
+989,990,Snow White and the Seven Dwarfs,7.6,83,1937,"Animation, Adventure, Family, Fantasy, Musical, Romance",1938-02-04,"William Cottrell, David Hand, Wilfred Jackson, Larry Morey, Perce Pearce, Ben Sharpsteen",185
+990,991,Moulin Rouge!,7.6,127,2001,"Drama, Musical, Romance",2001-06-01,Baz Luhrmann,185
+991,992,Ode to My Father,7.8,126,2014,"Drama, War",2014-12-17,JK Youn,185
+992,993,Hop,5.4,95,2011,"Animation, Adventure, Comedy, Family, Fantasy",2011-04-01,Tim Hill,184
+993,994,Jupiter Ascending,5.3,127,2015,"Action, Adventure, Sci-Fi",2015-02-06,"Lana Wachowski, Lilly Wachowski",184
+994,995,Bad Moms,6.2,100,2016,Comedy,2016-07-29,"Jon Lucas, Scott Moore",184
+995,996,Storks,6.8,87,2016,"Animation, Adventure, Comedy, Family, Fantasy",2016-09-23,"Nicholas Stoller, Doug Sweetland",184
+996,997,Knowing,6.2,121,2009,"Action, Mystery, Sci-Fi, Thriller",2009-03-20,Alex Proyas,184
+997,998,102 Dalmatians,4.8,100,2000,"Adventure, Comedy, Family",2000-11-22,"Michael D Moore, Kevin Lima",184
+998,999,Stand by Me Doraemon,7.3,95,2014,"Animation, Comedy, Drama, Family, Sci-Fi",2014-10-24,"Tony Oliver, Ryuichi Yagi, Takashi Yamazaki",183
+999,1000,The Hitman's Bodyguard,6.9,118,2017,"Action, Comedy, Crime, Thriller",2017-08-18,Patrick Hughes,183

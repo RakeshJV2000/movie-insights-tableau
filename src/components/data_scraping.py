@@ -7,6 +7,7 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 import json
+from src.utils import save_object
 
 @dataclass
 class DataScrapingConfig:
@@ -15,7 +16,7 @@ class DataScrapingConfig:
 
 class DataScraping:
     def __init__(self):
-        self.ingestion_config = DataScrapingConfig()
+        self.scraping_config = DataScrapingConfig()
         self.headers = {
                         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
                     }
@@ -76,18 +77,12 @@ class DataScraping:
                     )
                 ]
                 logging.info("Data scraping successfully completed")
+
                 movies = json.dumps(movies)
-                return movies
+                obj = pd.read_json(movies)
+                save_object(self.scraping_config.data_path, obj)
 
-        except Exception as e:
-            raise CustomException(e, sys)
-
-    def save_csv_file(self, movies):
-        try:
-            os.makedirs(os.path.dirname(self.ingestion_config.data_path), exist_ok=True)
-            df = pd.read_json(movies)
-            df.to_csv(self.ingestion_config.data_path)
-            logging.info("Data saved as CSV file")
+                logging.info("Data saved as CSV file")
 
         except Exception as e:
             raise CustomException(e, sys)
@@ -95,8 +90,7 @@ class DataScraping:
 
 if __name__ == "__main__":
     obj = DataScraping()
-    movies = obj.initiate_data_scraping("http://www.imdb.com/list/ls098063263/")
-    obj.save_csv_file(movies)
+    obj.initiate_data_scraping("http://www.imdb.com/list/ls098063263/")
 
 
 
